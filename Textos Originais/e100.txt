@@ -1,0 +1,2833 @@
+[e100_t0.txt]
+We shall respect the inspector's wishes and leave the murder case alone, Luke.<W>
+!------------------------------!
+ &SetAni 0 talk_hands&It's as Inspector Chelmey said. Solving crime is the police's job.<W>
+!------------------------------!
+ &SetAni 0 smile&Besides, something tells me that this case and the Golden Apple are more related than we realise.
+!******************************!
+[e100_t1.txt]
+<@3>That's that intuition of yours talking again, isn't it, Professor?
+!******************************!
+[e100_t2.txt]
+<@3>So, what's our next move?
+!******************************!
+[e100_t3.txt]
+First and foremost, we need to find a clue that will bring us closer to the Golden Apple.<W>
+!------------------------------!
+ Perhaps one of Baron Reinhold's relations or close friends can help point us in the right direction.<W>
+!------------------------------!
+ &SetAni 0 smile&Of course, there's also someone else...<W> Let's see if the butler has anything to say on the subject.
+!******************************!
+[e101_t0.txt]
+<@3>Oh, look who it is! Professor Ladle, was it?
+!******************************!
+[e101_t1.txt]
+The name's Layton, madam.
+!******************************!
+[e101_t2.txt]
+<@3>Oh, that's right, Professor Layton.<W>
+!------------------------------!
+ All that talking about the mansion we did last time got me reminiscing, so I decided to stop by for a visit.<W>
+!------------------------------!
+ But enough about me! By the look on your face, it seems that you have something you want to ask me.
+!******************************!
+[e101_t3.txt]
+As a matter of fact, I do. Do you happen to know who #rBaron Reinhold considered his close friends#x?
+!******************************!
+[e101_t4.txt]
+<@3>&SetAni 2 pachi&His friends, you say...<W> Well...<W>
+!------------------------------!
+ &SetAni 2 talk&He wasn't exactly what you'd call a social butterfly.<W> I'm sorry, that's all I can remember.<W>
+!------------------------------!
+ Oh, wait a moment.<W> I do believe I saw that Zappone fellow pay a visit to the mansion a few times.&SetAni 2 pachi&
+!******************************!
+[e101_t5.txt]
+<@3>Professor, could she be referring to that man we met?
+!******************************!
+[e101_t6.txt]
+Ah, yes, that gentleman with the fancy little moustache!<W> We should ask if he knows anything.<W>
+!------------------------------!
+ I would wager he's still hanging around that fork in the road just beyond the clock tower.
+!******************************!
+[e102_t0.txt]
+<@3>This park has been closed every time we've come by. Why do you suppose that is, Professor?
+!******************************!
+[e102_t1.txt]
+Hmm. I haven't the foggiest idea. Perhaps we should ask someone at the village hall.
+!******************************!
+[e102_t2.txt]
+<@3>Huh, it's still locked shut.<W> Just when will this place open?
+!******************************!
+[e102_t3.txt]
+I wouldn't get your hopes up. The gate's covered in dust.<W> I don't think anyone's been here for a long time.
+!******************************!
+[e102_t4.txt]
+We need to find someone  to open this gate.
+!******************************!
+[e103_t0.txt]
+Not being a member of high society myself, I've never so much as had a conversation with Baron Reinhold.<W>
+!------------------------------!
+ Now, laddie, much as I'd like to keep chatting, I'm awfully tired. I think I need to go and lie down.
+!******************************!
+[e103_t1.txt]
+Are you feeling unwell, sir?
+!******************************!
+[e103_t2.txt]
+I'm just exhausted lately. It's that awful noise coming from the tower, you see.<W>
+!------------------------------!
+ It's got so loud I can't sleep a wink at night.
+!******************************!
+[e103_t3.txt]
+Do you know what's causing the noise?
+!******************************!
+[e103_t4.txt]
+It's just a rumour, but I hear that every time that sound rips through St Mystere, someone disappears.<W>
+!------------------------------!
+ They say the ones who go missing are people who've been talking about feeling tired.
+!******************************!
+[e103_t5.txt]
+But those who disappear are back before you know it, so it's probably just a load of poppycock.
+!******************************!
+[e103_t6.txt]
+Whenever the noise occurs, someone disappears... Interesting.
+!******************************!
+[e103_t7.txt]
+<@3>Do you think the peculiar sound has anything to do with that strange old man who kidnapped Ramon?
+!******************************!
+[e103_t8.txt]
+It's certainly a possibility, isn't it?<W>
+!------------------------------!
+ But why would he release his victims after going through the trouble of kidnapping them?
+!******************************!
+[e103_t9.txt]
+If you're looking for Zappone, you can probably find him loafing around by the fork in the road.
+!******************************!
+[e104_t0.txt]
+Luke, we must head to the manor now. We mustn't keep Inspector Chelmey waiting.
+!******************************!
+[e104_t1.txt]
+<@3>You're right, Professor.<W> But I do wish we didn't have to talk to that grumpy old man again.
+!******************************!
+[e104_t2.txt]
+Event Text104_2[[0D]] 
+!******************************!
+[e105_t0.txt]
+What's that you say? The gate to the park is locked shut?
+!******************************!
+[e105_t1.txt]
+No, no, no, that's impossible. We've employed a caretaker who should have everything up and running.
+!******************************!
+[e105_t10.txt]
+<@3>Oh, right, the one on the path to the park.<W> Well, it's a dirty job, but someone has to do it.
+!******************************!
+[e105_t11.txt]
+Off we go!
+!******************************!
+[e105_t2.txt]
+Be that as it may, the gate is locked shut, and we can't gain entrance to the place...<W>
+!------------------------------!
+ Would you please open it for us?
+!******************************!
+[e105_t3.txt]
+That sort of thing is the job of the park caretaker. I strongly advise you to go and find him.
+!******************************!
+[e105_t4.txt]
+Well, where do you think we might find this caretaker?
+!******************************!
+[e105_t5.txt]
+Hmm. Now that's a good question, isn't it?<W> Managing the park is the caretaker's duty...<W>
+!------------------------------!
+ But who knows who manages the caretaker?<W> I can't say. It's not one of my duties.
+!******************************!
+[e105_t6.txt]
+<@3>&SetAni 1 shout&What bureaucracy!
+!******************************!
+[e105_t7.txt]
+He manages the village sewer systems as well.<W>
+!------------------------------!
+ Now unless you have some form you need to fill in, I strongly advise you to get out.
+!******************************!
+[e105_t8.txt]
+<@3>Gosh, he's rude.
+!******************************!
+[e105_t9.txt]
+The sewers? Unpleasant as it might be, it is one place we haven't searched yet.<W>
+!------------------------------!
+ Perhaps we will find a clue to our mystery down there. I've only seen one manhole in the village.
+!******************************!
+[e106_t0.txt]
+Hello, there! Now what can I do for you fellows?
+!******************************!
+[e106_t1.txt]
+You're the park caretaker, are you not? Would you mind opening up the gate to the park for us?
+!******************************!
+[e106_t10.txt]
+Is there anything we can do to help, then?
+!******************************!
+[e106_t11.txt]
+Funny you should mention that. If I could just work out the area on this map, I'd be done in a jiffy.<W>
+!------------------------------!
+ You any good with things like that?
+!******************************!
+[e106_t12.txt]
+You lads must really want into me park.<W> Well, solve this puzzle and I'll get you in.
+!******************************!
+[e106_t13.txt]
+Fine work, the both of you! Soon as I take care of this little puzzle, I'll open that gate for you.
+!******************************!
+[e106_t14.txt]
+There! That should take care of this mess!<W> Now let's open up the park, eh?
+!******************************!
+[e106_t15.txt]
+Just hold on one second here...
+!******************************!
+[e106_t16.txt]
+Hard, isn't it? I can't make heads or tails of it meself. Sorry, it looks like the park will have to wait. 
+!******************************!
+[e106_t2.txt]
+You want to go to the park? Well, you lads are certainly curious.
+!******************************!
+[e106_t3.txt]
+...There we are. The park is yours to explore now.
+!******************************!
+[e106_t4.txt]
+<@3>Professor, we're in!
+!******************************!
+[e106_t5.txt]
+Thank you. You've been a great help, sir.
+!******************************!
+[e106_t6.txt]
+Ha ha ha! I hardly need thanking, sir. After all, this is me job.
+!******************************!
+[e106_t7.txt]
+Way back when, I used to keep it open every day, but these villagers, they don't care at all for me park. 
+!******************************!
+[e106_t8.txt]
+I'm glad you fellows stopped by. It's the first time in a while I've had to do me job.
+!******************************!
+[e106_t9.txt]
+Well, I'd like to open it up for you, but I've got to finish this repair job here before I do anything.
+!******************************!
+[e107_t0.txt]
+<@1>All right, people, I'll be taking statements from each of you in the other room. Come in one by one.
+!******************************!
+[e107_t1.txt]
+<@1>No one leaves this house until I've got a statement from each and every one of you!
+!******************************!
+[e107_t2.txt]
+<@1>I thought I made myself clear. Nobody is going anywhere until I have statements from each of you!
+!******************************!
+[e108_t0.txt]
+Event Text108_0[[0D]] 
+!******************************!
+[e108_t1.txt]
+Event Text108_1[[0D]] 
+!******************************!
+[e108_t10.txt]
+I'm sorry to say I have no idea. But I thought it might be a clue, so I made sure to hold on to it.
+!******************************!
+[e108_t11.txt]
+Amazing! It's a cog so small that one could search the room and miss it.<W> Look, it has an engraving.
+!******************************!
+[e108_t2.txt]
+Matthew, did you notice any strange characters around the manor at the time of the incident?
+!******************************!
+[e108_t3.txt]
+Not a soul, I'm afraid.
+!******************************!
+[e108_t4.txt]
+I-I didn't even know about Master Simon until Inspector Chelmey showed up.
+!******************************!
+[e108_t5.txt]
+And where is Simon's body now?
+!******************************!
+[e108_t6.txt]
+I didn't see this, but I was told that the inspector carried the body out shortly after arriving.
+!******************************!
+[e108_t7.txt]
+I see...<W> Well, it looks like for the moment we are without a lead on this case.
+!******************************!
+[e108_t8.txt]
+Ah, but you know, I found this in the room where Master Simon's body was discovered.
+!******************************!
+[e108_t9.txt]
+What is this?
+!******************************!
+[e109_t0.txt]
+Is it true what they're saying about a murder at Reinhold Manor?
+!******************************!
+[e109_t1.txt]
+A murder in our little village! The very thought gives me the shivers. And a great idea for a novel!
+!******************************!
+[e109_t10.txt]
+<@3>There's something really scary about that tower...
+!******************************!
+[e109_t2.txt]
+Oh, excuse my insensitivity. I'm just always on the lookout for new ideas. How can I help you?
+!******************************!
+[e109_t3.txt]
+<@3>We're looking for Ramon. Have you seen him around?
+!******************************!
+[e109_t4.txt]
+Hmm, no, I can't say that I've seen him today.
+!******************************!
+[e109_t5.txt]
+But if your search has turned up nothing, he's probably at the park, or in the tower...<W>
+!------------------------------!
+ You know, somewhere the villagers don't normally go.
+!******************************!
+[e109_t6.txt]
+<@3>The tower, huh...
+!******************************!
+[e109_t7.txt]
+Oh, you should stay as far from that tower as possible. There are all sorts of bad rumours about it.
+!******************************!
+[e109_t8.txt]
+<@3>It does seem that way. We keep running into people who say that.<W> Just what are the rumours?
+!******************************!
+[e109_t9.txt]
+Just, you know, bad stuff...
+!******************************!
+[e110_t0.txt]
+I hear you've been investigating St Mystere. Feel free to continue, but stay away from that tower.<W>
+!------------------------------!
+ That place brings misfortune upon the village, and I strongly advise you to keep your distance.
+!******************************!
+[e111_t0.txt]
+<@3>What kind of lout just throws rubbish on the ground?<W> I'm going to pick it up.
+!******************************!
+[e111_t1.txt]
+<@3>It's an old newspaper.<@W>2 Honestly, you'd think that everyone would know that rubbish goes in the bin...<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Wait a second! You have to take a look at this article!
+!******************************!
+[e111_t2.txt]
+Well, would you look at that! It seems to be Inspector Chelmey!
+!******************************!
+[e111_t3.txt]
+Ha ha ha! Look at that: "Chelmey Hailed as Brilliant Detective and Devoted Husband."
+!******************************!
+[e111_t4.txt]
+#r"Chelmey Hailed as Brilliant Detective and Devoted Husband."#x
+!******************************!
+[e111_t5.txt]
+#r"Chelmey celebrates each successful case with his favourite treat, his wife's cakes."#x
+!******************************!
+[e111_t6.txt]
+<@3>Wow. Who saw that one coming? He's so gruff that I never imagined he had a soft side like that.<W>
+!------------------------------!
+ &SetAni 1 smile&Heh heh heh! Just look at that old grump grinning over his plate of cakes!<W>
+!------------------------------!
+ I knew he was fussing over nothing when he said he hated cakes back at Reinhold Manor!
+!******************************!
+[e111_t7.txt]
+Hmm...<W> That's right, Luke, he did say that. How very curious...
+!******************************!
+[e112_t0.txt]
+<@1>So, is it true what I'm hearing about the two of you?<W>
+!------------------------------!
+ Are you really searching the village for the Reinhold fortune?
+!******************************!
+[e112_t1.txt]
+That's correct, sir. Currently we're in search of a close friend of Baron Reinhold's.<W>
+!------------------------------!
+ We believe he has entrusted this friend with an important note.
+!******************************!
+[e112_t10.txt]
+Understood.
+!******************************!
+[e112_t11.txt]
+<@1>Hrmm, not there yet.<W> I can't let you examine that desk until you have 50 puzzles to your name.
+!******************************!
+[e112_t12.txt]
+<@1>I'm sure Gus wouldn't mind two fine puzzle lovers such as yourselves looking over his desk.<W>
+!------------------------------!
+ Hrmm...<W> Actually, let me impart a few pearls of wisdom on you while I've got your attention.<W>
+!------------------------------!
+ Focusing on your case is all well and good, but if you don't solve some puzzles, you'll be sorry later.<W>
+!------------------------------!
+ So make an effort to find puzzles around the village and just solve the ones you can.<W>
+!------------------------------!
+ Take it from this old-timer. It's good to stop and smell the puzzles sometimes.
+!******************************!
+[e112_t13.txt]
+<@1>All right, I'll get off my high horse now. Let's head on over to my house. Follow me.
+!******************************!
+[e112_t14.txt]
+<@1>This is Gus's old desk. Take all the time you need to examine it.
+!******************************!
+[e112_t15.txt]
+Splendid. Luke, let's get right to it.
+!******************************!
+[e112_t2.txt]
+<@1>Gracious, that's quite a search you have on your hands. <W>
+!------------------------------!
+ Oh, excuse me. My name is Archibald. Gus- I mean, the baron and I were great friends. Thick as thieves!<W>
+!------------------------------!
+ We used to have the most amazing conversations late into the night...<W>
+!------------------------------!
+ Do you think that perhaps I am the one you're searching for?
+!******************************!
+[e112_t3.txt]
+Yes, I think so! What luck that after all this searching, we should bump into you in a place like this.<W>
+!------------------------------!
+ I have one question.<W> Do you recall ever receiving a small note or written message from the baron?
+!******************************!
+[e112_t4.txt]
+<@1>Hrmm... No, I don't remember ever receiving anything of the sort from Gus.
+!******************************!
+[e112_t5.txt]
+<@1>But he did give me a fine desk that once belonged to him. It's at home. Maybe it holds some kind of clue.
+!******************************!
+[e112_t6.txt]
+The baron's desk, you say? Excellent!
+!******************************!
+[e112_t7.txt]
+<@1>Would you like to come over to my house and take a look at it?
+!******************************!
+[e112_t8.txt]
+You are most gracious. If you'd be kind enough to allow us a look at it, we would be very grateful.
+!******************************!
+[e112_t9.txt]
+<@1>It's fine with me.<W> Just one thing, though. You see, Gus and I both loved puzzles.<W>
+!------------------------------!
+ It just wouldn't be right to let two strangers who haven't even solved 50 puzzles examine his belongings.<W>
+!------------------------------!
+ When you have 50 puzzles to your name, come and pay this old man another visit, all right?<W>
+!------------------------------!
+ The number of puzzles you have solved is indicated by that number above your map of the village.<W>
+!------------------------------!
+ If you two can manage to solve 50 puzzles, I'll happily take you to see Gus's desk.
+!******************************!
+[e113_t0.txt]
+I can't assist you any further, can I? 
+!******************************!
+[e114_t0.txt]
+It seems to be a note...
+!******************************!
+[e114_t1.txt]
+It may point us in the direction of the Golden Apple.
+!******************************!
+[e114_t2.txt]
+<@3>What do you make of this X?
+!******************************!
+[e114_t3.txt]
+Hmm...<W> I'm afraid I just don't know  at the moment.
+!******************************!
+[e115_t0.txt]
+<@1>Sorry to interrupt you, but I just received a call for you from the innkeeper, Beatrice.
+!******************************!
+[e115_t1.txt]
+<@1>It seems she's concerned about one of her guests, and she'd like your thoughts on the problem.
+!******************************!
+[e115_t2.txt]
+Well, we'd best go and help her. Thank you, Archibald.
+!******************************!
+[e115_t3.txt]
+Now off to the inn we go, Luke.
+!******************************!
+[e116_t0.txt]
+Welcome back, Professor. I've been so looking forward to your return!
+!******************************!
+[e116_t1.txt]
+Thank you. Was there something you wished to discuss with me?
+!******************************!
+[e116_t2.txt]
+Oh my, yes! Listen to this. One of the guests here just performed a doze-and-dash routine on me!
+!******************************!
+[e116_t3.txt]
+The man's gone, and so are all his things. I'd like you to bring him back.<W>
+!------------------------------!
+ I am a businesswoman, after all! How can I run a business with scoundrels running out on their bill like this?
+!******************************!
+[e116_t4.txt]
+Would you mind if I looked around the man's room?
+!******************************!
+[e116_t5.txt]
+Please do. Look at it all you want. Here, I'll show you in.
+!******************************!
+[e116_t6.txt]
+Event Text116_6[[0D]] 
+!******************************!
+[e116_t7.txt]
+Event Text116_7[[0D]] 
+!******************************!
+[e117_t0.txt]
+<@3>Yuck!
+!******************************!
+[e117_t1.txt]
+<@3>What an absolute pigsty! This whole place stinks of smoke, and there's rubbish everywhere!
+!******************************!
+[e117_t10.txt]
+Event Text117_10[[0D]] 
+!******************************!
+[e117_t2.txt]
+Beatrice, can you describe this guest's appearance for me?
+!******************************!
+[e117_t3.txt]
+Well...
+!******************************!
+[e117_t4.txt]
+He had a sharp moustache. Aaaand it was pretty clear he wasn't from around here. That was obvious.
+!******************************!
+[e117_t5.txt]
+<@3>A moustache... Reeks of smoke...
+!******************************!
+[e117_t6.txt]
+<@3>Oh!<W>
+!------------------------------!
+ &SetAni 2 shout&Do you suppose she could be talking about Inspector Chelmey?
+!******************************!
+[e117_t7.txt]
+Inspector Chelmey? Isn't he the self-important windbag who's been up at Reinhold Manor?<W>
+!------------------------------!
+ &SetAni 0 talk_big&No, that's not him. The man who stayed here just looked so much more...evil.<W>
+!------------------------------!
+ He was wearing a long trenchcoat. I'm sure you know the type. Oh, where could he have run off to?!<W>
+!------------------------------!
+ &SetAni 0 talk&Sorry to ask this, Professor, but would you be a darling and find the thief who skipped out on his bill?
+!******************************!
+[e117_t8.txt]
+Event Text117_8[[0D]] 
+!******************************!
+[e117_t9.txt]
+Event Text117_9[[0D]] 
+!******************************!
+[e118_t0.txt]
+<@3>&SetAni 0 talk&"Be a darling and find the thief who skipped out on his bill."<W>
+!------------------------------!
+ Honestly, how are we ever going to make progress in our search for the Golden Apple?<W>
+!------------------------------!
+ &SetAni 1 talk&Things aren't looking good. No one knows anything about the item in question, and we have no leads.<W>
+!------------------------------!
+ I'm beginning to wonder if this Golden Apple that everyone is in a flap over even exists.
+!******************************!
+[e118_t1.txt]
+Event Text118_1[[0D]] 
+!******************************!
+[e118_t2.txt]
+Now, Luke, I wouldn't say we're without ANY leads.<W>
+!------------------------------!
+ Think, my boy! There's a place in St Mystere that every villager has warned us to stay away from.
+!******************************!
+[e118_t3.txt]
+<@3>What do you mean?
+!******************************!
+[e118_t4.txt]
+The tower, Luke.
+!******************************!
+[e118_t5.txt]
+No matter who we ask, no one seems to know a thing about the place.<W>
+!------------------------------!
+ But suppose for a moment that the tower has something to do with the Golden Apple.<W>
+!------------------------------!
+ Then it follows that the people of St Mystere, scared to go near the tower, wouldn't know anything.
+!******************************!
+[e118_t6.txt]
+<@3>Of course! We need to investigate that tower!
+!******************************!
+[e118_t7.txt]
+The tower marks the far northern border of St Mystere.<W>
+!------------------------------!
+ Let's search the road north of the market for a route to the tower.
+!******************************!
+[e119_t0.txt]
+<@3>I think this is a dead end.
+!******************************!
+[e119_t1.txt]
+And this does appear to be the only road, doesn't it...
+!******************************!
+[e119_t2.txt]
+<@3>Gosh, that tower does look awfully ominous, doesn't it?<W>
+!------------------------------!
+ Seeing it up close, I can understand why the villagers are so scared of the place.
+!******************************!
+[e119_t3.txt]
+Let's take a closer look at this wall. There might be more to it than meets the eye.
+!******************************!
+[e120_t0.txt]
+Event Text120_0[[0D]] 
+!******************************!
+[e120_t1.txt]
+Event Text120_1[[0D]] 
+!******************************!
+[e120_t2.txt]
+Event Text120_2[[0D]] 
+!******************************!
+[e120_t3.txt]
+Event Text120_3[[0D]] 
+!******************************!
+[e120_t4.txt]
+Event Text120_4[[0D]] 
+!******************************!
+[e120_t5.txt]
+Event Text120_5[[0D]] 
+!******************************!
+[e120_t6.txt]
+Event Text120_6[[0D]] 
+!******************************!
+[e120_t7.txt]
+Event Text120_7[[0D]] 
+!******************************!
+[e120_t8.txt]
+Event Text120_8[[0D]] 
+!******************************!
+[e121_t0.txt]
+<@3>What in the world was that about?
+!******************************!
+[e121_t1.txt]
+<@3>Professor, what's this?
+!******************************!
+[e121_t2.txt]
+<@3>A Ferris wheel ticket?
+!******************************!
+[e121_t3.txt]
+Very curious indeed...<W> Luke, that girl may have dropped this to tell us where we should head next.
+!******************************!
+[e121_t4.txt]
+<@3>But...but why would she want to help us?
+!******************************!
+[e121_t5.txt]
+Your guess is as good as mine, Luke. Still, I can't help but feel that she's trying to help us.
+!******************************!
+[e121_t6.txt]
+<@3>Well, your intuition hasn't ever been wrong. Let's see what we can find around the park's Ferris wheel!
+!******************************!
+[e121_t7.txt]
+<@1>Nyeh heh heh! That's right, Layton, go straight to the park!<W>
+!------------------------------!
+ You've been a thorn in my side for too long. I think it's about time for you to disappear...<W>for good.
+!******************************!
+[e121_t8.txt]
+<@3>...Huh?
+!******************************!
+[e122_t0.txt]
+#rClose friends of the baron#x?<W> Well, I myself had the pleasure of meeting Baron Reinhold a few times...
+!******************************!
+[e122_t1.txt]
+<@3>But you weren't a close friend of his?
+!******************************!
+[e122_t10.txt]
+<@3>I guess Zappone can't really tell us much of anything.
+!******************************!
+[e122_t11.txt]
+Yes, I'm afraid he was no help at all.<W> I suppose that means we're back where we started.<W>
+!------------------------------!
+ But at least we can be sure that this close friend we're after is a resident of St Mystere.<W>
+!------------------------------!
+ We mustn't give up, Luke. Let's continue to ask around.
+!******************************!
+[e122_t2.txt]
+Me? <W> Ha ha ha! Oh, no, I was nothing of the sort.
+!******************************!
+[e122_t3.txt]
+I see... Can you think of anyone at all who was friendly with Baron Reinhold?
+!******************************!
+[e122_t4.txt]
+I might know someone...<W> Actually, no, I don't...<W> Or do I? Hmm...<W> Now let me think...
+!******************************!
+[e122_t5.txt]
+Event Text122_5[[0D]] 
+!******************************!
+[e122_t6.txt]
+Event Text122_6[[0D]] 
+!******************************!
+[e122_t7.txt]
+Event Text122_7[[0D]] 
+!******************************!
+[e122_t8.txt]
+Event Text122_8[[0D]] 
+!******************************!
+[e122_t9.txt]
+Event Text122_9[[0D]] 
+!******************************!
+[e123_t0.txt]
+<@3>This park is really kind of sad, isn't it? It's all rusty and abandoned.
+!******************************!
+[e123_t1.txt]
+It's just as Sylvain said. It seems that no one's set foot in this park for a dreadfully long time.
+!******************************!
+[e123_t2.txt]
+Now, on to business. Let's give the grounds around the Ferris wheel a thorough once-over.<W>
+!------------------------------!
+ I expect we'll find something of interest there.
+!******************************!
+[e124_t0.txt]
+<@3>Look, Professor, there's a strange little shed here.
+!******************************!
+[e124_t1.txt]
+Interesting. It seems this shed pumps water to the sewer pipes.<W> I feel this warrants a closer look.
+!******************************!
+[e124_t2.txt]
+Hmm.
+!******************************!
+[e124_t3.txt]
+It doesn't appear that the door will open. Let's move on and explore the rest of the park, Luke.
+!******************************!
+[e125_t0.txt]
+<@3>This place is so run down, it looks like it hasn't been touched in years.<W>
+!------------------------------!
+ What a shame! I bet it used to be a fun place. There's even a big top, the kind you see at the circus.
+!******************************!
+[e125_t1.txt]
+Yes, there is something quite sad about it, isn't there?<W>
+!------------------------------!
+ &SetAni 0 talk&...How strange. This was clearly a travelling carnival, so why was it left to rot here in St Mystere?
+!******************************!
+[e125_t2.txt]
+<@3>I bet the Ferris wheel is a mess too.<@W>2 I suppose I won't get to use that ride ticket we picked up.
+!******************************!
+[e125_t3.txt]
+Well, we have better things to do than ride that thing, don't we?<W>
+!------------------------------!
+ &SetAni 0 talk&Somewhere in this park hides a clue to finding the Golden Apple. I'm sure of it.
+!******************************!
+[e126_t0.txt]
+This must be the Ferris wheel we were looking for.<W>
+!------------------------------!
+ Luke, why don't you look around and see if anything seems odd about it.
+!******************************!
+[e126_t1.txt]
+<@3>Will do, Professor!
+!******************************!
+[e126_t10.txt]
+I suppose my intuition failed us this time, Luke.<W>
+!------------------------------!
+ &SetAni 0 talk_hands&Come, let's head back to the heart of St Mystere and search for our next lead.
+!******************************!
+[e126_t2.txt]
+Hmm.
+!******************************!
+[e126_t3.txt]
+<@3>Hmm.
+!******************************!
+[e126_t4.txt]
+Did you find anything out of the ordinary, Luke?
+!******************************!
+[e126_t5.txt]
+<@3>No, not a thing. Maybe there's no secret hidden in this Ferris wheel after all.
+!******************************!
+[e126_t6.txt]
+That remains to be seen. Let's look around a bit more, shall we?
+!******************************!
+[e126_t7.txt]
+Event Text126_7[[0D]] 
+!******************************!
+[e126_t8.txt]
+<@3>So in the end, that ticket we picked up turned out to be meaningless?
+!******************************!
+[e126_t9.txt]
+So it seems...
+!******************************!
+[e127_t0.txt]
+Event Text127_0[[0D]] 
+!******************************!
+[e127_t1.txt]
+Event Text127_1[[0D]] 
+!******************************!
+[e127_t10.txt]
+Event Text127_10[[0D]] 
+!******************************!
+[e127_t2.txt]
+Event Text127_2[[0D]] 
+!******************************!
+[e127_t3.txt]
+Event Text127_3[[0D]] 
+!******************************!
+[e127_t4.txt]
+Event Text127_4[[0D]] 
+!******************************!
+[e127_t5.txt]
+Event Text127_5[[0D]] 
+!******************************!
+[e127_t6.txt]
+Event Text127_6[[0D]] 
+!******************************!
+[e127_t7.txt]
+Event Text127_7[[0D]] 
+!******************************!
+[e127_t8.txt]
+Event Text127_8[[0D]] 
+!******************************!
+[e127_t9.txt]
+Event Text127_9[[0D]] 
+!******************************!
+[e128_t0.txt]
+<@3>Whew, whew, whew...
+!******************************!
+[e128_t1.txt]
+Wh-why would the Ferris wheel...
+!******************************!
+[e128_t10.txt]
+<@3>I'm right behind you, Professor!
+!******************************!
+[e128_t2.txt]
+<@3>Professor, look what happened to the shed!
+!******************************!
+[e128_t3.txt]
+The Ferris wheel must have simply destroyed it.
+!******************************!
+[e128_t4.txt]
+<@3>If we'd made a wrong step back there, we'd be rubble too!
+!******************************!
+[e128_t5.txt]
+<@3><@W>2.<@W>2.<@W>2.Oh, my.
+!******************************!
+[e128_t6.txt]
+<@3>Mm<@W>2.<@W>2.<@W>2.
+!******************************!
+[e128_t7.txt]
+<@3>I think I've found something here, Professor! What could that be?
+!******************************!
+[e128_t8.txt]
+Now, what's an entrance to the sewers doing here?
+!******************************!
+[e128_t9.txt]
+This could well be an underground passage to the tower. We've got to take a look below. Come.
+!******************************!
+[e129_t0.txt]
+<@3>Look, there's a sort of stone tablet embedded in the wall!
+!******************************!
+[e129_t1.txt]
+This is clearly some kind of puzzle. I'd wager the solution will tell us the direction in which to proceed.
+!******************************!
+[e129_t2.txt]
+We can't proceed until we solve this puzzle, Luke.
+!******************************!
+[e129_t3.txt]
+With its secret revealed, we needn't examine this tablet any further.<W>
+!------------------------------!
+ Come, Luke. We must press on.
+!******************************!
+[e129_t4.txt]
+There's our answer. We will proceed down the left corridor.
+!******************************!
+[e129_t5.txt]
+<@3>Understood, Professor!
+!******************************!
+[e129_t6.txt]
+<@3>I'm embarrassed to admit that this puzzle has me stumped.
+!******************************!
+[e129_t7.txt]
+Not to worry, my boy. Take a moment to collect your thoughts and then try again.
+!******************************!
+[e130_t0.txt]
+<@3>Something's hidden behind here.
+!******************************!
+[e130_t1.txt]
+All right. Let's move the picture out of the way then.
+!******************************!
+[e130_t2.txt]
+<@3>What's this here?
+!******************************!
+[e130_t3.txt]
+It appears to be some sort of key.
+!******************************!
+[e130_t4.txt]
+<@3>But what does it unlock?
+!******************************!
+[e130_t5.txt]
+We won't know until we investigate further.<W> But this shape certainly looks familiar...
+!******************************!
+[e130_t6.txt]
+<@3>Professor, could this be...?
+!******************************!
+[e130_t7.txt]
+It looks just like<@w>2.<@w>2.<@w>2.the tower.
+!******************************!
+[e130_t8.txt]
+I knew there was something odd about that dead end.<W> Perhaps this key will shed some light on things.
+!******************************!
+[e130_t9.txt]
+Luke, we need to head back to that large wall on the north side of St Mystere.<W>
+!------------------------------!
+ I have a hunch that it's more than just a dead end.
+!******************************!
+[e131_t0.txt]
+<@3>Let's investigate that dead end right away!
+!******************************!
+[e131_t1.txt]
+All right, Luke. But first let's make a quick visit to the inn. There's something I need to check there.
+!******************************!
+[e131_t2.txt]
+<@3>Why the inn, Professor?
+!******************************!
+[e131_t3.txt]
+It seems that someone doesn't want us around, Luke. Someone is, in fact, after us.<W>
+!------------------------------!
+ And the key to identifying this scoundrel is back at the inn. 
+!******************************!
+[e131_t4.txt]
+<@3>So you already have an idea about who's behind this?
+!******************************!
+[e131_t5.txt]
+Ha ha! Piqued your interest, have I?
+!******************************!
+[e132_t0.txt]
+Hello, Professor. Is something the matter? You look a little shaken.
+!******************************!
+[e132_t1.txt]
+Beatrice, I have an urgent request. Could you show me the newspapers from the last couple of days?
+!******************************!
+[e132_t2.txt]
+The papers? Certainly. Hang on for just a moment while I fetch them for you.
+!******************************!
+[e132_t3.txt]
+That's strange. I'm sure I put them down around here somewhere.
+!******************************!
+[e132_t4.txt]
+Is there a problem?
+!******************************!
+[e132_t5.txt]
+I'm sorry to disappoint you, but I can't seem to find them anywhere!<W>
+!------------------------------!
+ Even today's morning paper seems to have gone missing.
+!******************************!
+[e132_t6.txt]
+Hmm.
+!******************************!
+[e132_t7.txt]
+I see.<W> Well, thank you just the same, Beatrice. This has been most helpful.
+!******************************!
+[e132_t8.txt]
+<@3>Just what was in those papers anyway, Professor?
+!******************************!
+[e133_t0.txt]
+Yoo-hoo! Professor Layton!
+!******************************!
+[e133_t1.txt]
+Ramon! And to what do we owe this visit?
+!******************************!
+[e133_t2.txt]
+Oh, he told me I needed to find you and bring you to Reinhold Manor.
+!******************************!
+[e133_t3.txt]
+The inspector, I mean. Ahoo hoo hoo! He and Lady Dahlia await your arrival at Reinhold Manor.
+!******************************!
+[e133_t4.txt]
+Thank you for the message. We will set out for the manor in just a few moments.
+!******************************!
+[e134_t0.txt]
+<@3>You've found the key to the tower, haven't you?
+!******************************!
+[e134_t1.txt]
+How do you know about the key?
+!******************************!
+[e134_t2.txt]
+<@3>You mustn't interfere with the tower. Whatever you do, just stay away from there.
+!******************************!
+[e134_t3.txt]
+Interfere? What do you mean by that, dear?
+!******************************!
+[e134_t4.txt]
+<@3>...
+!******************************!
+[e135_t0.txt]
+Welcome back, Professor Layton. Please come in. Everyone is waiting.
+!******************************!
+[e135_t1.txt]
+Thank you, Matthew.<W> Is something troubling you, my good man? You seem ill at ease.
+!******************************!
+[e135_t2.txt]
+Oh, no... I'm fine, sir. Please make your way to the parlour. 
+!******************************!
+[e135_t3.txt]
+All right, if you're certain that nothing is the matter, we'll head upstairs.
+!******************************!
+[e136_t0.txt]
+<@1>Ah, Mr Layton, thank you for arriving so promptly. Come, have a seat.
+!******************************!
+[e136_t1.txt]
+Why have you called us here, Inspector Chelmey?
+!******************************!
+[e136_t10.txt]
+<@1>So go on and give me an alibi, Layton! Where were you when Simon was killed? Come on, out with it!
+!******************************!
+[e136_t11.txt]
+I was with Luke, investigating matters down in the village.
+!******************************!
+[e136_t12.txt]
+<@1>Hrrmph, is that the best you can muster? It's clear the little brat is an accomplice to your crime!
+!******************************!
+[e136_t13.txt]
+<@1>Admit it, Layton!<W> You two wanted to keep the Golden Apple so badly that you conspired to murder Simon!
+!******************************!
+[e136_t14.txt]
+...
+!******************************!
+[e136_t15.txt]
+<@1>You can't fool me, Layton. So cough it up and start talking.<W>
+!------------------------------!
+ While I'm at it, I'll take the key to the tower you picked up, too!
+!******************************!
+[e136_t16.txt]
+It seems that you are intent on pinning this crime on me, Inspector.<W>
+!------------------------------!
+ But if you are a true enforcer of the law, you'll acknowledge that I'm not the only reasonable suspect.<W>
+!------------------------------!
+ &SetAni 0 talk_2&Any member of this household could have committed the crime.<W>
+!------------------------------!
+ In fact, you can't even rule out the possibility that everyone here had a hand in the murder.
+!******************************!
+[e136_t17.txt]
+Furthermore, are we even sure that a murder took place here?
+!******************************!
+[e136_t18.txt]
+<@1>What kind of nonsense are you spouting now?<W>
+!------------------------------!
+ Do you really think anyone here is fooled by your crackpot theories?!
+!******************************!
+[e136_t19.txt]
+<@3>Oh! That's the vase from the market, isn't it?
+!******************************!
+[e136_t2.txt]
+<@1>Like you, I'm not the kind of man who beats around the bush, so I'll just come out with it.
+!******************************!
+[e136_t20.txt]
+<@1>You rotten murderer!
+!******************************!
+[e136_t21.txt]
+<@3>If this vase is evidence, why did you just break it like it was nothing?
+!******************************!
+[e136_t22.txt]
+...Inspector Chelmey, I'm beginning to think the only person here with something to hide is you.
+!******************************!
+[e136_t23.txt]
+<@1>That's absurd. This has nothing in the slightest to do with me!
+!******************************!
+[e136_t24.txt]
+I've heard you're quite the devoted husband, Inspector. I bet you take very good care of your wife, Jane.
+!******************************!
+[e136_t25.txt]
+Luke and I found this article in the paper.<W> Luke, what was Inspector Chelmey's favourite food again?
+!******************************!
+[e136_t3.txt]
+<@1>I'm on to you, Layton! It's clear as day!<W> You are responsible for Simon's death!
+!******************************!
+[e136_t4.txt]
+Are you suggesting I murdered Simon?<W> Nonsense.
+!******************************!
+[e136_t5.txt]
+<@1>Nyeh heh heh... Nice, Layton. I have to admire the way you keep cool under pressure.<W>
+!------------------------------!
+ But of course, I would expect nothing less from a cold-blooded killer such as yourself!
+!******************************!
+[e136_t6.txt]
+<@1>I don't suppose you've seen this before, eh?
+!******************************!
+[e136_t7.txt]
+<@1>This vase was on display in the room in which Simon was found dead.<W>
+!------------------------------!
+ All the forensic evidence I've gathered suggests that the killer struck Simon with this vase.
+!******************************!
+[e136_t8.txt]
+<@1>Our killer was no professional. You see, he left his fingerprints all over the murder weapon.
+!******************************!
+[e136_t9.txt]
+<@1>Fingerprints that match your own, Mr Layton!
+!******************************!
+[e137_t0.txt]
+Hm...<W> I believe you've confused the inspector's favourite food with your own favourite dish, Luke.
+!******************************!
+[e137_t1.txt]
+Hm...<W> I enjoy a juicy roast as much as the next person, but it doesn't answer my question, now does it?
+!******************************!
+[e138_t0.txt]
+This article specifically states you love cakes.<W>
+!------------------------------!
+ And yet you raged at poor Matthew when he brought you cakes with tea. Why?
+!******************************!
+[e138_t1.txt]
+<@1>And your point is?! It just so happens that I have a fondness for #rJane's#x cakes!
+!******************************!
+[e138_t10.txt]
+But your sudden memory loss regarding your wife's name isn't the only suspicious thing about you.
+!******************************!
+[e138_t11.txt]
+Try to recall the time around Simon's death.
+!******************************!
+[e138_t12.txt]
+You said you received a report that prompted you to come to St Mystere. But you forgot one thing.<W>
+!------------------------------!
+ After Luke and I arrived, the drawbridge that is St Mystere's sole entrance had its crank stolen.<W>
+!------------------------------!
+ This effectively sealed the village. From that point on, no one could enter or leave the village.<W>
+!------------------------------!
+ And do you recall just when this seclusion began?
+!******************************!
+[e138_t2.txt]
+Is that so...
+!******************************!
+[e138_t3.txt]
+Thank you, Inspector. This little conversation has made things quite clear. Please take a look at this.
+!******************************!
+[e138_t4.txt]
+I believe you just called them "#rJane's#x cakes", yes? I'd like everyone to look at this article.
+!******************************!
+[e138_t5.txt]
+As you can all see, the article clearly states that Inspector Chelmey's wife is #rAmelie#x, not Jane.
+!******************************!
+[e138_t6.txt]
+Do you mean to tell me you've forgotten your own wife's name?
+!******************************!
+[e138_t7.txt]
+<@1>Grr!
+!******************************!
+[e138_t8.txt]
+Out with it then. Who are you, and why have you been impersonating Inspector Chelmey?<W>
+!------------------------------!
+ And why have you been running this investigation?
+!******************************!
+[e138_t9.txt]
+<@1>Grrm...
+!******************************!
+[e139_t0.txt]
+Event Text139_0[[0D]] 
+!******************************!
+[e139_t1.txt]
+Event Text139_1[[0D]] 
+!******************************!
+[e139_t2.txt]
+Event Text139_2[[0D]] 
+!******************************!
+[e139_t3.txt]
+Event Text139_3[[0D]] 
+!******************************!
+[e139_t4.txt]
+Event Text139_4[[0D]] 
+!******************************!
+[e139_t5.txt]
+Event Text139_5[[0D]] 
+!******************************!
+[e139_t6.txt]
+Event Text139_6[[0D]] 
+!******************************!
+[e139_t7.txt]
+Event Text139_7[[0D]] 
+!******************************!
+[e140_t0.txt]
+Oh, Inspector Chelmey, I assure you there's nothing foolish about what I'm saying.
+!******************************!
+[e140_t1.txt]
+Just a moment ago, you pointed out that I had no alibi for the time of the murder.
+!******************************!
+[e140_t2.txt]
+But what about yourself? Who can affirm your whereabouts during the time frame of the murder?
+!******************************!
+[e140_t3.txt]
+<@1>Gah...
+!******************************!
+[e140_t4.txt]
+Tell me, Inspector, do you remember where you were around the time of Simon's murder?
+!******************************!
+[e140_t5.txt]
+You said you received a report that prompted you to come to St Mystere. But you forgot one thing...<W>
+!------------------------------!
+ After Luke and I arrived, the drawbridge crank was stolen.<W>
+!------------------------------!
+ As this drawbridge is the village's only way out, it cut St Mystere off from the outside world.<W>
+!------------------------------!
+ And when did the bridge shut down?
+!******************************!
+[e141_t0.txt]
+No, that's not right.
+!******************************!
+[e141_t1.txt]
+No, that's not right.
+!******************************!
+[e142_t0.txt]
+Event Text142_0[[0D]] 
+!******************************!
+[e143_t0.txt]
+<@3>There's nothing in here.<W> Let's look somewhere else.
+!******************************!
+[e144_t0.txt]
+It's a bottle.
+!******************************!
+[e145_t0.txt]
+<@1>You've really finished searching?<W> I can't help but notice that you missed some of the drawers.
+!******************************!
+[e145_t1.txt]
+Ah, yes, indeed we have.<W>
+!------------------------------!
+ Luke, let's give those drawers a thorough inspection. We might have missed something important.
+!******************************!
+[e145_t2.txt]
+You're absolutely right. Maybe there's something hidden in one of those drawers.
+!******************************!
+[e146_t0.txt]
+I'm counting on you to catch the fiend who dodged his bill!
+!******************************!
+[e146_t1.txt]
+Oh, hello there, Professor. Have you had any luck tracking down that bill-dodging ruffian?
+!******************************!
+[e147_t0.txt]
+This way, Luke!
+!******************************!
+[e147_t1.txt]
+<@3>Right, Professor!
+!******************************!
+[e148_t0.txt]
+Over that way, Luke! 
+!******************************!
+[e148_t1.txt]
+<@3>All right, Professor!
+!******************************!
+[e149_t0.txt]
+Correct. The only route out of the village had been closed well before Simon's death was discovered.
+!******************************!
+[e149_t1.txt]
+<@1>Hrmph.
+!******************************!
+[e149_t10.txt]
+Furthermore, I have spoken of what we found there to no one.<W>
+!------------------------------!
+ There's no conceivable way you could have known about this key.
+!******************************!
+[e149_t11.txt]
+...Unless, of course, you were spying on us from the shadows when we found it.
+!******************************!
+[e149_t12.txt]
+Now let me see if I've got this correct.<W>
+!------------------------------!
+ You posed as the inspector and used Simon's death as an excuse to enter Reinhold Manor. 
+!******************************!
+[e149_t13.txt]
+Since then, you've been waiting for the ideal time to strike...and steal the Golden Apple from us.<W>
+!------------------------------!
+ How am I doing so far?
+!******************************!
+[e149_t14.txt]
+<@1>Hrmph...
+!******************************!
+[e149_t15.txt]
+<@1>Nyeh. Nyeh heh heh.
+!******************************!
+[e149_t16.txt]
+<@3>What's so funny? This is no laughing matter!
+!******************************!
+[e149_t17.txt]
+<@1>I'm just... I'm just astounded at how despicable I find you, Layton!
+!******************************!
+[e149_t18.txt]
+<@1>But that's exactly why you're worthy of being my arch-enemy!
+!******************************!
+[e149_t2.txt]
+After that event, there was no way that anyone could enter the village from the outside.
+!******************************!
+[e149_t3.txt]
+By the same token, there was no way to take things out of the village.<W>
+!------------------------------!
+ Particularly something as large as a corpse. 
+!******************************!
+[e149_t4.txt]
+So tell me, Inspector Chelmey, when did you actually first set foot in St Mystere?
+!******************************!
+[e149_t5.txt]
+And furthermore, what did you do with Simon's remains?
+!******************************!
+[e149_t6.txt]
+<@1>Grr...
+!******************************!
+[e149_t7.txt]
+While we're on the subject, I have one more nagging question that I haven't been able to work out.
+!******************************!
+[e149_t8.txt]
+How is it that you knew about the key to the tower we discovered?
+!******************************!
+[e149_t9.txt]
+When we happened upon that key, there wasn't a soul in the area, apart from Luke and myself.
+!******************************!
+[e150_t0.txt]
+<@3>It's a dead end, no two ways about it. Maybe there's another path to the tower hidden around here.
+!******************************!
+[e150_t1.txt]
+I'd argue that we've come to exactly the right spot, Luke.
+!******************************!
+[e150_t2.txt]
+<@3>What do you mean by that?
+!******************************!
+[e150_t3.txt]
+Look right here, Luke. There's a small indentation in the wall where one could place a small object.
+!******************************!
+[e150_t4.txt]
+<@3>Oh! So this must be...
+!******************************!
+[e150_t5.txt]
+Yes, this curious indentation is no doubt the spot indicated in Baron Reinhold's note to Archibald. 
+!******************************!
+[e150_t6.txt]
+I'm willing to wager that if we put this in there and gave it a turn...
+!******************************!
+[e150_t7.txt]
+<@3>Wow!
+!******************************!
+[e150_t8.txt]
+Just as I suspected.
+!******************************!
+[e150_t9.txt]
+All right, Luke. In we go.
+!******************************!
+[e151_t0.txt]
+<@3>This place gives me goosebumps.
+!******************************!
+[e151_t1.txt]
+<@3>Plus, it's all murky in here, and I can't see a thi...
+!******************************!
+[e151_t2.txt]
+Hmm?
+!******************************!
+[e151_t3.txt]
+Oh, my!
+!******************************!
+[e151_t4.txt]
+<@3>Aaaauuurgh!
+!******************************!
+[e152_t0.txt]
+<@3>Ughh... My head...
+!******************************!
+[e152_t1.txt]
+Luke! Are you all right, my boy? No injuries, I hope!
+!******************************!
+[e152_t10.txt]
+<@3>Look, there are stairs over there. Let's get out of here! This place gives me the shivers!
+!******************************!
+[e152_t11.txt]
+Yes, you're quite right, Luke. Let's head out.
+!******************************!
+[e152_t2.txt]
+<@3>Don't worry, Professor. I'm fine. And yourself?
+!******************************!
+[e152_t3.txt]
+Nothing a good long bath later won't solve. But more importantly... Where are we?
+!******************************!
+[e152_t4.txt]
+<@3>This room is full of curious machines. I've never seen anything like them.<W>
+!------------------------------!
+ What do you suppose they do?
+!******************************!
+[e152_t5.txt]
+<@3>What in the world? Look over there on the wall, Professor!
+!******************************!
+[e152_t6.txt]
+My word!
+!******************************!
+[e152_t7.txt]
+There are pictures of the villagers displayed here...<W>
+!------------------------------!
+ And what's this?<W> There's a key for  almost every villager...
+!******************************!
+[e152_t8.txt]
+<@3>Professor, what if somebody is using this place to keep an eye on what's going on in St Mystere?
+!******************************!
+[e152_t9.txt]
+Hm.
+!******************************!
+[e153_t0.txt]
+What's this?!
+!******************************!
+[e153_t1.txt]
+You!
+!******************************!
+[e153_t10.txt]
+Precisely.<W> Do you know anything that could be of help to us?
+!******************************!
+[e153_t11.txt]
+Hmm... So that's how it is, eh?
+!******************************!
+[e153_t12.txt]
+What you're looking for is on the top floor of the tower.<W>
+!------------------------------!
+ But watch out, 'cause the puzzles in this tower are harder than a diamond-tipped drill.<W>
+!------------------------------!
+ I know they call you a puzzle master, but are you sure you have what it takes to solve them?
+!******************************!
+[e153_t13.txt]
+<@3>Now why would you go and tell us something like that?<W>
+!------------------------------!
+ &SetAni 2 angry&I bet you just want to set us up to walk right into some sort of trap!
+!******************************!
+[e153_t14.txt]
+Hrmph. What would I possibly gain from doing something like that?
+!******************************!
+[e153_t15.txt]
+Not to mention, it's my duty to guide those who seek the Golden Apple towards their goal.
+!******************************!
+[e153_t16.txt]
+Some mischief maker sneaked into the village and had me all confused, but I think I've worked things out now.
+!******************************!
+[e153_t17.txt]
+Seeing as how it's your duty and all that would you mind filling us in? What is St Mystere's big secret?
+!******************************!
+[e153_t18.txt]
+...All right.
+!******************************!
+[e153_t19.txt]
+The name is Bruno.<W> I work for the Reinhold family.<W>
+!------------------------------!
+ For some time now, I've managed St Mystere from up here in the tower.
+!******************************!
+[e153_t2.txt]
+Grmph!
+!******************************!
+[e153_t20.txt]
+Managed St Mystere... You're the one who manages the "life" of each of the villagers, aren't you?
+!******************************!
+[e153_t21.txt]
+<@3>What in the world are you two talking about?
+!******************************!
+[e153_t22.txt]
+Surely you must have seen them too, Luke.<W>
+!------------------------------!
+ Do you recall the cogs we found about the village and the  keys we just saw?
+!******************************!
+[e153_t23.txt]
+All the villagers in St Mystere are robots created by Bruno.
+!******************************!
+[e153_t24.txt]
+<@3>What do you mean?! The villagers are all robots?!
+!******************************!
+[e153_t25.txt]
+In other words, the inhabitants of St Mystere aren't human, but intricately constructed machines.<W>
+!------------------------------!
+ They're robots, my boy.<W>
+!------------------------------!
+ I have to say, I'm astonished that anyone could build such elaborate machines in this day and age.<W>
+!------------------------------!
+ You must be quite the engineer, sir.
+!******************************!
+[e153_t26.txt]
+Ho ho, aren't you a sharp one! I never imagined you'd work out so much of the mystery by yourself. 
+!******************************!
+[e153_t27.txt]
+<@3>What do you mean, sir?
+!******************************!
+[e153_t28.txt]
+St Mystere isn't a real village, Luke. It was constructed by Bruno and the late baron.
+!******************************!
+[e153_t29.txt]
+How am I doing so far, Bruno?
+!******************************!
+[e153_t3.txt]
+You two again!<W> &SetAni 0 point&What are you doing here?! What are you up to?!
+!******************************!
+[e153_t30.txt]
+Erm... You're absolutely correct.
+!******************************!
+[e153_t31.txt]
+Master believed that one day an heir worthy of his fortune would come forward.<W>
+!------------------------------!
+ He had me build this village and all who dwell within it to prepare for that day.
+!******************************!
+[e153_t32.txt]
+Then he hid his greatest treasure, the Golden Apple, away on the top floor of this tower.<W><@C> I was ordered to protect it with my life.
+!******************************!
+[e153_t33.txt]
+Until the person arrives who can solve the puzzle of the Golden Apple, I will continue to protect it.
+!******************************!
+[e153_t34.txt]
+<@3>Remarkable. I'm impressed at how far Baron Reinhold went to protect his treasure.
+!******************************!
+[e153_t35.txt]
+It's not just any treasure, mind you. The Golden Apple was the baron's most precious treasure.
+!******************************!
+[e153_t36.txt]
+<@3>But why go through all this just to hide treasure? Why build an entire village to protect it?
+!******************************!
+[e153_t37.txt]
+Huhwhoops! Seems I've been a little loose-lipped here. I've already said more than I should've.<W>
+!------------------------------!
+ The answers you're looking for are waiting for you at the top of the tower.
+!******************************!
+[e153_t38.txt]
+Go on then. Show me if you're the one who can solve the puzzle of the Golden Apple.
+!******************************!
+[e153_t4.txt]
+Just a moment, sir. What are you talking about?
+!******************************!
+[e153_t5.txt]
+I knew it! You came here to steal my secrets, didn't you?<W> Didn't you?!<W>
+!------------------------------!
+ Don't play dumb with me! I see right through you! Don't think I haven't been watching!
+!******************************!
+[e153_t6.txt]
+I've seen you two sniffing around every nook and cranny in the village, obstructing my work!<W><@C> &SetAni 0 point&Now I've had it, so unless you want trouble, give me back Number 38!
+!******************************!
+[e153_t7.txt]
+Please calm yourself, sir. Just listen to what we have to say for a moment.<W>
+!------------------------------!
+ We haven't intended to get in the way of your work. We are merely searching for the Golden Apple.<W>
+!------------------------------!
+ Neither of us knows anything about this Number 38 busine...
+!******************************!
+[e153_t8.txt]
+Oh!
+!******************************!
+[e153_t9.txt]
+Did you just say the Golden Apple? You're really here looking for the Golden Apple then?
+!******************************!
+[e154_t0.txt]
+Event Text154_0[[0D]] 
+!******************************!
+[e155_t0.txt]
+<@3>Unbelievable! Just look at this room! The stuff in here has to be worth a fortune!
+!******************************!
+[e155_t1.txt]
+This must be the top floor that Bruno spoke of.
+!******************************!
+[e155_t2.txt]
+<@3>So we might be standing in the same room as the Golden Apple at this very moment?!
+!******************************!
+[e155_t3.txt]
+<@3>I've been waiting for you two.
+!******************************!
+[e155_t4.txt]
+<@3>What kind of person would live in a place like this?
+!******************************!
+[e156_t0.txt]
+Event Text156_0[[0D]] 
+!******************************!
+[e156_t1.txt]
+Event Text156_1[[0D]] 
+!******************************!
+[e156_t2.txt]
+Event Text156_2[[0D]] 
+!******************************!
+[e156_t3.txt]
+Event Text156_3[[0D]] 
+!******************************!
+[e156_t4.txt]
+Event Text156_4[[0D]] 
+!******************************!
+[e157_t0.txt]
+<@3>You're...the Golden Apple?!
+!******************************!
+[e157_t1.txt]
+<@3>Professor, you knew about this?
+!******************************!
+[e157_t10.txt]
+Event Text157_10[[0D]] 
+!******************************!
+[e157_t11.txt]
+<@3>What was that?
+!******************************!
+[e157_t2.txt]
+I had an inkling.<W> Don't you see the genius of it, though?<W>
+!------------------------------!
+ The baron didn't write the will to find a successor to his fortune.
+!******************************!
+[e157_t3.txt]
+His true aim was to find a worthy guardian for his daughter...<W>
+!------------------------------!
+ And he was willing to put his whole fortune on the line to do so.
+!******************************!
+[e157_t4.txt]
+<@3>Yes...
+!******************************!
+[e157_t5.txt]
+<@3>My name is Flora... I've been waiting here in the tower for so long.
+!******************************!
+[e157_t6.txt]
+<@3>Were you locked up in here the whole time?
+!******************************!
+[e157_t7.txt]
+<@3>Oh, no. But before Papa...passed...<W>
+!------------------------------!
+ He told me that I should wait here until someone from outside St Mystere came for me.
+!******************************!
+[e157_t8.txt]
+<@3>Papa said that whoever came for me would be someone I could trust with my life.
+!******************************!
+[e157_t9.txt]
+<@3>So that's why you kept watching us move around the village.
+!******************************!
+[e158_t0.txt]
+Event Text158_0[[0D]] 
+!******************************!
+[e158_t1.txt]
+Event Text158_1[[0D]] 
+!******************************!
+[e158_t2.txt]
+Event Text158_2[[0D]] 
+!******************************!
+[e158_t3.txt]
+Event Text158_3[[0D]] 
+!******************************!
+[e158_t4.txt]
+Event Text158_4[[0D]] 
+!******************************!
+[e158_t5.txt]
+Event Text158_5[[0D]] 
+!******************************!
+[e158_t6.txt]
+Event Text158_6[[0D]] 
+!******************************!
+[e159_t0.txt]
+Follow me! We must evacuate this tower immediately!
+!******************************!
+[e159_t1.txt]
+<@3>What now?!
+!******************************!
+[e160_t0.txt]
+Event Text160_0[[0D]] 
+!******************************!
+[e160_t1.txt]
+Event Text160_1[[0D]] 
+!******************************!
+[e160_t2.txt]
+Event Text160_2[[0D]] 
+!******************************!
+[e160_t3.txt]
+Event Text160_3[[0D]] 
+!******************************!
+[e160_t4.txt]
+Event Text160_4[[0D]] 
+!******************************!
+[e160_t5.txt]
+Event Text160_5[[0D]] 
+!******************************!
+[e160_t6.txt]
+Event Text160_6[[0D]] 
+!******************************!
+[e160_t7.txt]
+Event Text160_7[[0D]] 
+!******************************!
+[e160_t8.txt]
+Event Text160_8[[0D]] 
+!******************************!
+[e161_t0.txt]
+<@3>What are we going to do?!
+!******************************!
+[e161_t1.txt]
+.<@W>2.<@W>2.<@W>2I've got it!&SetAni 0 smile&
+!******************************!
+[e161_t2.txt]
+Just wait a moment, Flora.
+!******************************!
+[e162_t0.txt]
+Event Text162_0[[0D]] 
+!******************************!
+[e162_t1.txt]
+Event Text162_1[[0D]] 
+!******************************!
+[e163_t0.txt]
+Event Text163_0[[0D]] 
+!******************************!
+[e163_t1.txt]
+Event Text163_1[[0D]] 
+!******************************!
+[e163_t2.txt]
+Event Text163_2[[0D]] 
+!******************************!
+[e163_t3.txt]
+Event Text163_3[[0D]] 
+!******************************!
+[e163_t4.txt]
+Event Text163_4[[0D]] 
+!******************************!
+[e163_t5.txt]
+Event Text163_5[[0D]] 
+!******************************!
+[e163_t6.txt]
+Event Text163_6[[0D]] 
+!******************************!
+[e163_t7.txt]
+Event Text163_7[[0D]] 
+!******************************!
+[e163_t8.txt]
+Event Text163_8[[0D]] 
+!******************************!
+[e164_t0.txt]
+Event Text164_0[[0D]] 
+!******************************!
+[e165_t0.txt]
+<@3>&SetAni 1 smile&Thank goodness you're all right, Professor!<W> &SetAni 1 angry&Don Paolo's flying contraption was something else!<W>
+!------------------------------!
+ I really thought we were done for back there.
+!******************************!
+[e165_t1.txt]
+Yes, it was a bit unnerving. But he also provided us with the answer to one of our ongoing mysteries.<W>
+!------------------------------!
+ Do you remember that awful noise we heard the first time we visited Reinhold Manor?
+!******************************!
+[e165_t2.txt]
+<@3>The one that spooked Claudia?<W> Oh, so that must have been the noise.
+!******************************!
+[e165_t3.txt]
+You've put it together!<W> The racket was likely Don Paolo's contraption making a crash landing.<W>
+!------------------------------!
+ If that's the case, then we now know the approximate time of Don Paolo's entrance into St Mystere.
+!******************************!
+[e165_t4.txt]
+<@3>That makes perfect sense. So, it follows that Franco wouldn't have noticed Don Paolo's entrance.<W>
+!------------------------------!
+ &SetAni 1 mouthopen&So, if Flora is the Golden Apple that everyone's been looking for...<W>
+!------------------------------!
+ That means the treasure that Lady Dahlia and the others were chasing never existed in the first place!
+!******************************!
+[e165_t5.txt]
+No, I'm fairly certain they weren't mistaken. I do believe a fortune is hidden somewhere within the village.
+!******************************!
+[e165_t6.txt]
+But the baron would need to hide it somewhere only the Golden Apple would know to look.
+!******************************!
+[e165_t7.txt]
+<@3>You mean that Flora knows where the treasure is hidden?
+!******************************!
+[e165_t8.txt]
+<@3>I'm sorry, but I don't know about a treasure or anything like that...
+!******************************!
+[e165_t9.txt]
+Let's head back to Reinhold Manor one more time. I suspect we'll clear everything up there.
+!******************************!
+[e166_t0.txt]
+<@3>Professor, do you really think the treasure could be located here?
+!******************************!
+[e166_t1.txt]
+Look closely at this painting, Luke.  I'm sure it holds the key to the Reinhold fortune.
+!******************************!
+[e166_t2.txt]
+<@3>But I've already looked at it!
+!******************************!
+[e166_t3.txt]
+If we solve this mystery, Luke, I'm certain we'll come face-to-face with the Reinhold treasure.<W>
+!------------------------------!
+ Touch the painting where the Golden Apple is hidden.
+!******************************!
+[e167_t0.txt]
+Event Text167_0[[0D]] 
+!******************************!
+[e168_t0.txt]
+<@3>Oh, my goodness, look at this place! I had no idea...
+!******************************!
+[e168_t1.txt]
+<@3>Now how in the world did you know that the switch was hidden in the painting?
+!******************************!
+[e168_t10.txt]
+Flora, you've made it here at last...
+!******************************!
+[e168_t11.txt]
+<@3>That voice! Papa, is that you?!
+!******************************!
+[e168_t12.txt]
+<@3>Papa!
+!******************************!
+[e168_t13.txt]
+My dear Flora, has the village watched over you as I would have?<W>
+!------------------------------!
+ I built St Mystere for you so that you would never have to know true loneliness.<W>
+!------------------------------!
+ Well...to be fair, Bruno did the actual building, but that's beside the point.<W>
+!------------------------------!
+ In any case, if you've come this far, I suppose it's safe to assume my plan was a success.
+!******************************!
+[e168_t14.txt]
+My greatest regret is that I'm not there to see you become a young woman.<W>
+!------------------------------!
+ But please know that I want nothing more than for you to be happy.<W>
+!------------------------------!
+ Whether the person by your side right now can give you that or not is up to you, I suppose.
+!******************************!
+[e168_t15.txt]
+And to you who have found your way to my daughter's side, you have my heartiest congratulations.<W>
+!------------------------------!
+ Few could make it through the barrage of puzzles I set before you.<W>
+!------------------------------!
+ I imagine a person of your abilities has already caught on, but allow me to reveal St Mystere's secret.
+!******************************!
+[e168_t16.txt]
+<@3>The secret of St Mystere?
+!******************************!
+[e168_t17.txt]
+Recently, I was told by my physician that I don't have much time left on this earth.<W>
+!------------------------------!
+ I can come to terms with dying, but the thought of leaving my only child alone in the world torments me.<W>
+!------------------------------!
+ This is why I've commissioned Bruno to construct St Mystere.<W>
+!------------------------------!
+ At least this way, she'll be safe and protected until she's old enough to venture into the outside world.
+!******************************!
+[e168_t18.txt]
+Streets and buildings are the bones of a village, but its heart is the people who live in it.<W>
+!------------------------------!
+ This is why I asked Bruno to create all the villagers here, as well as all the puzzles hidden within them.<W>
+!------------------------------!
+ I've asked Matthew to make news of my death public only once Flora has grown past childhood.<W>
+!------------------------------!
+ So, stranger, how does my beautiful little flower look now? I imagine she's blossoming into adulthood.
+!******************************!
+[e168_t19.txt]
+Equally important to me is finding someone to whom I can entrust both my daughter and my fortune.<W>
+!------------------------------!
+ This is why the inhabitants of St Mystere are constantly testing the knowledge of the visitor.<W>
+!------------------------------!
+ If you've made it this far, it must mean that you possess both wisdom and dedication to my daughter.
+!******************************!
+[e168_t2.txt]
+Listen closely, Luke.<W>
+!------------------------------!
+ Wisdom wasn't the only thing Baron Reinhold required of potential guardians for his only daughter.
+!******************************!
+[e168_t20.txt]
+I am confident that you will take good care of my fortune and Flora.<W>
+!------------------------------!
+ This is why everything in this room, the whole of my fortune, belongs to you now.<W>
+!------------------------------!
+ When you remove it from here, St Mystere will complete the objective for which it was created.<W>
+!------------------------------!
+ I imagine the inhabitants will fall into a deep sleep from which they are never to awaken.
+!******************************!
+[e168_t21.txt]
+<@3>Now wait just a minute! Is he saying that if we take the treasure, all of St Mystere will just disappear?
+!******************************!
+[e168_t22.txt]
+I honestly don't know the answer to that question, Luke.<W>
+!------------------------------!
+ But it's possible that St Mystere is designed to shut down the instant we lay a hand on the treasure.
+!******************************!
+[e168_t23.txt]
+<@3>So if that happens, everyone will just...stop?<W> Just like puppets with their strings cut?!
+!******************************!
+[e168_t24.txt]
+I leave it to you, brave traveller. Draw the curtain on St Mystere and lay this lifeless village to rest.<W>
+!------------------------------!
+ Above all else, take care of my precious daughter. She's in your hands now.
+!******************************!
+[e168_t25.txt]
+<@3>Oh, Papa...
+!******************************!
+[e168_t26.txt]
+<@3>I can't believe it. If we even touch this treasure, all of St Mystere will just grind to a halt.
+!******************************!
+[e168_t27.txt]
+Flora, by right, this inheritance belongs to you. You should be the one to decide what's done with it.
+!******************************!
+[e168_t28.txt]
+<@3>I... I don't want it.
+!******************************!
+[e168_t29.txt]
+But why ever not, my dear?
+!******************************!
+[e168_t3.txt]
+You saw it too, did you not? That peculiar mark on her neck that only appeared once she laughed?
+!******************************!
+[e168_t30.txt]
+<@3>The people who live here have been with me for so long. Curious as this village is, it's watched me grow up.
+!******************************!
+[e168_t31.txt]
+<@3>I want St Mystere, my village, to stay just as it is...forever.
+!******************************!
+[e168_t32.txt]
+I see.<W> Then so it shall be.<W> But what of you, Flora? Will you stay here with your village?
+!******************************!
+[e168_t33.txt]
+<@3>I... I...
+!******************************!
+[e168_t4.txt]
+In other words, Baron Reinhold set out one last requirement for the potential inheritor to his fortune.
+!******************************!
+[e168_t5.txt]
+He wanted someone who could make Flora smile again after losing those dear to her.
+!******************************!
+[e168_t6.txt]
+To that person and that person alone would Baron Reinhold reveal the location of his actual fortune.
+!******************************!
+[e168_t7.txt]
+<@3>That's unbelievable, Professor! But it all makes sense now!
+!******************************!
+[e168_t8.txt]
+Flora... My little Flora...
+!******************************!
+[e168_t9.txt]
+Where's that voice coming from?
+!******************************!
+[e169_t0.txt]
+Think back on what we've seen here in St Mystere.
+!******************************!
+[e169_t1.txt]
+A mysterious roar from the tower... People vanishing off the street...
+!******************************!
+[e169_t10.txt]
+That elderly man Bruno repairs the villagers when something inside them wears out or breaks.
+!******************************!
+[e169_t11.txt]
+That terrible din we heard was most likely the sound of the machines we saw in the cellar of the tower.
+!******************************!
+[e169_t12.txt]
+<@3>So, when Ramon disappeared...
+!******************************!
+[e169_t13.txt]
+Yes, my boy, that's right. Ramon was sent back after Bruno finished his repairs.<W>
+!------------------------------!
+ I'd wager that's the case for everyone who disappears.
+!******************************!
+[e169_t2.txt]
+And now, we find the names of all the villagers in a room of the strange tower.
+!******************************!
+[e169_t3.txt]
+<@3>Just what are you getting at here, Professor?
+!******************************!
+[e169_t4.txt]
+All these events were put into motion the moment I opened that letter from Lady Dahlia.
+!******************************!
+[e169_t5.txt]
+Baron Reinhold set up this mystery as a way to find a worthy guardian for his daughter.
+!******************************!
+[e169_t6.txt]
+It seems that the entirety of St Mystere was constructed to protect Flora.
+!******************************!
+[e169_t7.txt]
+In other words...<W><@C> Everything here, from the shops to the villagers, was created for the sole purpose of protecting Flora.
+!******************************!
+[e169_t8.txt]
+The villagers of St Mystere are all robots, Luke.
+!******************************!
+[e169_t9.txt]
+<@3>What?!
+!******************************!
+[e170_t0.txt]
+Not even in my wildest dreams would I ever have imagined an entire village of robots!
+!******************************!
+[e170_t1.txt]
+I've commissioned Bruno with the construction of St Mystere.
+!******************************!
+[e170_t2.txt]
+The village is ready to find the person to whom I can entrust both my daughter and my fortune.
+!******************************!
+[e170_t3.txt]
+When you take the treasure, the village will have completed the purpose for which it was created.
+!******************************!
+[e170_t4.txt]
+It's my hope that if someone is capable enough to solve the many challenges I've laid out...<W>
+!------------------------------!
+ This person can also be entrusted with my fortune and my daughter.
+!******************************!
+[e170_t5.txt]
+<@3>Oh...
+!******************************!
+[e170_t6.txt]
+Flora, by right, this inheritance belongs to you. You should be the one to decide what's done with it.
+!******************************!
+[e170_t7.txt]
+<@3>I...I don't need it.
+!******************************!
+[e170_t8.txt]
+Are you certain about that?
+!******************************!
+[e170_t9.txt]
+<@3>I just want my village to stay as it is...forever.
+!******************************!
+[e171_t0.txt]
+Event Text171_0[[0D]] 
+!******************************!
+[e171_t1.txt]
+Event Text171_1[[0D]] 
+!******************************!
+[e171_t2.txt]
+Event Text171_2[[0D]] 
+!******************************!
+[e171_t3.txt]
+Event Text171_3[[0D]] 
+!******************************!
+[e171_t4.txt]
+Event Text171_4[[0D]] 
+!******************************!
+[e171_t5.txt]
+Event Text171_5[[0D]] 
+!******************************!
+[e171_t6.txt]
+Event Text171_6[[0D]] 
+!******************************!
+[e171_t7.txt]
+Event Text171_7[[0D]] 
+!******************************!
+[e171_t8.txt]
+Event Text171_8[[0D]] 
+!******************************!
+[e172_t0.txt]
+<@1>Hrmph! Hey! You two! Help me out here, would you? I'm in a real pickle.
+!******************************!
+[e172_t1.txt]
+What seems to be the problem, sir?
+!******************************!
+[e172_t2.txt]
+<@1>&SetAni 1 talk&Some fool went and raised the bridge while I was on my break. &SetAni 1 mufu&Hrmph!<W>
+!------------------------------!
+ &SetAni 1 talk&Then, as if that wasn't bad enough, that scoundrel made off with my only bridge crank! &SetAni 1 mufu&Hrmph!
+!******************************!
+[e172_t3.txt]
+Oh, dear. So you mean to say...
+!******************************!
+[e172_t4.txt]
+<@1>Hrmph!<W>&SetAni 1 talk& That's right. Until that thing turns up, no one is getting in or out of the village! &SetAni 1 mufu&
+!******************************!
+[e172_t5.txt]
+<@1>I'm still looking for the blasted crank, but I'm too furious to get anything done!<W> Hrmph!<W>
+!------------------------------!
+ What kind of person would do something like this, anyway?!
+!******************************!
+[e172_t6.txt]
+<@1>&SetAni 1 talk&Oh, yeah!<W> I found this in the street when I was out looking for my crank.<W>
+!------------------------------!
+ Got any idea what it is?
+!******************************!
+[e172_t7.txt]
+The gizmos option has been added to the menu.<W>
+!------------------------------!
+ Touch the trunk to open it, then tap the Gizmos icon.<W>
+!------------------------------!
+ From here, you can see the various mechanical parts you've gathered around the village.
+!******************************!
+[e173_t0.txt]
+I'm sorry, young lady, could you help us? We're looking for someone, you see, and...
+!******************************!
+[e173_t1.txt]
+<@3>Sorry, can't help you.<W> And by "can't", I mean "don't want to".<W>
+!------------------------------!
+ I've barely even talked to Ramon, and I have NO interest in this search.<W> Hee hee hee hee!<W>
+!------------------------------!
+ But! Maybe if you helped me solve this puzzle, I just might, you know, remember something.<W> Tee hee.
+!******************************!
+[e173_t2.txt]
+And just who do you think you are, young lady?!
+!******************************!
+[e173_t3.txt]
+<@3>Tee hee hee! You could try all night and you'd still probably never get the answer.
+!******************************!
+[e173_t4.txt]
+<@3>Tee hee hee. Weren't you supposed to be looking for someone, grandad?
+!******************************!
+[e173_t5.txt]
+<@3>Tee hee hee!<W>
+!------------------------------!
+ Y'know, I've heard that if you aren't careful walking around St Mystere at night, you can run into trouble.<W>
+!------------------------------!
+ I bet Ramon wasn't being careful...
+!******************************!
+[e173_t6.txt]
+What exactly do you mean?
+!******************************!
+[e173_t7.txt]
+...
+!******************************!
+[e173_t8.txt]
+<@3>Tee hee hee! Nice one, grandad.<W> Looks like the gears need a little oiling, huh?!
+!******************************!
+[e174_t0.txt]
+Excuse me, so sorry to bother you again.<W> Have you seen Ramon since we spoke last?
+!******************************!
+[e174_t1.txt]
+<@1>Yaaawn...
+!******************************!
+[e174_t10.txt]
+<@1>And remember, Beatrice from the inn was the one to find Gerard's watch.<W>
+!------------------------------!
+ Don't forget to ask her about it, OK? OK, see you tomorrow!<W> Yaaawn.
+!******************************!
+[e174_t11.txt]
+<@1>Hey, I thought you were gonna help me with this!<W> I guess it's up to me.
+!******************************!
+[e174_t12.txt]
+<@1>Yaaawn...
+!******************************!
+[e174_t13.txt]
+<@1>Mmm? Gerard lost something again?<W> I think he's getting a bit slow. He's always dropping stuff.<W>
+!------------------------------!
+ So, what'd he drop this time?<W> Let me guess, was it a wristwatch, hm?
+!******************************!
+[e174_t14.txt]
+Indeed, he did drop a wristwatch.<W> Did you pick it up around here?
+!******************************!
+[e174_t15.txt]
+<@1>Ahem.<W> Well, actually, no, because Beatrice was the one who found it.<W>
+!------------------------------!
+ Thing is, it was already late when she found it, so she decided to hold on to it until morning.<W>
+!------------------------------!
+ Go to the inn, and you can probably ask her for it.
+!******************************!
+[e174_t2.txt]
+Come, Luke. Let's go.
+!******************************!
+[e174_t3.txt]
+Event Text174_3[[0D]] 
+!******************************!
+[e174_t4.txt]
+<@1>So there you go. Now that I've got your attention, could you give me a hand and solve this puzzle?<W>
+!------------------------------!
+ Dark places really scare me, but I wanted to solve this puzzle so much I came out here for help.<W>
+!------------------------------!
+ The puzzle is all about stars, you see. Maybe you can make sense of the thing? Mmm?
+!******************************!
+[e174_t5.txt]
+Of course. I'd be happy to help you with it.
+!******************************!
+[e174_t6.txt]
+<@1>Hey, come on! I'm begging you. I don't want to stay outside in the dark anymore. It's just too scary!
+!******************************!
+[e174_t7.txt]
+<@1>Yaaawn...<W> Uh-oh, I think I might have forgotten how to get home.
+!******************************!
+[e174_t8.txt]
+<@1>Augh! It's pitch black out here and I don't know how to get home!<W> I'd better just stay here.
+!******************************!
+[e174_t9.txt]
+<@1>Hey, thanks so much! I can finally go home and get some sleep.
+!******************************!
+[e175_t0.txt]
+Oh, so you found my watch, did you?
+!******************************!
+[e175_t1.txt]
+But of course. A gentleman always helps those in distress.<W> Speaking of which...<W>
+!------------------------------!
+ We're still quite worried about Ramon's whereabouts and should probably return to our search now.
+!******************************!
+[e175_t10.txt]
+All right then. Thanks again. You really helped me out. 
+!******************************!
+[e175_t11.txt]
+Oh, come on, fellows! You're young and spry! Help an old man out!
+!******************************!
+[e175_t12.txt]
+The air has taken on quite a chill. Don't you think it'd be best to head home, sir?
+!******************************!
+[e175_t2.txt]
+Yep, St Mystere is strange like that. Despite its size, it can be quite challenging to find people.<W>
+!------------------------------!
+ It can feel like running around a maze.<W> Speaking of mazes, you ever heard of this one, laddie?
+!******************************!
+[e175_t3.txt]
+But we really must be...
+!******************************!
+[e175_t4.txt]
+You can try this puzzle as many times as you like. If there's one thing I've got, it's time.
+!******************************!
+[e175_t5.txt]
+Look at me, living it up with a bunch of youngsters! Why, I feel like a teenager again. Thank you!
+!******************************!
+[e175_t6.txt]
+Think nothing of it, sir.
+!******************************!
+[e175_t7.txt]
+You know, I feel so chipper, I think I'll stay out here a bit longer!
+!******************************!
+[e175_t8.txt]
+You're a sharp one, laddie!<W>
+!------------------------------!
+ You know, if you're looking for someone, you should ask around at the inn or cafe.<W>
+!------------------------------!
+ As you know, the inn is right by the entrance to the village.<W>
+!------------------------------!
+ The cafe is right at the fork in the road just north of here.
+!******************************!
+[e175_t9.txt]
+We've already searched the inn, but checking the cafe sounds like a good idea. We'll be sure to stop by.
+!******************************!
+[e176_t0.txt]
+<@3>Good evening to you, sir. It's almost my bedtime, but I've got one more puzzle for you. Want to see it?
+!******************************!
+[e176_t1.txt]
+<@3>Let me guess, you want to try that puzzle again, don't you? Hee hee! I knew it!
+!******************************!
+[e176_t2.txt]
+<@3>Everyone says that going out at night in St Mystere is dangerous, but no kidnapper's gonna get me.<W>
+!------------------------------!
+ First of all, I can run REALLY fast, and I'm a great screamer.<W>
+!------------------------------!
+ Second, the people who disappeared kept complaining of feeling tired, but I feel great all the time.
+!******************************!
+[e176_t3.txt]
+<@3>How'd you like my puzzle? Good fun, right?<W> You did such a good job, I'll tell you a secret!<W>
+!------------------------------!
+ I heard that there's a man-eating monster in the tower, and that's why everyone stays away.<W>
+!------------------------------!
+ I'm not silly enough to think there's actually a monster inside, but the place is dangerous.<W>
+!------------------------------!
+ So be careful in there, mister!
+!******************************!
+[e176_t4.txt]
+<@3>Aw, is my puzzle too hard, sir? But you look so clever, I thought you'd finish my puzzle in no time!
+!******************************!
+[e177_t0.txt]
+<@3>Professor, there's a cat here! Aww! Here, kitty, kitty, kitty!<W>
+!******************************!
+[e177_t1.txt]
+Animals are very dear to you, aren't they, Luke? Well, I have just the puzzle for you then.
+!******************************!
+[e177_t2.txt]
+Wonderful job there, Luke.
+!******************************!
+[e177_t3.txt]
+Come now, Luke, you can solve this one. Think about it critically.
+!******************************!
+[e177_t4.txt]
+Here's that cat puzzle again.
+!******************************!
+[e177_t5.txt]
+<@3>I don't know what it is about cats, Professor. I'm just a big softie when it comes to them.
+!******************************!
+[e178_t0.txt]
+<@1>Hey, out looking for Ramon, are you? Yep, you're definitely looking for Ramon.<W>
+!------------------------------!
+ So, you still haven't found the guy?<W> Listen, streets here are dangerous at night. Highly dangerous!<W>
+!------------------------------!
+ You can't go running 'round the village with a kid!<W> 'Cause that's dangerous! Highly dangerous!<W>
+!------------------------------!
+ I'm afraid I'm gonna have to punish your poor judgment with a puzzle. But you'll solve it, yeah? 'Course!
+!******************************!
+[e178_t1.txt]
+<@1>What's that? You want to try my puzzle again? Well, I won't stop you, that's for sure.
+!******************************!
+[e178_t2.txt]
+<@1>Do yourselves a favour and go back to the inn for the night. Wisest thing to do is go home and sleep.
+!******************************!
+[e178_t3.txt]
+<@1>Well, it looks like you solved it, all right.<W> Of course, we all knew a brainbox like you would solve it.<W>
+!------------------------------!
+ If you're looking for the cafe, it's right there.<W> But it's way past that kid's bedtime, y'know! Way past!<W>
+!------------------------------!
+ Besides, the tower could start making noise again at any time.<W>
+!------------------------------!
+ Trust me on this one, Professor. Get back to the inn, yeah? Yeah! Back to the inn.
+!******************************!
+[e178_t4.txt]
+<@1>What's the matter, you can't solve it?<W> You let me down, Professor. You really disappointed me there.
+!******************************!
+[e179_t0.txt]
+Hello there, boys. Turning in for the night already?
+!******************************!
+[e179_t1.txt]
+Not yet, I'm afraid. We're still out surveying the village.<W> By the way, have you seen Ramon today?
+!******************************!
+[e179_t10.txt]
+Oh, yes. And just out of curiosity, you haven't seen Ramon about lately, have you?
+!******************************!
+[e179_t11.txt]
+What's that, Professor?  Ramon? I reckon he's in the cafe.
+!******************************!
+[e179_t12.txt]
+Ah yes, that's right.
+!******************************!
+[e179_t2.txt]
+Ramon?<W> That skinny man with the big purple lips?<W> No, he hasn't come by today.<W>
+!------------------------------!
+ But you know, for all his fancy clothing, I hear he's actually quite the layabout.<W>
+!------------------------------!
+ He's probably off idling at the cafe.<W> Why not go check for him there?
+!******************************!
+[e179_t3.txt]
+...I see.<W> If that's the case, I'd like to go to the cafe right away.<W>
+!------------------------------!
+ Do you mind keeping the front door open a little longer?
+!******************************!
+[e179_t4.txt]
+Oh, don't you worry, Professor.<W> Another guest arrived to stay the night, and I'm setting up his room.<W>
+!------------------------------!
+ Besides, my door is always open for a dashing gentleman such as yourself.
+!******************************!
+[e179_t5.txt]
+Good evening, Beatrice. I heard that you found a wristwatch out by the entrance to the park.
+!******************************!
+[e179_t6.txt]
+Oh, that old thing? Does it belong to you, Professor?
+!******************************!
+[e179_t7.txt]
+Oh, no, it's Gerard's. He dropped it today while wandering about, and asked me to help him find it.
+!******************************!
+[e179_t8.txt]
+Why am I not surprised? That man sheds more stuff than a cat sitting by a fireplace.<W>
+!------------------------------!
+ All right then, here's that watch.<W> You know, it makes sense that it belongs to Gerard.<W>
+!------------------------------!
+ I was just thinking to myself, "The professor is far too fashionable to wear this old thing".
+!******************************!
+[e179_t9.txt]
+Ha ha ha! Thank you very much.
+!******************************!
+[e180_t0.txt]
+Oh, fancy meeting you here.<W> I've got a really tough puzzle right now. It's harder to crack than a coconut.<W>
+!------------------------------!
+ And who knows, it might even have something to do with the case you're investigating.<W>
+!------------------------------!
+ So what do you say?<W> Help a fellow detective out, will you, brother?
+!******************************!
+[e180_t1.txt]
+That's all very interesting, but I do believe there's been a mistake here. I'm no detective, you see.
+!******************************!
+[e180_t2.txt]
+Say no more! Undercover and all that then, yes? Very well, but I know a fellow sleuth when I see one.<W>
+!------------------------------!
+ Us being in the same trade and all, I suppose it couldn't hurt if I let you have a look at this puzzle.
+!******************************!
+[e180_t3.txt]
+Ho ho! You've done it! You've solved that monster of a riddle.<W> Simply astounding! Even I couldn't do it!
+!******************************!
+[e180_t4.txt]
+Oh, it wasn't that difficult.<W> But on a more pressing note, have you heard from Ramon lately?
+!******************************!
+[e180_t5.txt]
+What's that you say, good sir? You want to solve more puzzles?<W> All right, then here's a gem of a tip.<W>
+!------------------------------!
+ Go visit Granny Riddleton's shack. That's all I can say!<W>
+!------------------------------!
+ My detective's instinct tells me that another case is developing as we speak.<W>
+!------------------------------!
+ Perhaps I'll see you again tomorrow.
+!******************************!
+[e180_t6.txt]
+Ho ho ho! As suspected, this mind boggler takes quite a bit of time and mental fortitude to crack.<W>
+!------------------------------!
+ So fret not.<W> Even a top mind like me struggles with puzzles. This one has stumped me for nearly a year now.
+!******************************!
+[e180_t7.txt]
+Try the puzzle again if you wish, but don't expect to find an answer. I've been stuck on this one for a year.
+!******************************!
+[e181_t0.txt]
+The gizmos you've gathered around St Mystere are all lined up on the Touch Screen.<W>
+!------------------------------!
+ Tap one to snap it into place.
+!******************************!
+[e181_t1.txt]
+Just what are you constructing, you ask?<W> <@W>2.<@W>2.<@W>2.<@W>2That's a secret.
+!******************************!
+[e182_t0.txt]
+You can place furnishings you've collected in either Luke's or Professor Layton's room.<W>
+!------------------------------!
+ Use your stylus to move an item.<W> When you move an item...
+!******************************!
+[e182_t1.txt]
+It appears on the top screen in the room in which you placed it.<W>
+!------------------------------!
+ The actual location of an item within the room is decided for you.
+!******************************!
+[e182_t2.txt]
+Both Luke and Professor Layton will comment on how the furnishing of their rooms is coming along.<W>
+!------------------------------!
+ Your goal is to arrange the ideal living space for both of them.<W>
+!------------------------------!
+ You can check how they feel about their rooms by tapping their names on the Touch Screen.
+!******************************!
+[e182_t3.txt]
+Each time you obtain a new item, you'll be asked which room to put it in.<W>
+!------------------------------!
+ You can always go back and change the layout of items, so don't think too hard about their locations.<W>
+!------------------------------!
+ If you get a new item when one of your rooms is full, it will be sent to the room with remaining space.<W>
+!------------------------------!
+ When both Luke and the professor are completely satisfied with their living quarters<@W>2.<@W>2.<@W>2.<@W>2<W>
+!------------------------------!
+ something good will happen!
+!******************************!
+[e183_t0.txt]
+Touch a piece of the painting to go to a screen where you can place your selected piece.
+!******************************!
+[e183_t1.txt]
+You can also enter the placement screen by tapping the yellow arrow at the top of the selection screen.<W>
+!------------------------------!
+ Return to the selection screen from the placement screen at any time by tapping Switch.
+!******************************!
+[e183_t2.txt]
+Move pieces on the placement screen with your stylus.<W>
+!------------------------------!
+ Touch the piece in the circle that appears to slide the piece around.<W>
+!------------------------------!
+ If you touch a piece outside the circle, you can rotate the piece by drawing a circle with your stylus.<W>
+!------------------------------!
+ Find all 20 pieces and reassemble the picture.<W>
+!------------------------------!
+ When you put the whole painting back together<@W>2.<@W>2.<@W>2.<@W>2 something good will happen!
+!******************************!
+[e184_t0.txt]
+<@3>Professor, shouldn't we talk to someone before we go elsewhere?
+!******************************!
+[e184_t1.txt]
+Event Text184_1[[0D]] 
+!******************************!
+[e184_t2.txt]
+Event Text184_2[[0D]] 
+!******************************!
+[e184_t3.txt]
+Event Text184_3[[0D]] 
+!******************************!
+[e185_t0.txt]
+Oh, my...
+!******************************!
+[e185_t1.txt]
+<@3>What is it, Professor?
+!******************************!
+[e185_t2.txt]
+<@3>Look at this poster... The picture appears to be the same as the one on the ticket we picked up.<W>
+!------------------------------!
+ It looks like it's been posted here for ages. It's so faded, you can't even read the letters.
+!******************************!
+[e185_t3.txt]
+<@3>Oh!
+!******************************!
+[e185_t4.txt]
+<@3>Hey, isn't that...
+!******************************!
+[e185_t5.txt]
+<@3>Yes, I thought so!<W> That's little Flora there in the middle of the picture, isn't it?<W>
+!------------------------------!
+ She looks exactly as she does in the portrait we saw of her in Reinhold Manor.
+!******************************!
+[e185_t6.txt]
+It would seem that Baron Reinhold built this amusement park solely for his daughter's enjoyment.<W>
+!------------------------------!
+ Strange, I wonder why it wasn't more popular with the village folk once it was opened to the public. 
+!******************************!
+[e185_t7.txt]
+...Well, I don't suppose speculation will help us very much. Let's keep moving.
+!******************************!
+[e185_t8.txt]
+<@3>Right you are, Professor.
+!******************************!
+[e186_t0.txt]
+<@1>Imagine... A murder in this very house.<W> It brings a chill to my spine, it does.<W>
+!------------------------------!
+ You're a detective, are you not?<W> Do hurry and find the monster that did this.
+!******************************!
+[e186_t1.txt]
+My good sir, I am no detective.<W> But I agree that your concerns are certainly warranted.<W>
+!------------------------------!
+ No one is safe until that criminal is behind bars.
+!******************************!
+[e186_t10.txt]
+Event Text186_10[[0D]] 
+!******************************!
+[e186_t2.txt]
+<@1>My sentiments exactly.<W> I just don't understand it. Simon could be snide, but he wasn't the type to be hated.<W>
+!------------------------------!
+ If the criminal was after my brother's fortune, I could very well be this fiend's next target!
+!******************************!
+[e186_t3.txt]
+You have a point.<W>
+!------------------------------!
+ If we narrow the motive to stealing the Reinhold fortune, there are fewer potential suspects...
+!******************************!
+[e186_t4.txt]
+<@1>Good gracious, you don't think I'd do something like this now?!<W>
+!------------------------------!
+ Simon and I got along very well, I'll have you know. He wasn't very close to Augustus though.<W>
+!------------------------------!
+ You know, all this talk of families has me contemplating a puzzle I once heard.
+!******************************!
+[e186_t5.txt]
+<@1>Ah yes, back to try that puzzle once more?
+!******************************!
+[e186_t6.txt]
+<@1>Poor Simon, murdered right here. I'm absolutely terrified. Bring this criminal to justice, I beg you.
+!******************************!
+[e186_t7.txt]
+<@1>Ah yes, so that's the answer.<W>
+!------------------------------!
+ Thank you for clearing up that puzzle, but we're still no closer to finding Simon's killer.<W>
+!------------------------------!
+ I assure you I had nothing to do with it, so please go out and find the real murderer!
+!******************************!
+[e186_t8.txt]
+Of course.<W> I understand your position. It appears I am a suspect too. I'll find out what I can.
+!******************************!
+[e186_t9.txt]
+<@1>Oh...<W> Giving up already? I was told that you were a greater man than that, Professor.
+!******************************!
+[e187_t0.txt]
+<@3>Oh, Professor, how fortunate that you're here at a time like this. I have a favour to ask of you.
+!******************************!
+[e187_t1.txt]
+Please, madam, ask away. I'm happy to come to your aid in any way I can.
+!******************************!
+[e187_t2.txt]
+<@3>Thank you, Professor.<W>
+!------------------------------!
+ Could you solve this puzzle for me?<W> Though I'm not feeling up to the challenge, it won't solve itself.
+!******************************!
+[e187_t3.txt]
+<@3>Have you given some more thought to the puzzle?
+!******************************!
+[e187_t4.txt]
+<@3>I'd like to be left alone for a little while, Professor. I need some time to collect my thoughts.
+!******************************!
+[e187_t5.txt]
+<@3>What a relief! I can finally stop thinking about that silly puzzle.<W> You have my thanks.
+!******************************!
+[e187_t6.txt]
+Event Text187_6[[0D]] 
+!******************************!
+[e187_t7.txt]
+<@3>Some help you are!
+!******************************!
+[e188_t0.txt]
+<@1>By the way, Mr Layton, I hear you're something of a puzzle connoisseur.<W>
+!------------------------------!
+ This puzzle was popular in London when I left.<W> I wonder if you have what it takes to solve it.
+!******************************!
+[e188_t1.txt]
+<@1>Can't stand admitting defeat, eh? Very well then, you can try this puzzle again.
+!******************************!
+[e188_t2.txt]
+<@1>My, my, our murderer is quite the slippery one.<W> But rest assured, Mr Layton.<W>
+!------------------------------!
+ There isn't a criminal alive that can outwit me. I'll have him behind bars before you know it.
+!******************************!
+[e188_t3.txt]
+<@1>Hmph. I suppose I should have given you a tougher puzzle to solve.<W>
+!------------------------------!
+ You'd do best to use that brain of yours to find that Golden Apple everyone is abuzz about.
+!******************************!
+[e188_t4.txt]
+<@1>Really, Mr Layton...<W>
+!------------------------------!
+ How do you expect to crack the case of the Golden Apple when you can't even solve a simple puzzle?
+!******************************!
+[e189_t0.txt]
+A small cog?<W> Now that you mention it, I know a puzzle about an object that almost fits that description.
+!******************************!
+[e189_t1.txt]
+<@3>Whaaat? Are you joking?<W> A puzzle? At a time like this?
+!******************************!
+[e189_t10.txt]
+Oh dear, please excuse my insolence.<W> Honestly, spouting off puzzles at a time like this!<W>
+!------------------------------!
+ The murder has me shaken up, and I'm afraid I'm not thinking clearly.
+!******************************!
+[e189_t11.txt]
+This is not proper behaviour for a born-and-bred butler like myself.
+!******************************!
+[e189_t12.txt]
+Not at all, Matthew. It's been quite a day for all involved, and it's only natural you'd feel out of sorts.<W>
+!------------------------------!
+ Why don't you go and rest for a little bit? I think you would feel much better.
+!******************************!
+[e189_t13.txt]
+Thank you for your consideration, Professor. I appreciate your concern very much.<W>
+!------------------------------!
+ Still, why would someone do this to poor Simon? The question is eating away at me.
+!******************************!
+[e189_t14.txt]
+I beg your forgiveness, Professor.<W>
+!------------------------------!
+ You see, I just can't fathom it. What reason would anyone have to hurt Simon?
+!******************************!
+[e189_t2.txt]
+Won't you please solve this puzzle for me, sir?
+!******************************!
+[e189_t3.txt]
+If there's anything I can do to aid your investigation, please don't hesitate to ask, sir.
+!******************************!
+[e189_t4.txt]
+Thank you, Matthew.
+!******************************!
+[e189_t5.txt]
+My apologies, but I'm afraid I don't know anything that would aid your investigation.
+!******************************!
+[e189_t6.txt]
+Not at all. This small cog is more than enough for us to go on.
+!******************************!
+[e189_t7.txt]
+But I do wonder why you're giving this to us.
+!******************************!
+[e189_t8.txt]
+I believe you are a good man, Professor.<W> I'm confident you will piece together this puzzle.
+!******************************!
+[e189_t9.txt]
+I appreciate the vote of confidence, Matthew.
+!******************************!
+[e190_t0.txt]
+Well, if it isn't Claudia, out and about.<W> And that reminds me of a puzzle. Give it a try, my boy.
+!******************************!
+[e190_t1.txt]
+That's the spirit. I'm certain you'll make sense of the puzzle this time around.
+!******************************!
+[e190_t2.txt]
+<@3>I thought Lady Dahlia was full of hot air when she said Claudia needed to be by her side at all times.<W>
+!------------------------------!
+ I guess we didn't really need to run ourselves ragged chasing Claudia around the village after all...
+!******************************!
+[e190_t3.txt]
+Once you realise how you need to look at things, it's not a terribly difficult problem, now is it?
+!******************************!
+[e190_t4.txt]
+Don't be discouraged. You probably just need to think things through a bit more.
+!******************************!
+[e191_t0.txt]
+<@1>Why should I tell you anything if you won't even do me the decency of telling me who you're looking for?<@P><@C> Now, does that sound right? It doesn't sound right, right? Yeah, brainbox, you hear what I'm saying.
+!******************************!
+[e191_t1.txt]
+If you must know, we are searching for Ramon, a servant under the employ of the Reinhold family.
+!******************************!
+[e191_t2.txt]
+<@1>No idea. Seriously,<W> I know nothing.<W> I saw nothing. Nope, not a thing.<W> GOT IT?!<W>
+!------------------------------!
+ Tell you what, if you've got time to prattle questions at me, you've got time to solve this puzzle!
+!******************************!
+[e191_t3.txt]
+<@1>I thought I made it clear that I've got nothing to tell you! So stop your blathering and get solving!
+!******************************!
+[e191_t4.txt]
+<@1>Sorry! I've got nothing for you. No tips for you, uh-uh.<W>
+!------------------------------!
+ So, do me a favour and stop all this interrogating!
+!******************************!
+[e191_t5.txt]
+<@1>Oooh, interesting. Now I get it.<W>
+!------------------------------!
+ OK, now you, go away. I've got nothing for you. N-O-T-H-I-N-G! Clear?<W> Right, see you.
+!******************************!
+[e191_t6.txt]
+<@1>WHAAAAT?<W>
+!------------------------------!
+ How do you expect to find a missing person when you can't even solve a little puzzle?<W> You can't!<W>
+!------------------------------!
+ Let me tell you, if I were you, I'd give up the missing persons game. Maybe go into haberdashery instead.
+!******************************!
+[e191_t7.txt]
+<@1>Came back to try again?<W> Of course you did.
+!******************************!
+[e192_t0.txt]
+As you've come to the village hall, I strongly advise you to follow procedure and solve this puzzle.
+!******************************!
+[e192_t1.txt]
+I strongly advise you to retry this puzzle until you get it right.
+!******************************!
+[e192_t2.txt]
+If you don't have a form to file or further business here, I strongly advise that you take your leave.
+!******************************!
+[e192_t3.txt]
+Thank you, that will do nicely. Now, please vacate the premises.
+!******************************!
+[e192_t4.txt]
+So the puzzle is too hard for you? Very well then, you'll have to leave. You're only getting in the way here.
+!******************************!
+[e193_t0.txt]
+There you are, Professor.<W> Would you help a girl out? I've got something here I'd like you to look at.<W>
+!------------------------------!
+ I made this darling sandwich for my special lunch box, but the silly thing is too big.<W> Can you make it fit?
+!******************************!
+[e193_t1.txt]
+Are you ready to help me cut that sandwich yet?
+!******************************!
+[e193_t2.txt]
+Running around the village all day must tire out even a big, strong man such as yourself.<W>
+!------------------------------!
+ But fret not! Mama Beatrice has just the cure! I'll be awaiting your return tonight with a hot meal.
+!******************************!
+[e193_t3.txt]
+Oh, Professor, you're just the cleverest! Thanks for helping me work this out.
+!******************************!
+[e193_t4.txt]
+These sandwiches must be a bigger problem than I initially thought if even you can't find the answer!
+!******************************!
+[e194_t0.txt]
+Still no luck finding the villain?<W>
+!------------------------------!
+ What an odd world we live in. Well, you know what they say. Truth IS stranger than fiction.<W>
+!------------------------------!
+ Speaking of fiction, I just thought up this little gem! Please give me your honest feedback on it!
+!******************************!
+[e194_t1.txt]
+Care to try my puzzle again? It's an awfully good one, isn't it?
+!******************************!
+[e194_t2.txt]
+The muse paid me a visit just now! I'm thinking about making my next book an epic adventure.<W>
+!------------------------------!
+ Picture this:<W>
+!------------------------------!
+ A world-famous archaeologist races the clock and a secret society to recover a jewel of immense value.<W>
+!------------------------------!
+ In doing so, he must travel deep within a sinister tower on the edge of a village.<W>
+!------------------------------!
+ Where do these ideas come from? Honestly, sometimes my own brilliance frightens me.
+!******************************!
+[e194_t3.txt]
+Is something hidden in the tower here in St Mystere?
+!******************************!
+[e194_t4.txt]
+Oh, no, no, there's nothing there whatsoever.<W>
+!------------------------------!
+ I'm just using the age-old writer's technique of taking inspiration from my surroundings.<W>
+!------------------------------!
+ That tower IS intriguing, though.<W>
+!------------------------------!
+ Still, it's best to keep your distance. I've never heard anything but bad rumours about the place.
+!******************************!
+[e194_t5.txt]
+Beautiful work!<W> But I think the puzzles I write into my next novel will be even harder than that one.<W>
+!------------------------------!
+ If you have time, stop by later. I'm sure to have an utterly fascinating puzzle prepared for you by then.
+!******************************!
+[e194_t6.txt]
+It's a hard one, isn't it? Please come and see me again when you've worked out the answer.
+!******************************!
+[e194_t7.txt]
+Event Text194_7[[0D]] 
+!******************************!
+[e194_t8.txt]
+Event Text194_8[[0D]] 
+!******************************!
+[e194_t9.txt]
+Event Text194_9[[0D]] 
+!******************************!
+[e195_t0.txt]
+<@1>Hey, Professor.<W> Looking busy as usual, I see.<W>
+!------------------------------!
+ Oh, I've got this puzzle I just can't work out on my own here.<W> Can you lend me your thinking cap?
+!******************************!
+[e195_t1.txt]
+<@1>Gonna solve that puzzle for me? You're a decent man, Professor.
+!******************************!
+[e195_t2.txt]
+<@1>Nothing good can be said about that tower. I heard it's reeeeaaally scary. You should stay away, see?
+!******************************!
+[e195_t3.txt]
+<@1>Ah, so that's how you do it, yeah? I can finally rest at night. This thing was annoying me for days.<W>
+!------------------------------!
+ Let me tell you something odd.<W> And by odd, I really mean terrifying.<W>
+!------------------------------!
+ The thing is that I've actually seen that old man with the big sack coming out of that tower up north.<W>
+!------------------------------!
+ I bet you anything you like that he's the one behind all these disappearances.<W>
+!------------------------------!
+ I wonder what he does up there.<W> Wait, no, I don't even want to THINK about it. It's just too scary...
+!******************************!
+[e195_t4.txt]
+<@1>So even the professor can't field this one, huh? It's been annoying me so much I can't sleep at night.
+!******************************!
+[e196_t0.txt]
+<@1>Keh heh heh heh heh! Looks like you fellows are getting used to St Mystere.<W> But stay sharp!<W>
+!------------------------------!
+ Believe you me, you'll be buried in all sorts of difficult puzzles before you can shout "Stachenscarfen"!
+!******************************!
+[e196_t1.txt]
+<@1>So you want to try again, do you? Keh heh heh! That's the spirit!<W>
+!------------------------------!
+ Never succumb to defeat! That is the guiding principle of all those who live for puzzles!
+!******************************!
+[e196_t2.txt]
+<@1>Keh heh heh! If you really want to understand St Mystere, you'll need to search the village thoroughly.<W>
+!------------------------------!
+ Good luck, fellows. You'll need it.
+!******************************!
+[e196_t3.txt]
+<@1>Keh heh heh! Now that's what I like to see! Seems the training I've been giving you has paid off.<W>
+!------------------------------!
+ No, no, no need to thank me. Anyhoo, be seeing you 'round!
+!******************************!
+[e196_t4.txt]
+<@1>Keh heh! You really can't solve this puzzle? What did I say 'bout staying sharp, eh? You can't give up now.
+!******************************!
+[e196_t5.txt]
+<@1>By now, I'm sure you've realised that you can retry the puzzles you fail to solve, eh?<W>
+!------------------------------!
+ &SetAni 0 angry&However!<W> Have you noticed how some puzzles just seem to vanish before you can get back to them?<W>
+!------------------------------!
+ That's right. You see, that's the way it is with some things in life. Once they're gone, they're gone...<W>
+!------------------------------!
+ For good!<W>
+!------------------------------!
+ &SetAni 0 talk&But rest at ease, you two. Those puzzles you thought had vanished have merely moved elsewhere.<W>
+!------------------------------!
+ You must seek out Granny Riddleton's shack.<W>
+!------------------------------!
+ It's a strange old building, so it should be easy enough to spot.<W>
+!------------------------------!
+ But don't get sloppy just because you know how to retry puzzles now!<W> &SetAni 0 talk&There's no honour in laziness! <W>
+!------------------------------!
+ Now that you've got the lowdown on the village puzzles, let me throw one your way to keep you sharp.
+!******************************!
+[e197_t0.txt]
+<@1>Oh, this time I'm just LIVID!<W> It's just TOO MUCH to take!<W> The needle on my wrath metre is through the roof!<W>
+!------------------------------!
+ Why am I so worked up, you ask?<W> It's this blasted puzzle! I've been trying to work it out since yesterday!<W>
+!------------------------------!
+ I just can't get it, and it has me so frantic, I can't sleep!<W> STUPID PUZZLE!<W>
+!------------------------------!
+ Come here and take a look, will you?
+!******************************!
+[e197_t1.txt]
+<@1>This puzzle is still driving me nuts! PLEASE try it again! I'm begging you!
+!******************************!
+[e197_t2.txt]
+<@1>So just what is that Golden Apple anyway?<W> The name makes a bloke hungry!<W> Which makes a bloke angry!
+!******************************!
+[e197_t3.txt]
+<@1>What were you THINKING, man?!<W>
+!------------------------------!
+ And here I was ready to solve it all by myself. Why'd you have to go and ruin everything?! The NERVE!
+!******************************!
+[e197_t4.txt]
+<@1>It's harder than concrete, huh!<W> What kind of person makes a puzzle so hard that no one can solve it?!
+!******************************!
+[e197_t5.txt]
+<@1>But...with that puzzle solved, I can finally sleep again, so I guess I owe you one. Thanks!<W>
+!------------------------------!
+ I know you both have your work cut out for you, so good luck, yeah? 
+!******************************!
+[e198_t0.txt]
+<@1>Ah, yeah, you're supposed to be some sort of puzzle whizz?<W> Well, I've got this puzzle I can't solve.<W>
+!------------------------------!
+ And let me tell you, it's becoming a real pain in the proverbial.<W> Here it is! Look at it, would ya?!
+!******************************!
+[e198_t1.txt]
+I hope you solve this rotten thing for me! Thanks a million, mate!<W> Hrmph!
+!******************************!
+[e198_t2.txt]
+I'll work on getting the bridge up and running again, but it annoys me.<W> Where the heck did my crank go?
+!******************************!
+[e198_t3.txt]
+Ah, now it all makes sense. Hrmph!<W>
+!------------------------------!
+ With that finally outta the way, I can focus on fixing the broken drawbridge motor.
+!******************************!
+[e198_t4.txt]
+Hrmph! There's no way I can focus on fixing the bridge till I work out this flippin' puzzle!
+!******************************!
+[e198_t5.txt]
+Good day, Franco. How are your bridge repairs coming along?
+!******************************!
+[e198_t6.txt]
+<@1>Hrmph! If only!<W> I'm missing all sorts of parts, so it's going to take a good while yet.<W>
+!------------------------------!
+ I don't know what joker messed with my bridge, but he won't be laughing when I find him, that's for sure!
+!******************************!
+[e198_t7.txt]
+That sounds frustrating indeed. I'm sorry to hear it, Franco. I hope repairs go smoothly from now on.
+!******************************!
+[e199_t0.txt]
+I have 16 litres of water that I want to divide into equal portions of 8 litres apiece.<W>
+!------------------------------!
+ The problem is, my measuring cup seems to have grown feet!<W>
+!------------------------------!
+ Can you think of a way I could use these 7 and 9 litre pitchers to  divide things up?
+!******************************!
+[e199_t1.txt]
+You'll help me with my little problem, won't you? I really appreciate it!
+!******************************!
+[e199_t2.txt]
+I know it's easy to do when you are investigating the village, but don't go near the tower. It's dangerous.
+!******************************!
+[e199_t3.txt]
+Ah, genius! Now that you've done it for me, it all makes sense.<W> I wish I had someone like you in the kitchen!<W>
+!------------------------------!
+ Oh, I meant to mention this earlier. I heard a rumour that the kidnapper lives in that tower.<W>
+!------------------------------!
+ You know, I've never heard anyone say anything good about the tower. Make sure you keep clear of it, OK?
+!******************************!
+[e199_t4.txt]
+Hmm, I guess it's impossible.<W> Don't fret, Professor. I appreciate the help just the same.<W>
+!------------------------------!
+ I guess I'll just think about it on my own for a while.
+!******************************!
+[e199_t5.txt]
+Good day, fellows!<W> Did you ever track down Ramon?
+!******************************!
+[e199_t6.txt]
+Indeed we did. Thank you for your assistance in the matter.
+!******************************!
+[e199_t7.txt]
+Good to hear!<W> Well, since you're here already, why not take a load off and rest for a bit?<W>
+!------------------------------!
+ What's this?<W> Oh my, where did I put that measuring cup?
+!******************************!
+[e199_t8.txt]
+Is something the matter?
+!******************************!

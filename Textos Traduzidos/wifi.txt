@@ -1,0 +1,69 @@
+[err1.txt]
+Incapaz de conectar-se com[[0D]] a Conexão Nintendo Wi-Fi.[[0D]] Para ajuda, verifique o Manual de[[0D]] Instruções deste software ou visite[[0D]] support.nintendo.com.
+!******************************!
+[err10.txt]
+Erro de comunicação. Você foi desconectado da Conexão Nintendo Wi-Fi.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err11.txt]
+Erro de comunicação.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err12.txt]
+Falha na transferência.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err2.txt]
+Ou a Conexão Nintendo Wi-Fi está presenciando altos volumes de tráfego, ou o serviço está fora do ar. Por favor tente novamente mais tarde.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err3.txt]
+O ID da Conexão Nintendo Wi-Fi foi removido pois ficou inativo por um longo período de tempo.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err4.txt]
+O serviço de Conexão Nintendo Wi-Fi foi descontinuado para este software.  Visite support.nintendo.com para uma lista dos softwares atuas compatíveis com a Conexão Nintendo Wi-Fi.
+!******************************!
+[err5.txt]
+O ponto de acesso está ocupado. Incapaz de conectar-se. Por favor tente novamente mais tarde. Para ajuda, visite support.nintendo.com.
+!******************************!
+[err6.txt]
+Sem pontos de acesso na área. Por favor tente novamente quando estiver perto de um.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err7.txt]
+Sem pontos de acesso compatível na área. Verifique suas configurações de conexão e tente novamente.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err8.txt]
+Incapaz de conectar com o Nintendo Wi-Fi USB Connector.  Confirme as configurações de conexão na instalação da Conexão Nintendo Wi-Fi.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[err9.txt]
+Incapaz de conectar à Conexão Nintendo Wi-Fi. Confirme as configurações de conexão e do ponto de acesso.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[flow1.txt]
+Suas Informações de Usuário da Conexão Nintendo Wi-Fi foram apagadas. Verifique suas configurações de conexão.  Para ajuda, visite support.nintendo.com.
+!******************************!
+[flow100.txt]
+Baixando... Por favor, aguarde um momento.
+!******************************!
+[flow101.txt]
+Transferência concluída.  Sua lista de Enigmas Semanais foi atualizada.
+!******************************!
+[flow102.txt]
+Transferência concluída.  Sua lista de Enigmas Semanais já está atualizada.  
+!******************************!
+[flow103.txt]
+Transferência concluída.  Número de novos enigmas baixados: %d
+!******************************!
+[flow105.txt]
+Salvando dados baixados.  Não desligue seu DS.
+!******************************!
+[flow11.txt]
+Desconectando-se da Conexão Nintendo Wi-Fi.
+!******************************!
+[flow2.txt]
+Conectar-se à Conexão Nintendo Wi-Fi?
+!******************************!
+[flow200.txt]
+Por favor, desligue seu DS.
+!******************************!
+[flow300.txt]
+O serviço de transferência de Enigmas Semanais ainda não iniciou.  Por favor, verifique mais tarde.
+!******************************!
+[flow8.txt]
+Conectando-se à Conexão Nintendo Wi-Fi...  Por favor, aguarde um momento...
+!******************************!

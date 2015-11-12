@@ -1,0 +1,3123 @@
+[e200_t0.txt]
+<@1>Ora se não são vocês dois de novo.<W> Tudo bem, se quiserem que seus destinos sejam contados, resolvam este enigma para mim.
+!******************************!
+[e200_t1.txt]
+<@1>Depressa, resolva logo esse enigma antes que eu mude de ideia.
+!******************************!
+[e200_t2.txt]
+<@1>Gostaria de saber o que fazer para o jantar de hoje.
+!******************************!
+[e200_t3.txt]
+<@1>Amanhã vai ter muita chuva. Deixe as suas roupas lavadas dentro se quiser vê-las secas.
+!******************************!
+[e200_t4.txt]
+<@1>Você está destinado a ser infeliz.
+!******************************!
+[e201_t0.txt]
+<@3>Tee hee hee! Quem estás procurando dessa vez?<W> Quer descansar um pouco e resolver este enigma?
+!******************************!
+[e201_t1.txt]
+<@3>Ah, então agora voltou? Poderia ao menos TENTAR resolver este enigma desta vez?
+!******************************!
+[e201_t2.txt]
+<@3>Aonde está a diversão em sair por aí para tentar ajudar os outros? Não se sente tãããão bobo?
+!******************************!
+[e201_t3.txt]
+<@3>Ah, você conseguiu. Certo, acho que devo lhe oferecer uma informação como recompensa.<W>
+!------------------------------!
+ Conhece a Sr. Dahlia, não conhece? Ela está planejando ficar com a fortuna somente para si quando encontrem-na.<W>
+!------------------------------!
+ E você esteve ajudando ela durante todo o tempo.<W> Não se sente tãããão bobo? Tee hee hee!
+!******************************!
+[e201_t4.txt]
+<@3>Quê? Está tendo dificuldades com esse enigmazinho? Está começando a caducar, vovô?<W> Tee hee hee!
+!******************************!
+[e202_t0.txt]
+<@3>Hee hee! Boa tarde, senhor.<W> Ei, contarei um segredo se conseguir resolver este enigma para mim.<W>
+!------------------------------!
+ É realmente um bem complicado!
+!******************************!
+[e202_t1.txt]
+<@3>Hiya! Você voltou para resolver o meu enigma?
+!******************************!
+[e202_t2.txt]
+<@3>Tome bem mais cuidado se começar a se sentir cansado ou doente.<W> O monstro pode começar a ir atrás de você!
+!******************************!
+[e202_t3.txt]
+<@3>Uau, você é esperto.<W> OK, chegue mais perto para que eu possa contar meu segredo.<W>
+!------------------------------!
+ Ouvi dizer que todas as pessoas que foram sequestradas se sentiam um pouco doente logo antes!<W>
+!------------------------------!
+ Aposto que o monstro que vive na torre alimenta a sua vítima com comida desagradável antes de dar o bote!<W><@C> Aah, acho que é isso, tipo, sorvete de tripas com molho de carne.<W> Ugh.<W>
+!------------------------------!
+ Ou talvez ele só pega a pessoa mais fraca para arrebatar.<W> Mas por que ele precisaria de todas essas pessoas?
+!******************************!
+[e202_t4.txt]
+<@3>Você não entendeu mesmo, né?<W> Ahh, e eu tinha um segredo e tanto para compartilhar contigo também! Boo.
+!******************************!
+[e203_t0.txt]
+<@3>Mas claro. Se tiver a ver com animais, então deixa comigo!<W>
+!------------------------------!
+ Mas enfim, Professor, já viu este aqui antes?
+!******************************!
+[e203_t1.txt]
+<@3>Ah, gostaria de resolver esse enigma de antes?
+!******************************!
+[e203_t2.txt]
+<@3>Não parece ter muitos animais ao redor da vila.
+!******************************!
+[e203_t3.txt]
+<@3>Caramba, pensava que eu viria com um enigma daqueles, mas ainda era um muito fácil, na minha opinião.
+!******************************!
+[e203_t4.txt]
+<@3>Ah, acho que temos coisas mais importantes que deveríamos estar fazendo...
+!******************************!
+[e203_t5.txt]
+<@3>Aquele gato e rato parecem ser dar muito bem, não parecem?
+!******************************!
+[e203_t6.txt]
+Você acha, Luke?<W> Eu teria imaginado que o gato estava atormentando aquele pobre rato.<W><@C> Mas se diz se o dois são amigos, acredito em você.
+!******************************!
+[e203_t7.txt]
+Você é um amante dos animais, não é, Luke?<W>
+!------------------------------!
+ Agora vamos indo. Não temos tempo para ficarmos parados e brincando.
+!******************************!
+[e204_t0.txt]
+<@1>Olha só você inseguro aí. Qual é o problema?
+!******************************!
+[e204_t1.txt]
+Desculpe por estar encomodando, mas você viu Ramon por aqui hoje? Ele estava aqui até pouco tempo.
+!******************************!
+[e204_t2.txt]
+<@1>Não, não posso dizer que o vi hoje, o que é estranho, considerando a frequência em que ele foge do trabalho.<W>
+!------------------------------!
+ Mas, chega disso!<W> Ouvi falarem que você é o cara nos enigmas.<W>
+!------------------------------!
+ Você poderia me ajudar com um enigma que estou remoendo há tempos?
+!******************************!
+[e204_t3.txt]
+Ah, agora mesmo? Nós estamos bem no meio de algo importante... Mas se insiste...
+!******************************!
+[e204_t4.txt]
+<@1>Então você veio dar conta daquele enigma?
+!******************************!
+[e204_t5.txt]
+<@1>Vocês dois estão gostando muito daqui, estou certa?<W> Com uma garota como eu por aqui, seria bem difícil NÃO estar!
+!******************************!
+[e204_t6.txt]
+<@1>Que trabalho bom esse aí. Eu estava empacado nesse enigma por tanto tempo que perdi as contas.<W>
+!------------------------------!
+ Ah, você aí, garoto!<W> Eu acabei de ter uma terrível visão de você entrando em problemas hoje a noite.<W>
+!------------------------------!
+ Então tome cuidado aí, viu?
+!******************************!
+[e204_t7.txt]
+<@1>Que vergonha!<W> Um homem tão inteligente como você deveria ser capaz de resolver um enigma tão fácil.
+!******************************!
+[e204_t8.txt]
+<@3>Nossa, essa foi uma ótima notícia.<W> Mas não se preocupe comigo, porque não fico assustado facilmente!
+!******************************!
+[e205_t0.txt]
+<@1>Ah, e cá estava eu pensando que iria ter um ótimo negócio.<W> Você me faz ter olhar faminto sobre você, sabe.<W>
+!------------------------------!
+ Bem, se não posso lhe interessar com meus ótimos produtos de carnes, posso pelo menos lhe tentar com um enigma?
+!******************************!
+[e205_t1.txt]
+<@1>Ah, bem vindo de volta! Ansiando por outra mordida nesse enigma?
+!******************************!
+[e205_t2.txt]
+<@1>Tem certeza de que não se interessa por carne de veado?<W> É um negócio de veado! Har har har!
+!******************************!
+[e205_t3.txt]
+<@1>Ei, você é bom mesmo nisso.<W> Como bônus por resolver o meu enigma, eu vou te falar uma fofoca que fiquei sabendo.<W>
+!------------------------------!
+ A coisa é, alguém vive naquela sombria, torre encardida.<W>
+!------------------------------!
+ Você tem que ser um excêntrico de verdade para querer viver naquele lugar velho e mofado.
+!******************************!
+[e205_t4.txt]
+<@1>Se você nem consegue resolver esse simples enigma, Eu definitivamente não gostaria de "comer" você! Har har har!
+!******************************!
+[e205_t5.txt]
+Desculpe em desapontá-lo, senhor, mas nós não viemos aqui para compras.
+!******************************!
+[e205_t6.txt]
+<@1>Ah, um cliente! Bem vindo, bem vindo!<W>
+!------------------------------!
+ Eu tenho uma grande quantidade de salsicha hoje. E o meu bife de saia vai fazer qualquer prato, um prato chique! Har har!
+!******************************!
+[e206_t0.txt]
+Ho ho! E aí, Professor. Você parece ocupado, como sempre.<W> Por que não se senta comigo e resolver um enigma? 
+!******************************!
+[e206_t1.txt]
+Ah, bem vindo de volta.
+!******************************!
+[e206_t2.txt]
+Se não quiser a Sr. Dahlia te usando pelos interesses dela, é melhor manter distância.
+!******************************!
+[e206_t3.txt]
+Ah, uau, agora entendo porque seu nome está sempre nos jornais.<W> Você é um homem inteligentíssimo, ein!<W>
+!------------------------------!
+ Ora, você me impressionou, por isso deixa eu te contar esta fofoca.<W>
+!------------------------------!
+ Ela pode parecer um doce, mas vai por mim, a Sr. Dahlia da mansão Reinhold é uma coisinha astuta.<W>
+!------------------------------!
+ No momento em que o barão bateu as botas, essa mulher foi logo tratar de afugentar Flora!<W>
+!------------------------------!
+ Sim, essa Flora, a herdeira verdadeira da fortuna Reinhold!<W> Posso ver no seu rosto o quanto está escandalisado!<W>
+!------------------------------!
+ Se não quiser ser tornar um peão no seu jogo, é melhor manter distância dela.
+!******************************!
+[e206_t4.txt]
+Não consegue resolver esse enigmazinho? Qual é? Isso deveria garapa para alguém como você!
+!******************************!
+[e207_t0.txt]
+Event Text207_0[[0D]] 
+!******************************!
+[e207_t1.txt]
+Event Text207_1[[0D]] 
+!******************************!
+[e207_t10.txt]
+Event Text207_10[[0D]] 
+!******************************!
+[e207_t11.txt]
+Event Text207_11[[0D]] 
+!******************************!
+[e207_t12.txt]
+Event Text207_12[[0D]] 
+!******************************!
+[e207_t13.txt]
+Event Text207_13[[0D]] 
+!******************************!
+[e207_t14.txt]
+Event Text207_14[[0D]] 
+!******************************!
+[e207_t15.txt]
+Event Text207_15[[0D]] 
+!******************************!
+[e207_t16.txt]
+Event Text207_16[[0D]] 
+!******************************!
+[e207_t17.txt]
+Event Text207_17[[0D]] 
+!******************************!
+[e207_t18.txt]
+Event Text207_18[[0D]] 
+!******************************!
+[e207_t19.txt]
+Event Text207_19[[0D]] 
+!******************************!
+[e207_t2.txt]
+Event Text207_2[[0D]] 
+!******************************!
+[e207_t20.txt]
+Event Text207_20[[0D]] 
+!******************************!
+[e207_t3.txt]
+Event Text207_3[[0D]] 
+!******************************!
+[e207_t4.txt]
+Event Text207_4[[0D]] 
+!******************************!
+[e207_t5.txt]
+Event Text207_5[[0D]] 
+!******************************!
+[e207_t6.txt]
+Event Text207_6[[0D]] 
+!******************************!
+[e207_t7.txt]
+Event Text207_7[[0D]] 
+!******************************!
+[e207_t8.txt]
+Event Text207_8[[0D]] 
+!******************************!
+[e207_t9.txt]
+Event Text207_9[[0D]] 
+!******************************!
+[e208_t0.txt]
+Ah, os garotos de novo? O que acharam do meu parque? Adorável, não?<W>
+!------------------------------!
+ o sol resplandece forte hoje e estou de bem com a vida.<W>
+!------------------------------!
+ Por que não celebrar este clima com um enigma? Deixe-me contar um dos meus favoritos.
+!******************************!
+[e208_t1.txt]
+So you missed me puzzle that much, did you? Ha ha!
+!******************************!
+[e208_t2.txt]
+Me traz lágrimas aos olhos dizer isso, mas algumas peças deste parque estão simplesmente enferrujando.<W>
+!------------------------------!
+ Se algo parecer velho e quebrado, fique esperto e mantenha-se longe.
+!******************************!
+[e208_t3.txt]
+Ha ha! Você é um bom solucionador, não!<W>
+!------------------------------!
+ Ah sim, voltando ao parque. Ele não tem sido propriamente mantido, e peças estão enferrujando.<W>
+!------------------------------!
+ Se algo parecer velho e quebrado, façam o certo rapazes, fiquem longe disso.
+!******************************!
+[e208_t4.txt]
+É isso então?<W> Não, eu sei que vocês podem. Somente concentrem-se, sei que vocês podem conseguir!
+!******************************!
+[e209_t0.txt]
+<@3>Parece que há um enigma incorporado nessa porta. Eu jurava que não tinha nada ali um minuto atrás...
+!******************************!
+[e209_t1.txt]
+Fascinante! Parece que esse enigma está atuando como um tipo de fechadura para esta porta.<W> &SetAni 0 smile&Que delícia!<W>
+!------------------------------!
+ Luke, meu garoto, por que você não tentar fazer este enigma?<W> Tenho quase certeza que a porta irá se abrir ao resolvê-lo.
+!******************************!
+[e209_t2.txt]
+Pronto para tentá-lo novamente, Luke?
+!******************************!
+[e209_t3.txt]
+Muito bem!<W> A porta deve se abrir agora mesmo.
+!******************************!
+[e209_t4.txt]
+Você não vai sair logo agora, vai? Fortitude, meu garoto! É o que importa para um cavalheiro!
+!******************************!
+[e210_t0.txt]
+Ei, vocês dois. Vocês gostam de xadrez, certo? Que tal então? Querem sentar e jogar um pouco?
+!******************************!
+[e210_t1.txt]
+Bem na hora. Estava coçando os dedos para voltarmos ao nosso jogo.
+!******************************!
+[e210_t2.txt]
+Event Text210_2[[0D]] 
+!******************************!
+[e210_t3.txt]
+Muito bem! Vocês dois não são amadores, entendi. Sem problemas, na próxima vez será um enigma bem mais difícil.
+!******************************!
+[e210_t4.txt]
+Quê, desistindo já? Vamos lá, eu pensei que vocês dois eram bem mais jogadores do que isso.
+!******************************!
+[e210_t5.txt]
+Event Text210_5[[0D]] 
+!******************************!
+[e210_t6.txt]
+Event Text210_6[[0D]] 
+!******************************!
+[e210_t7.txt]
+Event Text210_7[[0D]] 
+!******************************!
+[e210_t8.txt]
+Event Text210_8[[0D]] 
+!******************************!
+[e211_t0.txt]
+De volta para mais uma partida, né?<W> Eu já sabia que vocês dois eram um grupo de fanáticos por xadrez!<W>
+!------------------------------!
+ Contudo, esse próximo não será fácil, mesmo para um par de viciados como vocês!
+!******************************!
+[e211_t1.txt]
+Por onde você esteve? Estava louco para retornamos à nossa partida.
+!******************************!
+[e211_t2.txt]
+Event Text211_2[[0D]] 
+!******************************!
+[e211_t3.txt]
+Uau! Parece que terei que bolar um enigma mais difícil se eu quiser barrar vocês!<W>
+!------------------------------!
+ Mal posso esperar para mostrar o meu próximo enigma! 
+!******************************!
+[e211_t4.txt]
+Esse é um daqueles, mas, qual é! Você não é um fanático por xadrez se estiver frustrado como um enigma desses!
+!******************************!
+[e212_t0.txt]
+Bom dia, cavalheiros. Como anda a investigação de vocês?<W>
+!------------------------------!
+ Não consigo imaginar que seja muito divertido perguntar todo o dia, então que tal um enigma para animar as coisas? 
+!******************************!
+[e212_t1.txt]
+Olá de novo. Você veio aqui para tentar novamente aquele enigma?
+!******************************!
+[e212_t2.txt]
+Não fique alarmado com o meu olhar penetrante.<W> Ele é apenas para fins científicos.
+!******************************!
+[e212_t3.txt]
+Hum. Acho que o velho conselho de escrever o que se sabe não vale aqui. Isso foi muito fácil!<W>
+!------------------------------!
+ Sabe, agora mesmo estou escrevendo um misterioso romance, e estou baseando o protagonista em você.<W>
+!------------------------------!
+ É por isso que eu estive te observando tão cuidadosamente. Na verdade, quanto mais eu te ver, melhor.<W>
+!------------------------------!
+ Portanto, boa sorte com a sua busca! Estarei assistindo!
+!******************************!
+[e212_t4.txt]
+Eu escrevi um enigma bem malvado,  mesmo que eu diga por mim!
+!******************************!
+[e213_t0.txt]
+Heh heh heh! Eu estive esperando  por um outro desafio! Então,  está preparado para um xadrezinho?
+!******************************!
+[e213_t1.txt]
+Bem vindo de volta. Já conseguiu obter uma resposta?
+!******************************!
+[e213_t2.txt]
+Event Text213_2[[0D]] 
+!******************************!
+[e213_t3.txt]
+Isso, essa é a resposta, tudo bem. Mas espera só pela joia que eu terei para você próxima vez.<W>
+!------------------------------!
+ Vai ser tão difícil que vocês ficarão de queixo caído!
+!******************************!
+[e213_t4.txt]
+Boa tentativa, porém má sorte dessa vez. Mas se eu conheço vocês bem, sei que não irão desistir até conseguir.<W>
+!------------------------------!
+ Quando estiverem prontos para arrebentar esse enigma, deem uma passada aqui. Sabem que estou sempre pronto para um jogo.
+!******************************!
+[e214_t0.txt]
+OK, vocês dois. Tivemos muita diversão juntos, mas este é o último enigma que tenho para vocês.<W>
+!------------------------------!
+ Mas não fiquem tristes, porque estou prestes a jogar um enigma monstro em vocês.<W>
+!------------------------------!
+ Eu garanto que vocês não serão capazes de achar uma saída nele!<W> Então, estão prontos?
+!******************************!
+[e214_t1.txt]
+Vocês tinham que voltar, não? Poderia falar pelo brilho dos seus olhos que vocês são feras no xadrez!
+!******************************!
+[e214_t2.txt]
+Desculpem por desanimá-los, companheiros, mas estou sem nenhum enigma a oferecer.
+!******************************!
+[e214_t3.txt]
+Xeque e mate!<W>
+!------------------------------!
+ Você conseguiu! Eu já sabia que vocês eram mestres do xadrez todo tempo! Estava certo desde a nossa primeira partida.
+!******************************!
+[e214_t4.txt]
+Desistindo?<W> Bem, não posso te culpar, já que eu sou a única pessoa que conheço que resolveu esse enigma.<W>
+!------------------------------!
+ Não fique tão incomodado com isso.
+!******************************!
+[e215_t0.txt]
+<@1>AAUGH!<W> Não consigo dormir por causa deste estúpido enigma! Eu estou pensando nele há horas!<W>
+!------------------------------!
+ Eu vou deixá-lo para lá DE VERDADE dessa vez se eu não conseguir!<W> GRAAAH!
+!******************************!
+[e215_t1.txt]
+<@1>Graah, ei você, me ajuda, aí vai?<W> Este enigma estúpido me desorientou tanto que mal posso pensar direito!
+!******************************!
+[e215_t2.txt]
+<@1>Oh, sorry for blowing my top there, pal. That was out of order.
+!******************************!
+[e215_t3.txt]
+<@1>Ei!<W> Por que você tem que ir e me dizer a resposta?<W><@C> Eu estava tentando achá-la há dias, e aí chega você e estraga tudo.<W> Valeu mesmo, cara!
+!******************************!
+[e215_t4.txt]
+<@1>Ahh, qual é! Não brinque assim, camarada. Sei que sabes a resposta!<W><@C> Se não vai me contá-la, pelo menos me dê uma dica.
+!******************************!
+[e216_t0.txt]
+Ha ha ha, são vocês dois de novo.<W> Vocês são um par de excêntricos, vindo todo esse caminho só para me ver.<W>
+!------------------------------!
+ Mas para a sua sorte, eu tenho aqui um belo de um enigma e quero compartilhá-lo com vocês.
+!******************************!
+[e216_t1.txt]
+A resposta veio de imediato a você? Ha ha!
+!******************************!
+[e216_t2.txt]
+É difícil dar uma fugidinha quando se está acima do solo, como todos conseguem ver você claro como um dia.<W>
+!------------------------------!
+ Se eu por ventura desejar descansar neste trabalho, só posso vir a este lugar.<W>
+!------------------------------!
+ Agora sejam bons rapazes e não vão contar isso ao Rodney.
+!******************************!
+[e216_t3.txt]
+Ha ha! Excelente trabalho.<W> Tinha certeza que o enigma iria derrubar ambos vocês, mas acho que me enganei.<W>
+!------------------------------!
+ Ah bem, você ganha uns, você perde outros.
+!******************************!
+[e216_t4.txt]
+Eu te disse que esse era especial, não foi?<W>
+!------------------------------!
+ Se se sentir com vontade de tentar novamente, fale comigo.
+!******************************!
+[e217_t0.txt]
+<@1>Deve ser um sofrimento ter que prosseguir com a investigação até pela noite.<W>
+!------------------------------!
+ Que tal uma pausa para um enigma para relaxar um pouco? Tenho aqui o enigma certo para uma noite como esta.
+!******************************!
+[e217_t1.txt]
+<@1>Feel like kicking back for a minute to solve a puzzle? Keeps you alert, they say.
+!******************************!
+[e217_t2.txt]
+<@1>Eu possuo uma barraca de carne no mercado de dia.<W>
+!------------------------------!
+ Come see me and I'll cut you a deal on tenderloin que vai te dar água na boca.
+!******************************!
+[e217_t3.txt]
+<@1>Você devorou esse enigma, ein!<W>
+!------------------------------!
+ Já que está ficando tarde, devo alertar à vocês do sequestrador que circula furtivamente por aqui.<W>
+!------------------------------!
+ Cuidado para não ser arrebatado andando por aí em St. Mistery. Isso seria a grade-A shame! Har har har!
+!******************************!
+[e217_t4.txt]
+<@1>Está me falando que há algo que preferes fazer do que resolver os meus enigmas?<W>
+!------------------------------!
+ Brrrr, que frio. Frio como um depósito de carne.
+!******************************!
+[e218_t0.txt]
+Ahoo, se não é o Professor Layton.<W> Julgando pela sua expressão, parece que ainda não achou a Mação Dourada.<W>
+!------------------------------!
+ Você parece terrivelmente tenso, Professor. Talvez este enigmazinho te ajude a, ahoo hoo, se soltar. 
+!******************************!
+[e218_t1.txt]
+Pronto para tentar o enigma novamente? Ahoo hoo hoo!
+!******************************!
+[e218_t2.txt]
+Os pedidos da Lady Dahlia são sempre tarefas de mão-cheia, não são? Ahoo hoo.
+!******************************!
+[e218_t3.txt]
+Magistral, mas não esperava nada menos do que isso do nosso Professor Layton! Ahoo hoo hoo!
+!******************************!
+[e218_t4.txt]
+Minha nossa, Professor! Você está tão exausto que nem consegue resolver um enigma?<W>
+!------------------------------!
+ Ou foi simplesmente muito difícil? Ahoo hoo! Minhas estrelas, o que estou dizendo? Agora estou sendo bobo. 
+!******************************!
+[e219_t0.txt]
+<@1>Nossa, vocês dois não são os up late playing detective!<W>
+!------------------------------!
+ Se gostam tanto assim de resolver mistérios, façam-me um favor e solucionem este enigma, tudo bem?
+!******************************!
+[e219_t1.txt]
+<@1>Vocês vieram para resolver o meu enigma?
+!******************************!
+[e219_t2.txt]
+<@1>Enquanto permanecerem em St. Mistery, cada dia será importunado com uma tristeza, tremenda e pesada.<W>
+!------------------------------!
+ Mas boa sorte, mantenham a cabeça erguida!
+!******************************!
+[e219_t3.txt]
+<@1>Ora, você deu conta desse em tão pouco tempo, não!<W>
+!------------------------------!
+ E eu aqui pensando que era apenas mais um vigarista da cidade bem vestido.<W> Hmph, você me mostrou!<W>
+!------------------------------!
+ Bem, creio que uma boa rodada mereça outra, então por que não deixa dar uma olhada no seu destino.<W>
+!------------------------------!
+ Ah, isso não é bom.<W> Vejo séries de eventos desagráveis ocorrendo durante sua estada em St. Mistery.<W><@C> Olhe por onde anda.
+!******************************!
+[e219_t4.txt]
+<@1>É isso então? pensei que um estudioso como você não pestanejaria duas vezes num enigma como esse.<W>
+!------------------------------!
+ Bem, desapontamento é apenas mais um triste fato da vida, não?
+!******************************!
+[e220_t0.txt]
+Há algo que achei bastante encantador nessa cadeira.<W>
+!------------------------------!
+ Ah, me fez lembrar, Luke. Você já ouviu este aqui antes?
+!******************************!
+[e220_t1.txt]
+Vamos lá, tente novamente.
+!******************************!
+[e220_t2.txt]
+Queria saber por que essa lojinha exótica nunca teve ninguém trabalhando no caixa. Bastante interessante...
+!******************************!
+[e220_t3.txt]
+Muito bem. Creio que esse enigma foi muito fácil para você, meu garoto.
+!******************************!
+[e220_t4.txt]
+Stiff upper lip. Você sempre poderá tentar de novo.
+!******************************!
+[e221_t0.txt]
+De volta tão cedo, Professor?
+!******************************!
+[e221_t1.txt]
+Matthew, estava pensando se você saberia de algo que pudesse nos apontar a direção da Maçã Dourada.<W>
+!------------------------------!
+ Tudo que souber seria de grande ajuda. Por exemplo, o barão disse algo antes de falecer?
+!******************************!
+[e221_t10.txt]
+Certamente. Certificarei-me de transmitir a sua mensagem. Obrigado por toda sua colaboração, Matthew.
+!******************************!
+[e221_t11.txt]
+<@3>Ingrid não é aquela adorável senhora que nós encontramos antes?
+!******************************!
+[e221_t12.txt]
+De fato. Também a vimos naquele quadro da jovem Flora.<W> Venha, Luke, vamos achar a garota.
+!******************************!
+[e221_t13.txt]
+<@3>Lá vamos nós então!<W> A loja da vila é logo a frente da mansão, certo? Estaremos lá em segundos.
+!******************************!
+[e221_t2.txt]
+Me desculpe em dizer isto, Professor, mas o mestre nunca me disse algo do tipo.<W>
+!------------------------------!
+ &SetAni 1 sad&Eu realmente gostaria de ajudar vocês nessa busca, mas os meus deveres aqui me inibem de sair deste local.
+!******************************!
+[e221_t3.txt]
+Ah se Ingrid estivesse aqui para fornecer assistência...
+!******************************!
+[e221_t4.txt]
+Peço desculpa, senhor, quem é Ingrid?
+!******************************!
+[e221_t5.txt]
+Já faz anos que ela partiu, mas Ingrid costumava trabalhar como uma funcionária da mansão.<W>
+!------------------------------!
+ Ela era a babá de Flora e quase sempre me ajuda com o meu trab-
+!******************************!
+[e221_t6.txt]
+<@3>Matthew!
+!******************************!
+[e221_t7.txt]
+S... sim, My Lady! Já estarei aí!
+!******************************!
+[e221_t8.txt]
+Com licença senhores, a madame me chama.<W>
+!------------------------------!
+ &SetAni 1 talk&Se está curioso sobre Ingrid, por que não a visita e fala com ela própria?<W>
+!------------------------------!
+ Vamos ver, a esta hora do dia, creio que ela esteja andando ao redor da loja da vila.
+!******************************!
+[e221_t9.txt]
+Por favor, me façam um favor e digam a ela que mandei minhas lembranças.
+!******************************!
+[e222_t0.txt]
+<@3>Ah, minha nossa, ora se não é o, é... o Sr. Leitão, não é?
+!******************************!
+[e222_t1.txt]
+Meu nome é Layton, madame.
+!******************************!
+[e222_t10.txt]
+<@3>Alguns dizem que a Lady Dahlia colocou Flora nas ruas para ficar com a herença sozinha, mas isso não tem sentido.<W>
+!------------------------------!
+ Até porque o barão se importava muito com Flora, não consigo imaginar que ele permitiria algo assim.
+!******************************!
+[e222_t11.txt]
+<@3>Sabe, você me fez lembrar.<W>
+!------------------------------!
+ O túmulo da ex exposa do barão está localizado no jardim da mansão. Quem será que toma conta dele agora?
+!******************************!
+[e222_t12.txt]
+A ex-esposa do barão está enterrada no jardim...
+!******************************!
+[e222_t13.txt]
+Obrigado, madame. Você foi de extrema ajuda.
+!******************************!
+[e222_t14.txt]
+Luke, vamos voltar a mansão.<W>
+!------------------------------!
+ Estou com uma sensação de que o túmulo possa ter a pista a qual estamos procurando.
+!******************************!
+[e222_t2.txt]
+<@3>Está certo, Sr. Layton.<W> O que posso fazer por você, senhor?
+!******************************!
+[e222_t3.txt]
+Há um tempo estávamos falando com o mordomo da Mansão Reinhold e ele mencionou que a senhora trabalhava aqui.<W>
+!------------------------------!
+ &SetAni 0 talk_hands&Nós realmente gostaríamos de ouvir o que a senhora sabe do barão. 
+!******************************!
+[e222_t4.txt]
+<@3>Minha nossa, você quer ouvir algo sobre o barão?<W>
+!------------------------------!
+ Infelizmente as únicas histórias que conheço eram as da época em que eu trabalhava na mansão, isso há anos. 
+!******************************!
+[e222_t5.txt]
+Isso seria ideal, madame. Você se importaria em nos contar uma?
+!******************************!
+[e222_t6.txt]
+<@3>Tudo bem... eu acho que posso falar para vocês um pouco do barão e de sua ex-esposa.
+!******************************!
+[e222_t7.txt]
+<@3>O modo que o Mestre Reinhold e sua esposa agiam, eram quase como crianças.<W><@C> Você nunca viu um homem com tanto amor como o senhor Reinhold.<W>
+!------------------------------!
+ Quando sua mulher faleceu, Flora era tudo que o barão tinha para recordar dela.<W>
+!------------------------------!
+ Por isso ele a criou com todo o amor que uma criança pudesse querer.<W>
+!------------------------------!
+ As coisas que ele trazia para ela! Brinquedos de todas as partes do mundo e ursos de pelúcia do teu tamanho!<W>
+!------------------------------!
+ Ele estava com alto astral nesses dias. Ele realmente queria dar todo o carinho do mundo a ela.
+!******************************!
+[e222_t8.txt]
+E para onde Flora foi?
+!******************************!
+[e222_t9.txt]
+<@3>Sua suposição é tão boa quanto a minha. Não tenho a menor ideia para onde ela foi.<W>
+!------------------------------!
+ &SetAni 1 talk&Ela deixou a mansão logo após eu ter deixado de trabalhar para os Reinholds.  
+!******************************!
+[e223_t0.txt]
+<@3>Hum? Ah, olhe, é o Matthew.
+!******************************!
+[e223_t1.txt]
+Bom dia, Professor. Você conseguiu localizar a Ingrid?
+!******************************!
+[e223_t10.txt]
+<@3>Essa estátua parece tanto com a Lady Dahlia, é difícil acreditar que se trata de outra pessoa.
+!******************************!
+[e223_t11.txt]
+Há um tempo, quando Flora era apenas uma criancinha, Lady Viola costumava levá-la ao parque.<W>
+!------------------------------!
+ &SetAni 2 talk&Algumas das flores que crescem aqui no jardim são as que Flora plantou para a sua mãe.
+!******************************!
+[e223_t12.txt]
+Ah, esqueci de lhe falar sobre o diário do barão. Ele ainda deve estar on the desk in my lady's room.<W>
+!------------------------------!
+ É possível que ele possa contar informações que permitam ajudá-los na busca da Maçã Dourada.
+!******************************!
+[e223_t13.txt]
+Meus agredecimentos, Matthew. Certificarei-me de examiná-lo mais tarde. 
+!******************************!
+[e223_t14.txt]
+Então, Luke, seria melhor retornarmos à Mansão Reinhold.
+!******************************!
+[e223_t15.txt]
+Aqui está a entrada, senhores.<W> Por favor, olhem por onde pisam.
+!******************************!
+[e223_t2.txt]
+Yes, we did. Na verdade, estávamos apenas falando com ela.<W>
+!------------------------------!
+ &SetAni 0 talk&Não querendo desrespeitar, mas ela disse que o túmulo da ex esposa do barão se situa por aqui.<W>
+!------------------------------!
+ Você sabe algo sobre isso?
+!******************************!
+[e223_t3.txt]
+O túmulo da Senhora Viola, senhor? Eu mesmo estava indo visitá-lo.
+!******************************!
+[e223_t4.txt]
+Se importaria se pudéssemos acompanhá-lo, senhor?
+!******************************!
+[e223_t5.txt]
+Nem um pouco. O caminho é por aqui.
+!******************************!
+[e223_t6.txt]
+Esse é o túmulo da Senhora Viola.
+!******************************!
+[e223_t7.txt]
+<@3>Caramba... este lugar é realmente bom! Não é tão assustador como parecia.
+!******************************!
+[e223_t8.txt]
+O barão, descanse em paz, me disse para manter este lugar em ótimo estado, e tenho tentado fazê-lo.
+!******************************!
+[e223_t9.txt]
+"Aqui dorme Viola, meu único amor verdadeiro."
+!******************************!
+[e224_t0.txt]
+Esse deve ser o diário que Matthew falou.
+!******************************!
+[e224_t1.txt]
+<@3>Tenho que admitir, ele parece saber onde cada coisa da mansão está.
+!******************************!
+[e224_t10.txt]
+Mudou... sua personalidade? Não sei o que o barão quis dizer, mas é uma informação vital.
+!******************************!
+[e224_t11.txt]
+<@3>Você acha que "isso" se refere a que?
+!******************************!
+[e224_t12.txt]
+<@3>Ele devia estar terrivelmente debilitado.
+!******************************!
+[e224_t13.txt]
+<@3>Mas, Professor, como é que nós poderemos essa pessoa com apenas esse diário e mais nada para prosseguirmos?
+!******************************!
+[e224_t14.txt]
+Ha ha! É como eu sempre digo, Luke.<W> Qualquer boa investigação começa pela rua.<W>
+!------------------------------!
+ Teremos que perguntar a todos da vila sobre o assunto.
+!******************************!
+[e224_t15.txt]
+<@3>O quê?!<W>&SetAni 1 talk& Quero dizer, claro! Você está totalmente certo, Professor! Vamos ao trabalho!
+!******************************!
+[e224_t16.txt]
+Mas é claro, toda boa investigação também necessita de direcionamento.<W>
+!------------------------------!
+ Vamos começar perguntando a Ingrid algumas coisas. Ela aparenta ter um grande conhecimento do Barão Reinhold.
+!******************************!
+[e224_t2.txt]
+Não acho que seja adequado ler o diário de outra pessoa.<W>
+!------------------------------!
+ Porém, a investigação deve continuar, então...
+!******************************!
+[e224_t3.txt]
+#rA arte manual dele é simplesmente extraordinária. Ele me faz recordar da minha doce Viola enquanto viva.#x
+!******************************!
+[e224_t4.txt]
+#rFlora não gosta tanto assim dessa coisa. Eu já a vi correndo dela em múltiplas ocasiões.<W>
+!------------------------------!
+ Recentemente, ela passa mais do seu tempo brincando perto do túmulo da querida Viola do que em qualquer outro lugar.<W>
+!------------------------------!
+ Fico triste em dizer que duvido que Flora aceite isso. Não posso culpá-la, pois fui eu quem mudei sua personalidade.<W>
+!------------------------------!
+ Me senti terrível por ter forçado Flora a mudar, mas não poderia suportar mais ver isso novamente.<W>
+!------------------------------!
+ Viola...jamais poderá haver outra como você. Você foi minha primeira, minha última, e minha única.#x&SetAni 2 book&
+!******************************!
+[e224_t5.txt]
+#rEu desmaiei alguns dias atrás e estive de cama desde então. Me sinto como se tivesse falhado em ter sido um pai para Flora.<W>
+!------------------------------!
+ Somente espero que quando partir, as pessoas da vila tratem bem dela e cuidem assim como eu fiz...#x&SetAni 2 book&
+!******************************!
+[e224_t6.txt]
+#rAo que parece, não durarei muito neste mundo, e a hora de dizer adeus a minha pequena Flora chegou.<W>
+!------------------------------!
+ Eu deixei tudo nas mãos de Bruno agora. Flora, rezo para que tu aches felicidade nessa vida.#x&SetAni 2 book&
+!******************************!
+[e224_t7.txt]
+#rEu divulguei a localização de um lugar secreto num recado que deixei com um velho amigo.<W>
+!------------------------------!
+ A minha fervente esperança é a que aquele que procura a Maçã Dourada a encontre e conceda o meu maior desejo.#x&SetAni 2 book&
+!******************************!
+[e224_t8.txt]
+<@3>&SetAni 1 shout&Professor!
+!******************************!
+[e224_t9.txt]
+#rO velho amigo do Barão Reinhold#x...<W> Nós devemos ir a procura dessa pessoa, Luke.
+!******************************!
+[e225_t0.txt]
+<@1>Ahem! Você aí! Sim, você.
+!******************************!
+[e225_t1.txt]
+Se refere a mim, bom senhor?
+!******************************!
+[e225_t10.txt]
+<@1>Que pena!<W> Not to bust your "chops" or anything, mas aquela oferta foi única!<W>
+!------------------------------!
+ Maybe you'd have said yes if you knew what was at "steak"! A har har har har!
+!******************************!
+[e225_t11.txt]
+Creio que já concluímos aqui, Luke.
+!******************************!
+[e225_t12.txt]
+<@3>Não poderia concordar mais, Professor.
+!******************************!
+[e225_t13.txt]
+<@1>O quê, não sabe?<W> Não deixe isso te abalar.<W> Não precisa ficar broken up over a shattered vase!
+!******************************!
+[e225_t14.txt]
+<@1>Har har, de volta para mais, não é?
+!******************************!
+[e225_t15.txt]
+<@1>Não me leve a mal, adoro enigmas, but puns are where the real meat is!<W>
+!------------------------------!
+ They're "pun" for the whole family<@W>3.<@W>3.<@W>3.<@W>3 Get it?
+!******************************!
+[e225_t16.txt]
+Er... Eu não acho que isso seja parecido com uma piada, senhor.
+!******************************!
+[e225_t17.txt]
+<@1>Essa foi um pouco intelectual para você, não foi?
+!******************************!
+[e225_t18.txt]
+<@1>Hmph.
+!******************************!
+[e225_t2.txt]
+<@1>Isso, você. Esse vaso de flores é seu, correto? Eu mantive ele bem protegido e limpo para você.
+!******************************!
+[e225_t3.txt]
+<@1>Nunca vi ninguém esquecer algo como isso ao fazer compras! 
+!******************************!
+[e225_t4.txt]
+Lamento, mas você deve estar enganado. Eu nunca vi esse vaso antes na minha vida...
+!******************************!
+[e225_t5.txt]
+<@1>Como?!<@W>2 Este lindo vaso NÃO PERTENCE a você?<@W>2 Então por que aquele homem me disse para entregar para você?
+!******************************!
+[e225_t6.txt]
+Hum?!<W>
+!------------------------------!
+ &SetAni 0 talk&Com o que esse homem parece?
+!******************************!
+[e225_t7.txt]
+<@1>Bem, meu chapeu tem um jeito de ocultar certos detalhes para mim. It's the "wurst", I tell you!<W> Har har!<W>
+!------------------------------!
+ Mas voltando ao assunto.<W> O homem misterioso não era um indivíduo comum por aqui, não há dúvidas.<W>
+!------------------------------!
+ Mas não se preocupe. Eu darei isso de novo para o cara na próxima vez que o ver.<W>
+!------------------------------!
+ Então, falando de vasos de flores, conheço um enigma que você irá adorar.<W>
+!------------------------------!
+ Não é um daqueles difícies, mas é o mínimo que posso fazer por ter incomodado você com o vaso.
+!******************************!
+[e225_t8.txt]
+<@1>Você tem uma boa cabeça em seus ombros. Estou impressionado!<W>
+!------------------------------!
+ Mas enfim, tem certeza de que não quer levar umas salsichas frescas contigo?<W>
+!------------------------------!
+ Believe me, these are some links you don't wanna be missing! Har har!
+!******************************!
+[e225_t9.txt]
+Não, obrigado. Estamos bem.
+!******************************!
+[e226_t0.txt]
+<@3>Ah, o que é esse caderno?
+!******************************!
+[e226_t1.txt]
+Você achou algo interessante?
+!******************************!
+[e226_t2.txt]
+<@3>Creio que sim. Parece que alguém estava usando-o como um diário.
+!******************************!
+[e226_t3.txt]
+#rSó mais um pouco agora. Em breve essa vila irá alcançar o propósito o qual foi criada.<W>
+!------------------------------!
+ Esperei tanto por esse dia, mas, à medida que se aproxima, me sinto um pouco solitário.<W>
+!------------------------------!
+ Espero que, pelo menos, a jovem senhorita finalmente encontre felicidade no fim de tudo isso.#x
+!******************************!
+[e226_t4.txt]
+<@3>Este pobre diário parece ter passado por muita coisa. Todas suas páginas estão terrivelmente desgastadas.<W>
+!------------------------------!
+ Acredito que todos os pedaços de papel que achamos na vila vieram daqui.
+!******************************!
+[e226_t5.txt]
+Event Text226_5[[0D]] 
+!******************************!
+[e227_t0.txt]
+Tem certeza de que está tudo bem, minha senhora? 
+!******************************!
+[e227_t1.txt]
+<@3>Certamente. Se partir irá fazer Flora feliz, gostaria então de fazer isso para vê-la com um sorriso.
+!******************************!
+[e228_t0.txt]
+<@3>Espero não tropeçar! Este lugar está muito escuro!<W> Brrr! E está frio também!
+!******************************!
+[e228_t1.txt]
+Olhe onde pisa, Luke.<W> Procure por qualquer coisa suspeita ou fora de lugar.
+!******************************!
+[e229_t0.txt]
+<@3>Uau! Eu realmente não esperava encontrar um quarto aqui embaixo.
+!******************************!
+[e229_t1.txt]
+Vamos fazer uma examinação minuciosa.<W> Algo não está certo neste lugar. Posso sentir nos meus ossos.
+!******************************!
+[e230_t0.txt]
+<@3>Olha, Professor, há um estranho dispositivo na porta aqui.
+!******************************!
+[e230_t1.txt]
+Hum... Parece ser um enigma ou algo do tipo. Creio que a porta não se abrirá até resolvermos-o.
+!******************************!
+[e230_t2.txt]
+<@3>É como se nós estivéssemos sendo testados, não?
+!******************************!
+[e230_t3.txt]
+Certo, vamos tentar novamente.
+!******************************!
+[e230_t4.txt]
+Esse enigma é mais difícil do que eu esperava. Estou realmente transpirando!
+!******************************!
+[e230_t5.txt]
+Isso deve servir!
+!******************************!
+[e231_t0.txt]
+<@3>Professor, olha! The stairs are barred off!
+!******************************!
+[e231_t1.txt]
+Aha! Esse deve ser um dos enigmas que Bruno nos alertou. Ele aparentar ser bem difícil.
+!******************************!
+[e231_t10.txt]
+Ha ha ha! Ora, Luke, não tenho nenhuma evidência direta disso, mas apostaria que foi um feito do Bruno.
+!******************************!
+[e231_t11.txt]
+<@3>Bruno! Mas qual seria o motivo para ele fazer algo como isso?
+!******************************!
+[e231_t12.txt]
+Se lembra do que ele disse?<W> É dever dele mostrar o caminho para aqueles que procuram a Maçã Dourada.<W>
+!------------------------------!
+ Mas naturalmente, Bruno não tinha ideia dos tipos de pessoas que viriam a St Mystere a procura do tesouro.<W>
+!------------------------------!
+ É provável que ele nos prendeu na vila para ter mais tempo de nos avaliar.<W>
+!------------------------------!
+ Ele queria ver se éramos realmente merecedores do segredo.
+!******************************!
+[e231_t13.txt]
+<@3>Isso foi terrivelmente ousado da parte dele, não acha?!<W>
+!------------------------------!
+ Como ele poderia pensar que nós dois fossemos pessoas más?! Ele nem ao menos no conhece!
+!******************************!
+[e231_t14.txt]
+Ha ha ha! Quem sabe como Bruno via isso, Luke. Estou certo de que ele estava sendo cauteloso.<W>
+!------------------------------!
+ &SetAni 0 talk&Até porque, Don Paolo conseguiu penetrar junto a nós.<W>
+!------------------------------!
+ Bruno provavelmente estava de mão cheia e precisava ver que tipo de pessoas entraram na vila.
+!******************************!
+[e231_t15.txt]
+<@3>Ah, acabei de lembrar, gostaria de perguntar sobre aquilo também...
+!******************************!
+[e231_t16.txt]
+Luke, nós realmente deveríamos começar por aqui.<W> Você pode me perguntar a próxima perunta enquanto subimos.
+!******************************!
+[e231_t17.txt]
+Vamos com calma. Talvez um pequeno descanso irá revigorar o seu cérebro.
+!******************************!
+[e231_t2.txt]
+Bem, meu garoto, está pronto para um desafio? 
+!******************************!
+[e231_t3.txt]
+Este enigma é a chave para os pisos superiores da torre.<W>
+!------------------------------!
+ Se não o resolvermos, nunca seremos capazes de ver o que o resto da torre possui.
+!******************************!
+[e231_t4.txt]
+Aqui vamos. Vamos, Luke. Temos que prosseguir!
+!******************************!
+[e231_t5.txt]
+<@3>Tudo bem! Mostre o caminho, Professor.
+!******************************!
+[e231_t6.txt]
+<@3>Diga, Professor, há algo que está na minha mente há um tempo.
+!******************************!
+[e231_t7.txt]
+Hã? O que é, Luke?
+!******************************!
+[e231_t8.txt]
+<@3>Quando a manivela da ponte foi roubada, ficamos presos na vila junto com o Don Paolo.
+!******************************!
+[e231_t9.txt]
+<@3>Pode ser somente minha opinião, mas sinto que isso não foi apenas coincidência.<W> Alguém planejou isso... mas, quem?
+!******************************!
+[e232_t0.txt]
+<@3>Ah, outra porta trancada não! Quem quer que tenha construído esta torre deveria adorar ver pessoas sofrendo. 
+!******************************!
+[e232_t1.txt]
+Bem, meu garoto, você vai ficar somente aí parado reclamando disso?
+!******************************!
+[e232_t10.txt]
+<@3>Ugh... Esse enigma não é piada!
+!******************************!
+[e232_t2.txt]
+<@3>Não!<W> Deixa esse enigma para mim!
+!******************************!
+[e232_t3.txt]
+<@3>Por favor, deixe me tentar de novo, Professor.
+!******************************!
+[e232_t4.txt]
+<@3>Consegui! A porta está aberto de novo!
+!******************************!
+[e232_t5.txt]
+Good show, Luke.<W> Então, o que era que você iria me perguntar antes? Agora sim posso escutar.
+!******************************!
+[e232_t6.txt]
+<@3>Eu queria saber quando Don Paolo conseguiu entrar na vila. Parece que ele nos seguiu.<W>
+!------------------------------!
+ A única entrada para St Mystere é pela ponte levadiça...<W>
+!------------------------------!
+ Além do mais, duvido que Franco permitisse entrar um indivíduo bastante suspeito como Don Paolo.
+!******************************!
+[e232_t7.txt]
+Sim, para ser honesto, eu ainda não consegui elaborar uma teoria de como Don Paolo tenha entrado em St Mystere.<W>
+!------------------------------!
+ Mas parece que assim que entrou na vila, ele tentou se hospedar no hotel de Beatrice.
+!******************************!
+[e232_t8.txt]
+<@3>Oh, so that's the man who ran out on his bill!<W> Faz sentido, era Don Paolo!<W>
+!------------------------------!
+ &SetAni 1 angry&So that weasel fez com que se parecesse com o Inspetor Chelmey, adentrou na mansão, e...<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Espera aí. Como ele matou Simon?
+!******************************!
+[e232_t9.txt]
+Chegaremos a isso algum momento. Devemos continuar subindo.<W> Venha junto.
+!******************************!
+[e233_t0.txt]
+Ah! Konnichiwa, amigos! Estou tão feliz em ver outras pessoas. Pensei que ficaria vagando por este lugar para sempre.
+!******************************!
+[e233_t1.txt]
+<@3>E-ei, como conseguiu chegar aqui?<W> Não há como você ter resolvido todos esses enigmas...
+!******************************!
+[e233_t2.txt]
+Je ne sais pas. Mas aconteceu. Un momento. Estava andando nos esgotos... logo então, acabei por estar aqui.<W>
+!------------------------------!
+ Agora eu vi que este não é o "local hotspot" que o meu guia prometeu que fosse.
+!******************************!
+[e233_t3.txt]
+...Que curioso.<W>
+!------------------------------!
+ &SetAni 0 talk_hands&Então onde é que você gostaria de ir? Se você descer pelas escadas, poderá retornar a vila.<W>
+!------------------------------!
+ Certifique-se de não cair no grande buraco da entrada.
+!******************************!
+[e233_t4.txt]
+Ah, xie xie. Isso já deve ser o bastante para me fazer chegar lá.<W> Mas eu poderia pedir mais um favor?<W>
+!------------------------------!
+ Toda essa conversa de escadas me fez lembrar de um nazo meu. Resolva-o para mim, please.
+!******************************!
+[e233_t5.txt]
+Eu realmente gostaria que tu resolvestes este enigma para mim. Comprendes?
+!******************************!
+[e233_t6.txt]
+Grazie! Agora estou pronto para voltar a vila.
+!******************************!
+[e233_t7.txt]
+<@3>Que cara estranho..<W> &SetAni 1 think&Professor, você acha que esse homem é humano?
+!******************************!
+[e233_t8.txt]
+Creio que sim. Embora pareça meio estranho, não é?<W>
+!------------------------------!
+ Eu nunca vi um explorador com um senso de direção tão ruim.<W>
+!------------------------------!
+ O mais estranho ainda é como ele entrou em St Mystere. Eu nem acho que ELE saiba como fez isso.<W>
+!------------------------------!
+ Talvez a sua presença ontem fosse outra razão para Bruno sentir-se obrigado a esconder a manivela.
+!******************************!
+[e233_t9.txt]
+Não poderei voltar até que você tenha resolvido para mim. It's muy importante!
+!******************************!
+[e234_t0.txt]
+Parece que nos deparamos com outro enigma de travas, Luke.
+!******************************!
+[e234_t1.txt]
+<@3>Ah! Gostaria de perguntá-lo, mas nossa run- in com aquele explorador acabou me distraindo. Como foi que Simom... sabe?
+!******************************!
+[e234_t10.txt]
+Mas esse não é todo o mistério. Venha, Luke, temos que continuar caminhando. Explicarei o resto à medida que andamos.
+!******************************!
+[e234_t11.txt]
+Professor, está me dizendo que nem mesmo você pode resolver esse enigma?
+!******************************!
+[e234_t2.txt]
+Tudo em seu tempo, meu garoto. Primeiro, precisamos resolver este enigma aqui. Ele aparenta ser um belo desafio.
+!******************************!
+[e234_t3.txt]
+Certo, vamos tentar de novo, não vamos?
+!******************************!
+[e234_t4.txt]
+Aqui vamos nós! A porta deve abrir agora.
+!******************************!
+[e234_t5.txt]
+<@3>Impressionante como sempre, Professor.<W> Agora, sobre o Simon. O que exatamente aconteceu na mansão?<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Será mesmo que Don Paolo mat- um, fez mesmo com Simon?
+!******************************!
+[e234_t6.txt]
+Eu diria que sim.<W> Essa é minha teoria apenas, não se importe, mas creio que Don Paolo nos segui até a mansão.<W>
+!------------------------------!
+ Foi aí que ele encontrou Simon, ou se deparou com ele, dependendo do caso.<W><@C> Suspeito que Simon já estava desmaiado quando Don Paolo achou seu corpo estendido no chão.
+!******************************!
+[e234_t7.txt]
+<@3>Assim como Ramon!<W> &SetAni 1 think&Então talvez Simon tivesse parado de funcionar devidamente, não?<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Acho que todos os robôs uma hora ou outra deixam de funcionar, e quando isso ocorre, Bruno vem para pegá-los.<W>
+!------------------------------!
+ Então ele os concerta aqui no porão da torre.<W>
+!------------------------------!
+ Ah! Você acha que os barulhos vindos da torre são na verdade das máquinas do Bruno funcionando?
+!******************************!
+[e234_t8.txt]
+Creio que você esteja no ponto certo, Luke.<W>
+!------------------------------!
+ Deve ser por isso que as pessoas começaram a associar os desaparecimentos com o rugido da torre.<W>
+!------------------------------!
+ Não esqueça disso, apesar de sua aparência peculiar, Don Paolo é um cientista gênio.<W>
+!------------------------------!
+ Portanto, ele provavelmente notou porque Simon parou de se mover.<W>
+!------------------------------!
+ Se não fose pela Maçã Dourada, Don Paolo provavelmente teria partido de St Mystere logo então.<W>
+!------------------------------!
+ Estou certo de que ele estava impaciente para desmontar o robô e aprender como ele funcionava.
+!******************************!
+[e234_t9.txt]
+<@3>E isso deve ter sido quando ele se decidiu a desfarçar-se de Inspetor Chelmey, certo?<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Aquele impertinente inventou toda essa história de assassinato on the spot!
+!******************************!
+[e235_t0.txt]
+Hyeh heh heh! Engrachado encontrar vocês aqui, gracinhas! Gostariam de experimentar um enigmazinho que fiz?
+!******************************!
+[e235_t1.txt]
+<@3>C-como é que ela conseguiu chegar aqui em cima?!
+!******************************!
+[e235_t2.txt]
+Hum, ela deve ter nos alcançado em algum ponto. Engraçado, não vi essa velhinha nos passando vez alguma.
+!******************************!
+[e235_t3.txt]
+Hyem nyem nyem. &SetAni 2 talk&Parem de sussurarem entre vochês e resolvam o meu enigma agora! É um extraordinário!
+!******************************!
+[e235_t4.txt]
+Hyeh heh heh heh! Não consheguiram ficar muito tempo sem tentar, não foi! Vamos, tente de novo!
+!******************************!
+[e235_t5.txt]
+Hyeh heh heh! Ah, shim, essa é a resposta, cherto. Muito bem, acho que vou indo nesha. Venha me visitar depoix!<W>
+!------------------------------!
+ &SetAni 2 mumu&Hyem nyem nyem. 
+!******************************!
+[e235_t6.txt]
+<@3>Eu acho que ela nos seguiu aqui.
+!******************************!
+[e235_t7.txt]
+Hyem nyem.<W> Oh, assim não vai dar mesmo. Eu num vou embora até você resolvê meu enigma.
+!******************************!
+[e236_t0.txt]
+<@3>Como eu suspeitava. Há mais um enigma travando esta porta. Ele parece ser bem difícil, Professor.
+!******************************!
+[e236_t1.txt]
+Luke, meu garoto, você ainda não aprendeu ainda?<W> Não há enigmas sem uma resposta!<W>
+!------------------------------!
+ Bem, simplesmente temos que achá-la. Dê o seu melhor!
+!******************************!
+[e236_t10.txt]
+Isso é interiamente possível, até mais provável, dada as circunstâncias.<W>
+!------------------------------!
+ Mas se for, que terrível história esses registros dizem. Você se lembra o que o próximo relata?
+!******************************!
+[e236_t11.txt]
+#rFlora não gosta tanto assim dessa coisa. Eu já a vi correndo dela em múltiplas ocasiões.<W>
+!------------------------------!
+ Recentemente, ela passa mais do seu tempo brincando perto do túmulo da querida Viola do que em qualquer outro lugar.<W>
+!------------------------------!
+ Fico triste em dizer que duvido que Flora aceite isso. Não posso culpá-la, pois fui eu quem mudei sua personalidade.<W>
+!------------------------------!
+ Me senti terrível por ter forçado Flora a mudar, mas não poderia suportar mais ver isso novamente.<W>
+!------------------------------!
+ Viola...jamais poderá haver outra como você. Você foi minha primeira, minha última, e minha única.#x
+!******************************!
+[e236_t12.txt]
+O barão concordou na construção de um robô para Flora que fosse idêntico ao de sua ex esposa.<W>
+!------------------------------!
+ Mas viver com uma máquina é tão similar a sua esposa deveria ter sido muito para ele.<W>
+!------------------------------!
+ Por isso, ele decidiu mudar a personalidade do robô, e então Lady Dahlia foi criada.<W>
+!------------------------------!
+ Como ela foi criada para ser uma figura materna, ela deve ter passado por uma confusa transição.
+!******************************!
+[e236_t13.txt]
+<@3>Hum... Professor, você acha que esses robôs sentem tristeza?
+!******************************!
+[e236_t14.txt]
+Honestamente, não tenho certeza.<W>
+!------------------------------!
+ Mas tenho uma sensação de que eles tem algo não diferente do coração humano.<W>
+!------------------------------!
+ O que acha?
+!******************************!
+[e236_t15.txt]
+<@3>Eu...<W> Eu espero que eles tenham.
+!******************************!
+[e236_t16.txt]
+Por que não descansa por um tempo, meu garoto?
+!******************************!
+[e236_t2.txt]
+Estou pronto para tentar novamente, Professor!
+!******************************!
+[e236_t3.txt]
+Creatividade e persistência, Luke. Desde que tenha esses, nenhum enigma te barrará.
+!******************************!
+[e236_t4.txt]
+<@3>Professor, eu estava pensando.<W> Se lembra do pintura que achamos no quarto da Lady Dahlia?
+!******************************!
+[e236_t5.txt]
+Aquela da ex esposa do barão, Viola, segurando um bebê que aparenta ser a jovem Flora? É claro.
+!******************************!
+[e236_t6.txt]
+<@3>Esse mesmo. É estranho como a Lady Viola se parece com a Lady Dahlia.<W>
+!------------------------------!
+ Você acha que esses registros do diário do Barão Reinhold se referem à Lady Dahlia?
+!******************************!
+[e236_t7.txt]
+Excelente raciocínio, meu garoto. Acredito que vi algo tipo isso:
+!******************************!
+[e236_t8.txt]
+#rThe craftsmanship of it is simply remarkable. It reminds me of my sweet Viola when she was alive.#x
+!******************************!
+[e236_t9.txt]
+<@3>That's the one that tipped me off.<W>
+!------------------------------!
+ Professor, você acha que a Lady Dahlia é na verdade um robô construído para se assemelhar à Lady Viola?
+!******************************!
+[e237_t0.txt]
+<@3>Você acha que já estamos perto do topo?
+!******************************!
+[e237_t1.txt]
+Sim, mas ao que parece, temos outro enigma no caminho antes de alcançarmos ele.
+!******************************!
+[e237_t2.txt]
+<@3>Temos que continuar subindo. Vamos tentar resolver este enigma de novo.
+!******************************!
+[e237_t3.txt]
+<@3>Agora podemos voltar na subida.<W>
+!------------------------------!
+ &SetAni 1 mouthopen&Sabe, é muito estranho o fato desta torre ser simplesmente gigante, e não ter quase nada dentro.
+!******************************!
+[e237_t4.txt]
+Sim, bastante. Fora aquele quarto do Bruno no porão, o lugar em si é bastante vago.<W>
+!------------------------------!
+ Talvez seja o motivo o qual as máquinas do Bruno fazem tanto barulho. Esta torre é como um megafone gigante.
+!******************************!
+[e237_t5.txt]
+<@3>Mas por que alguém queria construir uma torre tão imensa sem motivo algum, Professor?<W>
+!------------------------------!
+ É muito cansativo subir ela!
+!******************************!
+[e237_t6.txt]
+Ha! Já parou para pensar que o motivo desta torre ser construída é exatamente para nos exaustar?<W>
+!------------------------------!
+ Esse é apenas um dos mais outros testes que foram colocados para aqueles que procuram a Maçã Dourada.
+!******************************!
+[e237_t7.txt]
+<@3>Caramba, isso faz mesmo sentido.<W> Talvez seja por isso que a torre parece tão assustadora de fora também.
+!******************************!
+[e237_t8.txt]
+Esse enigma não pode ser subestimado. Vamos descansar um pouco.
+!******************************!
+[e238_t0.txt]
+<@3>Não parece haver nenhum enigma neste andar para nós.<W> Então se escalarmos  essa escada espiral, então talvez...
+!******************************!
+[e238_t1.txt]
+Chegaremos ao último andar? Creio que você possa estar certo, meu garoto.<W> Vamos, nos apressemos.
+!******************************!
+[e239_t0.txt]
+<@3>Minha nossa!
+!******************************!
+[e239_t1.txt]
+Nossa visão estava obscura lá debaixo, mas quem suspeitaria que uma encantadora tenda como essa estivesse aqui? 
+!******************************!
+[e239_t2.txt]
+<@3>Olha! Tem luzes lá, Professor.
+!******************************!
+[e239_t3.txt]
+Ao que parece, há alguém morando aqui.
+!******************************!
+[e240_t0.txt]
+Com licença. Por acaso você é o zelador do parque?
+!******************************!
+[e240_t1.txt]
+.<@W>2.<@W>2.<@W>2Erm.
+!******************************!
+[e240_t10.txt]
+Espere! Qual o caminho para o villaggio?<W> Donde est[[3C]]'a[[3E]] a estação de trem?!
+!******************************!
+[e240_t2.txt]
+Não.<W> Sou um explorador del mundo. Neste momento, estou tentando me familiarizar com a cultura local.
+!******************************!
+[e240_t3.txt]
+Ah, um... Bem, perdoe o meu equívoco. Tenha um ótimo dia, senhor.
+!******************************!
+[e240_t4.txt]
+Ah! Espera um momento, s'il vous pla[[3C]][[5E]]i[[3E]]t.<W>
+!------------------------------!
+ Acabei de avistar um homem com roupas de trabalho passando aqui. Será que ele é o zelador que vocês procuram?
+!******************************!
+[e240_t5.txt]
+Pode ser ele. Para qual caminho ele foi?
+!******************************!
+[e240_t6.txt]
+Provavelmente para direita.<W> Pero, talvez tenha sido a esquerda.
+!******************************!
+[e240_t7.txt]
+Entendo...<W> Está se sentido bem agora? Você parece um pouco...direcionamente desafiado para um explorador.
+!******************************!
+[e240_t8.txt]
+Eu simplesmente cheguei aqui após anos de viagens pelo mundo! Je ne sais pas pela geografia local daqui, that's all!
+!******************************!
+[e240_t9.txt]
+Compreendo. Nesse caso, por favor perdoe-me por fazer outra suposição.<W>
+!------------------------------!
+ Agora, com licença, precisamos continuar andando.
+!******************************!
+[e241_t0.txt]
+<@1>Eu sempre te desprezei, Layton!
+!******************************!
+[e241_t1.txt]
+<@1>Pensei que fosse capaz de te esmagar de uma vez por todas aqui em St Mystere.<W>
+!------------------------------!
+ Mas isso vai ter que esperar, já que você me desmascarou.
+!******************************!
+[e241_t10.txt]
+<@3>Hum... Bem, deixando isso de lado, que história é essa de segredo escondido na vila? A que ele estava se referindo?
+!******************************!
+[e241_t11.txt]
+Eu mesmo ainda acho um mistério.<W> Mas por enquanto, vamos nos focar apenas em achar a Maçã Dourada, certo?
+!******************************!
+[e241_t12.txt]
+Digo para seguirmos nossa mais recente pista e ir para aquela torre. Vamos verificar aquele beco sem saída, Luke.
+!******************************!
+[e241_t13.txt]
+Don Paolo é o seu nome. Já ouvi histórias sobre ele.<W>
+!------------------------------!
+ Seu domínio das ciências pesadas dizem os rumores ser incoparável.<W>
+!------------------------------!
+ O problema, que você já deve saber, é a sua personalidade. Embora seja gênio, ele é maléfico.<W>
+!------------------------------!
+ A comunidade científica o baniu de trabalhar oficialmente em seu campo para sempre.<W>
+!------------------------------!
+ Penetrar em St Mystere para roubar a fortuna dos Reinhold parece o tipo de esquema que ele armaria. 
+!******************************!
+[e241_t14.txt]
+<@3>Ele aparenta ter um grande ódio se você, Professor. O que você fez para ele ficar assim?
+!******************************!
+[e241_t2.txt]
+<@1>Você ainda não captou, mas St Mystere esconde um segredo de porporções épicas. Nyeh heh heh!
+!******************************!
+[e241_t3.txt]
+<@1>Quando eu imagino um indíviduo tão estúpido como você tentando resolver o mistério, só tenho a rir mesmo. Nyeh heh heh!
+!******************************!
+[e241_t4.txt]
+<@1>Meus afazeres aqui acabaram hoje, por isso irei partir agora.<W>
+!------------------------------!
+ Mas ouça atentamente, Layton. Nunca se esqueça do quanto você está sendo testado!
+!******************************!
+[e241_t5.txt]
+<@1>Um dia, eu o grande Don Paolo, irei ter minha vingança!<W>
+!------------------------------!
+ E neste terrível dia, você irá IMPLORAR por capinha e guarda-chuva. E até galochas!<W>
+!------------------------------!
+ Nyeh heh heh heh heh!
+!******************************!
+[e241_t6.txt]
+<@3>Nossa!
+!******************************!
+[e241_t7.txt]
+Hum.
+!******************************!
+[e241_t8.txt]
+<@3>Acho que ele já foi... Você sabe era esse homem?
+!******************************!
+[e241_t9.txt]
+Não tenho a menor ideia, Luke.
+!******************************!
+[e242_t0.txt]
+<@1>Keh heh heh. Olha só como parece surpreso! Aposto que não esperava me ver num lugar desses, né?
+!******************************!
+[e242_t1.txt]
+<@1>O rio que cerca quase toda St Mystere está logo após esse cano.<W>
+!------------------------------!
+ &SetAni 0 angry&Mas não fique inventando ideias! Você não pode atrvessá-lo.
+!******************************!
+[e242_t2.txt]
+<@1>Desista dessas ideias ridículas de retornar ao resto do mundo e fique aqui!
+!******************************!
+[e242_t3.txt]
+<@1>Eu acho que seja uma transição difícil de fazer. Keh heh heh! Aqui vai um enigma te ajudar a ficar situado.
+!******************************!
+[e242_t4.txt]
+Event Text242_4[[0D]] 
+!******************************!
+[e242_t5.txt]
+<@1>Keh heh heh! Você tem que admitir, se mudar para um novo lugar pode ser bastante divertido, né?<W>
+!------------------------------!
+ Resolva este enigma e estará pronto para ir!
+!******************************!
+[e242_t6.txt]
+<@1>Posso te dizer que pelo seu olhar, você está morrendo de vontade de morar na minha casa, não é!
+!******************************!
+[e242_t7.txt]
+<@1>Keh heh heh! Muito bem.<W> Gosto do jeito tão entusiasmado que você fica com enigmas. &SetAni 0 angry&Você é o meu tipo de homem!
+!******************************!
+[e242_t8.txt]
+<@1>Então apresse-se e se acomode! St Mystere fica feliz em recebê-lo!
+!******************************!
+[e242_t9.txt]
+<@1>Muito difícil para você, é?<W> &SetAni 0 angry&Que pena! Pensei que fosse mais inteligente que isso!
+!******************************!
+[e243_t0.txt]
+Ah meu Deus, o que mais devo fazer?
+!******************************!
+[e243_t1.txt]
+Qual seria o problema, senhor?
+!******************************!
+[e243_t10.txt]
+Esplêndido! Irei te esperar bem aqui até sua volta. Estou contando contigo!
+!******************************!
+[e243_t11.txt]
+Mais um detalhe, por favor, senhor. O que exatamente você deixou cair?
+!******************************!
+[e243_t12.txt]
+Deixei cair? Eu...<W> Ah não, e agora, o que era aquilo?<W> Errrm...<W>
+!------------------------------!
+ Ah, é mesmo. Foi o meu relógio, na verdade, meu MELHOR relógio. Traga-o de volta para mim, moço.
+!******************************!
+[e243_t13.txt]
+Event Text243_13[[0D]] 
+!******************************!
+[e243_t2.txt]
+Vamos ver. Forte, jovem, e you look like you have a good back.<W> Ah, ainda bem que você veio junto!
+!******************************!
+[e243_t3.txt]
+Posso ajudar?
+!******************************!
+[e243_t4.txt]
+Procurei por todo lugar, e não consigo achar isso.<W>
+!------------------------------!
+ Ah, eu acho que devo ter deixado cair enquanto passeava pelo parque hoje à tarde.<W>
+!------------------------------!
+ Eu iria procurar por ele sozinho, mas lá fora já está escuro.
+!******************************!
+[e243_t5.txt]
+<@3>Lá é terrivelmente assustador!
+!******************************!
+[e243_t6.txt]
+Bah, não é nada disso!<W><@C> É que, bem, não sou mais um jovem, e meus olhos não são mais aguçados como costumavam ser.<W>
+!------------------------------!
+ E então, moço?<W> Você irá ajudar um velhinho e ir procurar na frente do parque por mim?
+!******************************!
+[e243_t7.txt]
+<@3>Quê?!<W> Mas estamos no meio de nossa investigação agora mesmo...
+!******************************!
+[e243_t8.txt]
+Calma, calma, Luke. Não precisa ser rude. Até porque o parque é bem pouco distante.<W>
+!------------------------------!
+ E quem sabe, poderemos achar alguma informação que ajude no nosso caso.
+!******************************!
+[e243_t9.txt]
+Além disso, ajudar aqueles necessitados é um dever de qualquer cavalheiro.
+!******************************!
+[e245_t0.txt]
+Ah, olha, uma vela, Luke.<W> Me fez lembrar... Já ouviu falar deste aqui anets?
+!******************************!
+[e245_t1.txt]
+Tudo bem, meu garoto. Basta tentar resolvê-lo de novo.
+!******************************!
+[e245_t2.txt]
+É uma vela, tudo bem.
+!******************************!
+[e245_t3.txt]
+Magnifíco trabalho, Luke. Essa é realmente a resposta!<W>
+!------------------------------!
+ Não vejo ninguém cuidando da loja no momento. Talvez devêssemos sair agora.
+!******************************!
+[e245_t4.txt]
+Sem problemas, meu garoto. Talvez seja preciso pensar mais um pouco.
+!******************************!
+[e246_t0.txt]
+Acabei de lembrar. Luke, já ouviu falar deste incrível enigma da Roda gigante?
+!******************************!
+[e246_t1.txt]
+Gostaria de tentar resolver o enigma da Roda gigante novamente?
+!******************************!
+[e246_t2.txt]
+É uma adorável Roda gigante. É uma pena estar num estado tão mal cuidado.
+!******************************!
+[e246_t3.txt]
+Excelente trabalho, meu garoto.
+!******************************!
+[e246_t4.txt]
+Esse aqui requer mais raciocínio.
+!******************************!
+[e246_t5.txt]
+Embora não possa por meu dedo lá, tem algo bem estranho nessa Roda gigante.<W>
+!------------------------------!
+ Me fez pensar se nós talvez negligenciamos algo importante aqui dentro do parque.
+!******************************!
+[e246_t6.txt]
+Devemos dar outra olhada ao redor da área para ter certeza de não ter perdido nenhuma pista importante.
+!******************************!
+[e246_t7.txt]
+<@3>Ah, eu estava querendo dar uma vola na Roda gigante...
+!******************************!
+[e246_t8.txt]
+<@3>Aquela pobre Roda gigante está completamente destruída agora.
+!******************************!
+[e247_t0.txt]
+<@1>Me dê ouvidos, por favor.<W> Gostaria de sua experiente opinião sobre este enigma. Não vai levar mais de um minuto.
+!******************************!
+[e247_t1.txt]
+<@1>Ah, está aqui de novo para me ver?
+!******************************!
+[e247_t2.txt]
+<@1>Ah, olá de novo. Como você está?
+!******************************!
+[e247_t3.txt]
+<@1>Hum.<W> Eu acho que estava no caminho certo o tempo todo. Obrigado pela ajuda, garotos.<W>
+!------------------------------!
+ Minhas desculpas por ter tomado boa parte dos seus tempos. Os deixarei de volta ao que faziam. Bom dia.
+!******************************!
+[e247_t4.txt]
+<@1>Voltem e venham me ver novamente. Não planejo sair hoje, então vocês poderão me encontrar aqui.
+!******************************!
+[e248_t0.txt]
+That clock tower looks rather worse for wear. <W>SFalando em relógios, tenho aqui o enigma para você!
+!******************************!
+[e248_t1.txt]
+Certo, vamos vê-lo novamente!
+!******************************!
+[e248_t2.txt]
+Aquela torre do relógio certamente já teve dias melhores.
+!******************************!
+[e248_t3.txt]
+Precisamente a resposta a qual estava procurando, Luke. Muito bem.
+!******************************!
+[e248_t4.txt]
+Não desanime. Junte seus pensamentos e tente de novo.
+!******************************!
+[e249_t0.txt]
+Eu certamente não previa esgotos que levassem a lugares assim.<W>
+!------------------------------!
+ Olhe, lá está o Laytonmóvel.
+!******************************!
+[e249_t1.txt]
+Pronto para por a mão naquele enigma novamente?
+!******************************!
+[e249_t2.txt]
+<@3>Eu realmente espero que nada de mal aconteça ao Laytonmóvel enquanto estivermos aqui. Está parado lá há um tempo.
+!******************************!
+[e249_t3.txt]
+Esplêndido trabalho, Luke. 
+!******************************!
+[e249_t4.txt]
+Não desanime. Junte seus pensamentos e tente de novo.
+!******************************!
+[e250_t0.txt]
+Fico feliz em vê-lo novamente, Professor!<W> Eu, ao que parece, entrei em mais uma confusão.<W>
+!------------------------------!
+ Sei que está muito ocupado, mas não consigo mesmo achar a resposta deste enigma. Poderia me dar uma mãozinha nele?
+!******************************!
+[e250_t1.txt]
+Se importa em mastigar este aqui por mais um tempinho?
+!******************************!
+[e250_t2.txt]
+Estou sem nenhum enigma no momento. Care to sample the soup du jour?
+!******************************!
+[e250_t3.txt]
+Ah, então é assim que se faz. Obrigado mais uma vez, Professor.
+!******************************!
+[e250_t4.txt]
+Sem sorte, é?<W>
+!------------------------------!
+ Bem, não deixe isso te abalar. Vou ver se consigo resolvê-lo por minha conta. Mas obrigado por tentar.
+!******************************!
+[e251_t0.txt]
+<@3>Uau, olha essas flores! Elas são mesmo lindas!
+!******************************!
+[e251_t1.txt]
+De fato são. Tenho certeza de que alguém trabalhou de verdade nelas.<W> Ah, acabei de lembrar...<W>
+!------------------------------!
+ Gostaria de ouvir um enigma sobre o cultivo de flores?
+!******************************!
+[e251_t2.txt]
+<@3>Pode apostar, Professor! Vamos ouvir!
+!******************************!
+[e251_t3.txt]
+Pronto para tentar de novo o enigma?
+!******************************!
+[e251_t4.txt]
+O jardim aqui é impecável. 
+!******************************!
+[e251_t5.txt]
+Correto. Bom pensamento, Luke.
+!******************************!
+[e251_t6.txt]
+<@3>Gostaria de tentar o enigma uma outra hora, Professor.
+!******************************!
+[e252_t0.txt]
+Estante de livros aparecem em quase todas paredes daqui. O barão deveria ser um leitor bastante ávido.<W>
+!------------------------------!
+ É importante manter a mente afiada, Luke. Então por que não dá a este enigma uma tentativa?
+!******************************!
+[e252_t1.txt]
+Por que não tenta novamente?
+!******************************!
+[e252_t2.txt]
+<@3>Caramba, olha só todos esses livros. Deve haver uma centena deles.
+!******************************!
+[e252_t3.txt]
+Como gostou do enigma, Luke? Espero que tenha te preparado para outros mais difíceis.
+!******************************!
+[e252_t4.txt]
+Respire fundo e pense com calma o enigma. Você sempre poderá tentar depois.
+!******************************!
+[e253_t0.txt]
+Esses doces parecem estar bem deliciosos, não é?<W>
+!------------------------------!
+ Luke, esses doces acabaram de me dar uma ideia esplêndida. Escuta este enigma aqui.
+!******************************!
+[e253_t1.txt]
+Gostaria de ouvir o meu enigma de doces novamente?
+!******************************!
+[e253_t2.txt]
+<@3>Esses doces parecem deliciosos. Especialmente os de morango. São os meus favoritos!
+!******************************!
+[e253_t3.txt]
+Aqui vamos nós. Ao entender o que a pergunta está dizendo, o problema se torna bem simples, não?
+!******************************!
+[e253_t4.txt]
+Com um pouco mais de raciocínio, tenho certeza de que acharás a resposta.
+!******************************!
+[e254_t0.txt]
+<@1>Ei, Professor, você achou o que estava procurando?<W>
+!------------------------------!
+ Mas deixa isso para lá. Eu tenho algo mais importante para cuidar.<W> Ou seja, chocolate.<W>
+!------------------------------!
+ Me ajude a resolver este enigma e eu te direi algo que aposto ser BEM interessante.
+!******************************!
+[e254_t1.txt]
+<@1>De volta para dar outra mordida no enigma, é?
+!******************************!
+[e254_t2.txt]
+<@1>Crouton faz grub que é fora deste mundo! Eu poderia comer todo dia no restaurante dele e não enjoar.
+!******************************!
+[e254_t3.txt]
+<@1>Agora faz sentido!<W> Tá, agora sobre aquela informação quente que falei.<W>
+!------------------------------!
+ Se vocês quiserem experimentar o melhor jantar em St Mystere, vocês têm que ir ao restaurante do Crouton.<W>
+!------------------------------!
+ Tudo que ele faz é G-O-S-T-O-S-O! Don't even get me started on the stews! Vocês têm que ir lá e provar.
+!******************************!
+[e254_t4.txt]
+<@1>Se vocês não conseguem resolver o enigma para mim, não poderei dar aquela informação picante que prometi.
+!******************************!
+[e256_t0.txt]
+Agora sim. O pequeno robô canino está finalmente montado. Agora só teremos que dar um nome ao malandro.<W>
+!------------------------------!
+ Tenho a sensação de que ele será bastante útil.
+!******************************!
+[e256_t1.txt]
+Mas enfim, Luke, tenho um presente para você para marcar esta ocasião.<W>
+!------------------------------!
+ Desligue o seu Nintendo DS agora e reinicie o jogo.<W><@C> Na tela inicial, selecione Bônus, e você terá um novo desafio meu.<W>
+!------------------------------!
+ Sei que agora você está animado, mas não se esqueça de salvar antes de reiniciar o jogo.
+!******************************!
+[e256_t2.txt]
+Os Desafios de Layton: A Casa do Inventor foi adicionada ao seu mapa!
+!******************************!
+[e257_t0.txt]
+Este sim é um quarto que qualquer cavalheiro ficaria orgulhoso de ter.<W>
+!------------------------------!
+ Ficar aqui deverá acelerar a investigação.
+!******************************!
+[e257_t1.txt]
+Mas enfim, Luke, tenho um presente para você para marcar esta ocasião.<W>
+!------------------------------!
+ Desligue o seu Nintendo DS agora e reinicie o jogo.<W><@C> Na tela inicial, selecione Bônus, e você terá um novo desafio meu.<W>
+!------------------------------!
+ Sei que agora você está animado, mas não se esqueça de salvar antes de reiniciar o jogo.
+!******************************!
+[e257_t2.txt]
+Os Desafios de Layton: A Casa do Decorador foi adicionada ao seu mapa!
+!******************************!
+[e258_t0.txt]
+Essa pintura é certamente brilhante. Simplesmente vai para minha parede.
+!******************************!
+[e258_t1.txt]
+Mas enfim, Luke, tenho um presente para você para marcar esta ocasião.<W>
+!------------------------------!
+ Desligue o seu Nintendo DS agora e reinicie o jogo.<W><@C> Na tela inicial, selecione Bônus, e você terá um novo desafio meu.<W>
+!------------------------------!
+ Sei que agora você está animado, mas não se esqueça de salvar antes de reiniciar o jogo.
+!******************************!
+[e258_t2.txt]
+Os Desafios de Layton: A Casa do Amante da Arte foi adicionada ao seu mapa!
+!******************************!
+[e259_t0.txt]
+<@3>Esta é a parte da nossa produção onde finalmente mostramos como fomos criados! Hurrah!
+!******************************!
+[e259_t1.txt]
+De fato.<W> Daqui, você pode dar uma olhada no processo o qual fomos de papel para a tela.<W>
+!------------------------------!
+ É apenas uma fração do material criado para o jogo, mas esperamos que você goste!
+!******************************!
+[e259_t2.txt]
+Presenting concept art from "Professor Layton e a Vila Misteriosa"!
+!******************************!
+[e259_t3.txt]
+<@3>Com certeza gostaríamos de mostrar mais, mas infelizmente isso é tudo que podemos no momento.
+!******************************!
+[e259_t4.txt]
+Esperamos lhe ver novamente nas próximas aventuras da série Professor Layton!
+!******************************!
+[e260_t0.txt]
+<@1>Ei, Professor, estive esperando por alguém como você.<W>
+!------------------------------!
+ Escuta, tenho algo BEM interessante para lhe contar se resolveres este enigma aqui.
+!******************************!
+[e260_t1.txt]
+<@1>Está aqui para resolver o meu enigma?
+!******************************!
+[e260_t2.txt]
+<@1>Sabe, eu já tenho tudo programado.<W>
+!------------------------------!
+ Os melhores momentos da vida são quando você está comendo coisas boas. Omnomnom!
+!******************************!
+[e260_t3.txt]
+<@1>Ah, entendi agora. Nossa, era isso mesmo que precisava para resolvê-lo?<W>
+!------------------------------!
+ Ah sim, eu prometi lhe contar algo, não prometi? Bem, escuta só.<W>
+!------------------------------!
+ A maior delícia culinária de toda St Mystere é o pudim de gengibre do Crouton. Uma maravilha!<W>
+!------------------------------!
+ Ironicamente, a pior coisa que você pode pôr na sua boca é também um dos pratos do Crouton.<W>
+!------------------------------!
+ Honestly, you could choke a donkey with those scones.<W> Eca...
+!******************************!
+[e260_t4.txt]
+<@1>Qual é! Eu coço suas costas se você coçar as minhas, mas não posso dizer nada até que resolva o enigma.
+!******************************!
+[e261_t0.txt]
+<@1>...Fala sério. Sua sorte para este mês parece abismal.<W>
+!------------------------------!
+ Recomendo resolver o meu enigma se quiser evitar esse terrível e, talvez sangrento, destino.
+!******************************!
+[e261_t1.txt]
+<@1>Você não quer ter o  pior mês da sua vida, quer?<W> Certo, por isso resolva o enigma gora.
+!******************************!
+[e261_t2.txt]
+<@1>Espero que não ligue se eu te chamar na próxima vez que me deparar com um enigma cabeçudo.
+!******************************!
+[e261_t3.txt]
+<@1>Nossa, que rápido.<W> Estava tão assustado com um mês cheio de azar?<W>
+!------------------------------!
+ Bem, me desculpe em dizer, mas não há nada que faça mudar o destino. Você só tem que sorrir e aceitá-lo.
+!******************************!
+[e261_t4.txt]
+<@1>Então você não se importa em sofrer o mês mais azarado de da sua vida?<W>
+!------------------------------!
+ Isso é bem bravo de sua parte.
+!******************************!
+[e262_t0.txt]
+<@3>Olha só como essa pintura é velha.<W>[[0D]] Ei, Professor, você quer[[0D]] tentar um enigma bem difícil?
+!******************************!
+[e262_t1.txt]
+<@3>Deixa eu te mostrar o enigma de novo.
+!******************************!
+[e262_t2.txt]
+<@3>O que será que essa pintura representa?
+!******************************!
+[e262_t3.txt]
+<@3>Ah, não achei que fosse TÃO fácil!
+!******************************!
+[e262_t4.txt]
+<@3>Esse é um dos bons, né? Tem que ser um dos cinco enigmas mais difíceis que eu conheço!
+!******************************!
+[e263_t0.txt]
+<@3>Hã?<W> Olha, tem um buraco naquele barco ali.<W>
+!------------------------------!
+ Ah, Professor, acabei de lembrar! Já ouviu um enigma do navio que estava afundando?
+!******************************!
+[e263_t1.txt]
+<@3>Por favor, deixe-me mostrar o enigma do navio afundando, Professor.
+!******************************!
+[e263_t2.txt]
+<@3>Esse navio está coberto de buracos. Deve ser absolutamente  antigo.
+!******************************!
+[e263_t3.txt]
+<@3>Uau, boa resposta, Professor! Levei cinco vezes mais tempo para resolvê-lo.
+!******************************!
+[e263_t4.txt]
+<@3>Manterei esse enigma na memória para mais tarde. Você pode tentá-lo depois.
+!******************************!
+[e263_t5.txt]
+Event Text263_5[[0D]] 
+!******************************!
+[e264_t0.txt]
+<@1>Parece que o destino decidiu que eu mostrasse este enigma.<W>
+!------------------------------!
+ Irás triunfar, ou a grande boca do destino irá enguli-lo completamente?
+!******************************!
+[e264_t1.txt]
+<@1>O destino trouxe você e este enigma juntos mais uma vez.
+!******************************!
+[e264_t2.txt]
+<@1>Estou sem enigmas para te mostrar no momento. Vá perguntar à outros se estiver à procura de novos desafios.
+!******************************!
+[e264_t3.txt]
+<@1>Oh céus, não posso acreditar que resolvestes ele!<W> Era pra ser!<W>
+!------------------------------!
+ Vou te falar, já que você veio aqui e resolveu meu enigma, lerei sua palma. Me dê a sua mão agora.<W>
+!------------------------------!
+ Hum... Ao que parece, calamidades te seguem qualquer lugar que vá. Evite o que puder para ficar longe de perigo.
+!******************************!
+[e264_t4.txt]
+<@1>Você não precisa ser um vidente como eu para perceber que está desistindo desse.
+!******************************!
+[e265_t0.txt]
+Sou responsável pela manutenção do afluxo e defluxo dos moradores de St Mystere.<W>
+!------------------------------!
+ Em outras palavras, eu supervisiono to stay in this village and who has to be shown the door.<W>
+!------------------------------!
+ Se desejas permanecer em St Mystere, Eu aconselho mesmo que você me lisonjeie resolvendo esse enigma.
+!******************************!
+[e265_t1.txt]
+Se solucionares este enigma, eu ficarei na vontade de aprovar a sua estadia em St Mystere.
+!******************************!
+[e265_t2.txt]
+É devido a minha constante vigilância que a Lady Dahlia vive confortavelmente nesta vila.<W>
+!------------------------------!
+ Quando você a ver, eu recomendo fortemente que a deixe sabendo do quanto estive trabalhando.
+!******************************!
+[e265_t3.txt]
+Ah sim, essa é a resposta. Muito bem então, eu aprovo seu pedido de visita à St Mystere.<W>
+!------------------------------!
+ Porém quando acabar os seus negócios aqui, recomendo fortemente que deixe a vila.
+!******************************!
+[e265_t4.txt]
+Se esse enigma é tão difícil, recomendo fortemente a juntar suas coisas e retornar para de onde veio.
+!******************************!
+[e266_t0.txt]
+<@1>Opa, vejo que estão ocupados com a investigação como sempre, né? Sim, sim, claro que estão.<W>
+!------------------------------!
+ Mas é que estou com um enigma picante aqui, e não há como eu esperar um bocado para depois lhe mostrar.<W>
+!------------------------------!
+ Por isso segura essa investigação aí, Prof., você tem um enigma para resovler! 
+!******************************!
+[e266_t1.txt]
+<@1>Recuando no ringue, não está?<W> Sim, você é um lutador, não é! Bom, muito bom!
+!******************************!
+[e266_t2.txt]
+<@1>Não sei de nada. Me ouviu? Nenhuma pista aqui, nenhuma! 
+!******************************!
+[e266_t3.txt]
+<@1>Ei, parabéns. Você é bem estiloso com enigmas. Acho que é por isso que usas essa cartola, né? Bem que eu disse!<W>
+!------------------------------!
+ Tudo bem então, Prof, já que você fez um bom trabalho, suponho que poderei deixá-lo continuar com sua investigação.
+!******************************!
+[e266_t4.txt]
+<@1>Nyeh heh heh! É o melhor que pode fazer?<W> Tenho que ser honesto. Não estou impressionado.
+!******************************!
+[e267_t0.txt]
+Ooh! Me dê só um minutinho da sua atenção, rapaz!<W>
+!------------------------------!
+ Estou plenamente centrado nesse problema, e preciso de alguém crânio para me ajudar.<W>
+!------------------------------!
+ Sabe, tudo isso começou quando eu estava num feriado e comprei essa caixa para a câmera.<W>
+!------------------------------!
+ I think that sneaky merchant swindled me out of a few pounds.
+!******************************!
+[e267_t1.txt]
+Me ajuda aqui, rapaz. Acho que fui enganado no feriado, mas não tenho certeza.
+!******************************!
+[e267_t2.txt]
+No que este mundo chegou?
+!******************************!
+[e267_t3.txt]
+Que raiva desse bandido!<W> E eu pensando que estava fazendo o negócio do século!<W>
+!------------------------------!
+ Realmente entristece um homem saber que pessoas podem ser tão disonestas.
+!******************************!
+[e267_t4.txt]
+Qual o problema, rapaz? Eu pensei que estivesse aqui para me ajudar a resolver isso.
+!******************************!
+[e268_t0.txt]
+<@3>Ei, senhor.<W> Tenho aqui um ótimo enigma para você. Se resolvê-lo, vou ter contar um segredo BEEEEM grande mesmo.
+!******************************!
+[e268_t1.txt]
+Quer tentar resolver o enigma depois?
+!******************************!
+[e268_t2.txt]
+Se eu ficar sabendo de outro enigma, com certeza mostrarei para você, tá?
+!******************************!
+[e268_t3.txt]
+Uau, que rápido!<W> Okeydokey, pronto para ouvir o segredo?<W>
+!------------------------------!
+ Conhece a Lady Dahlia, não? Bem, ao que parece, ela não é tão má quanto as pessoas fazem ela parecer.<W>
+!------------------------------!
+ Na verdade, aposto que ela seja uma ótimo e boa senhora.<W> Aposto contigo um milhão de picarats.
+!******************************!
+[e268_t4.txt]
+Você não sabe a resposta mesmo?<W> Que pena para você, então. Acho que não vai ouvir o meu segredo...
+!******************************!
+[e269_t0.txt]
+<@3>Ei, senhor. Que bom vê-lo mais uma vez.<W> Sabe, estou completamente preso aqui, mas eu poderia usar sua ajuda.<W>
+!------------------------------!
+ Meu amigo me falou deste enigma num outro dia, mas não consigo mesmo resolver ele.<W> Podes me ajudar?
+!******************************!
+[e269_t1.txt]
+<@3>Podes me dar a resposta daquele enigma que estava falando?
+!******************************!
+[e269_t2.txt]
+<@3>Adrea é boa mesmo, mas ela vem com uns enigmas pesados!
+!******************************!
+[e269_t3.txt]
+<@3>Oh, era somente isso que precisava fazer para solucionar? Por que não pensei nisso?<W>
+!------------------------------!
+ Consegue manter em segredo?<W> Não diga a Adrea que me disse a resposta, tá? Obrigado, senhor!
+!******************************!
+[e269_t4.txt]
+<@3>Eu acho que é mais difícil do que eu pensei.<W> Talvez só precise pensar nisso um pouco mais.
+!******************************!
+[e270_t0.txt]
+<@1>Não importa o quanto eu tente, não consigo encontrar aquele alguém especial.<W>
+!------------------------------!
+ Diga-me, Professor, o que um solteiro elegante como eu tem que fazer para achar uma garota?<W>
+!------------------------------!
+ Tive epifania um dia desses. Eu acho que a razão de eu estar só é porque não resolvi este enigma.<W>
+!------------------------------!
+ Ah, como eu tentei resolvê-lo! Mas não importa quantas noites eu tento, a resposta sempre me engana!<W>
+!------------------------------!
+ Por favor me ajude, Professor. Eu não quero passar o resto dos meus dias conversando com animais de pelúcia.
+!******************************!
+[e270_t1.txt]
+<@1>Solucione aquele enigma que estávamos falando pra mim. Te imploro, Professor!<W>
+!------------------------------!
+ Assim que ele estiver resolvido, eu serei tão popular que precisarei de uma vara para manter as solteiras distantes!
+!******************************!
+[e270_t2.txt]
+<@1>Olhe pra mim, senhor. Meus sapatos custma a month's lodging, ainda assim, niguém quer se casar com este incrível solteiro.<W><@C> O que estou fazendo de errado?<W> Diga-me a verdade, Professor.<W> É o meu... chapeu?
+!******************************!
+[e270_t3.txt]
+<@1>Ah, que ótimo! Estou me arrepiando de entusiasmo! Com esse enigma resolvido, sei que vou arrumar uma noiva logo logo!
+!******************************!
+[e270_t4.txt]
+<@1>Você não pode desistir assim!<W> Minha alegria, ou melhor, todo o meu legado dependem da sua solução!
+!******************************!
+[e271_t0.txt]
+<@1>Sr. Layton, você tem uma boa habilidade para resolver enigmas, não é?<W>
+!------------------------------!
+ Tenho aqui um enigma que até eu fiquei incomodado por um momento.<W>
+!------------------------------!
+ Vamos ver como você faz diante dele.
+!******************************!
+[e271_t1.txt]
+<@1>Ah, então voltou aqui para ser remidir, não foi?<W> Nós não queremos que sua reputação abaixe, queremos?<W>
+!------------------------------!
+ Vamos lá, resolva logo o enigma! 
+!******************************!
+[e271_t2.txt]
+<@1>Não precisa se preocupar. Garanto que eu mesmo acharei o assassino de Simon.<W>
+!------------------------------!
+ Por enquanto, deixe que eu faço o meu trabalho e vá voltar àquela sua busca pela Maçã Dourada. 
+!******************************!
+[e271_t3.txt]
+<@1>Impressionante, Sr. Layton. Parece que os rumores a respeito de suas habilidades não eram todos sem fundamento.<W>
+!------------------------------!
+ Mas nem venha com ideias. Faça a coisa certa e deixe o trabalho de investigação comigo.<W>
+!------------------------------!
+ Enquanto isso, você pode se ocupar buscando a tal Maçã Dourada. 
+!******************************!
+[e271_t4.txt]
+<@1>Esse é o trabalho do melhor solucionador de enigmas de toda Londres?<W> Qual é? Com certeza você pode fazer melhor. 
+!******************************!
+[e272_t0.txt]
+<@1>E aí, Professor. Aposto que está aqui para resolver o meu enigma. Estou certo, né? Sim, é claro que estou.
+!******************************!
+[e272_t1.txt]
+<@1>Vai dar mais um giro no enigma? Correto? Sim, foi isso que pensei.
+!******************************!
+[e272_t2.txt]
+<@1>A Lady Dahlia é realmente deslumbrante, não acha? Sim, sem dúvida. Que encanto. Que vista.<W>
+!------------------------------!
+ Isso, isso. Garotas assim são bastante raras, cá entre nós.
+!******************************!
+[e272_t3.txt]
+<@1>Bom trabalho, Professor. Até mesmo esse enigma não te assustou, não foi?<W> É claro que não, tu és um profissonal!<W>
+!------------------------------!
+ Isso, você é um real piece o' work, Prof. Sabia disso?<W> Claro que sabia. Até porque, és um sábio!
+!******************************!
+[e272_t4.txt]
+<@1>Quê?<W> Não consegue mesmo resolver o meu enigma? Me sinto desapontado, Prof. Bem desapontado, sendo franco.
+!******************************!
+[e273_t0.txt]
+<@1>Ah, Professor, você só tem que me ajudar. Tenho aqui outro enigma em mãos, não consigo resolvê-lo.<W>
+!------------------------------!
+ Como um homem do mundo, você sabe que não existe nada mais atraente para as mulher que competência.<W>
+!------------------------------!
+ Estou contando com você, senhor! Não me deixe na eterna solteirísse!
+!******************************!
+[e273_t1.txt]
+<@1>Ah, graças a Deus voltaste. Por favor, tente resolver o enigma novamente. Ficar só é tão triste.
+!******************************!
+[e273_t2.txt]
+<@1>Do mesmo jeito que quero casar, se a betrothed were as wild a spender as Lady Dahlia, prefiro ficar solteiro.<W>
+!------------------------------!
+ Mas por favor, continue procurando uma senhorita especial para mim...<W>
+!------------------------------!
+ Porque assim, sem dúvida não não faria mal se ela fosse um pouco do tipo mesquinha...
+!******************************!
+[e273_t3.txt]
+<@1>Obrigado, rapagão! Com esse enigma resolvido, sinto que estou a um passo mais perto do altar.
+!******************************!
+[e273_t4.txt]
+<@1>Você não pode desistir! Gostaria de me ver solteiro pra sempre? Por favor, volte e resolva o enigma assim que puder.
+!******************************!
+[e274_t0.txt]
+<@1>Ah, não! Estou preso de novo!<W> E eu sei que nunca vou achar uma esposa por conta própria se não resolver o enigma!<W>
+!------------------------------!
+ Passarei os meus anos dourados só, apenas com o cheiro dos gatos e de doces pra me fazer companhia.<W>
+!------------------------------!
+ Eu te suplico, Professor, me ajude a resolver este enigma.
+!******************************!
+[e274_t1.txt]
+<@1>Por favor, apresse-se e resolva-o pra mim. Cansei da vida de solteiro.
+!******************************!
+[e274_t2.txt]
+<@1>Será que você poderia me falar de alguma solteira interessante que tenha encontrado nas suas viagens?
+!******************************!
+[e274_t3.txt]
+<@1>Ah, que dia feliz!<W> Com esse enigma fora do meu caminho, estou confiante de que nenhuma mulher será capaz de me resistir!<W>
+!------------------------------!
+ Estarei dando adeus a minha solidão antes que eu perceba.
+!******************************!
+[e274_t4.txt]
+<@1>Honestamente, Professor, você quer que eu passe minha velhice com uma dúzia de gatos? É isso?
+!******************************!
+[e275_t0.txt]
+<@3>Professor, já percebeu que esta porta tem uma cor diferente de todas as outras desta área?<W>
+!------------------------------!
+ E olha pra essas vinhas. Você já elas crescendo em alguma outra casa em St Mystere?<W>
+!------------------------------!
+ Esta placa na porta diz "Casa de Enigmas".
+!******************************!
+[e275_t1.txt]
+Indeed.<W> Eu não tenho certeza ainda do que há por trás desta porta, mas é claro que há enigmas lá dentro.<W>
+!------------------------------!
+ Infelizmente, a porta está trancada, e e não faz sentido ficar aqui esperando por ela ser aberta. Vamos retornar depois.
+!******************************!
+[e275_t2.txt]
+"Cabana de Enigmas da Vovó Riddleton"
+!******************************!
+[e276_t0.txt]
+Opa, e aí!<W> Você geralmente desesperadamente, doloridamente fica preso em enigmas?<W>
+!------------------------------!
+ Bom, filhinho, veio ao lugar certo! Bem vindo à Cabana de Enigmas da Vovó Riddleton!
+!******************************!
+[e276_t1.txt]
+<@3>Vovó Riddleton?<W> Aonde podemos encontrar essa senhora?
+!******************************!
+[e276_t2.txt]
+Não é óbvio? Ela está bem na sua frente, garoto!<W>&SetAni 2 finger& Tsk, não me admira que você tenha problemas com enigmas!<W>
+!------------------------------!
+ Isso, você está olhando para a linda e clarividente Vovó Riddleton, guia dos solucionadores perdidos!
+!******************************!
+[e276_t3.txt]
+<@3>Linda e clarividente?<W>
+!------------------------------!
+ Professor, o senhor sabe onde ela quer chegar?
+!******************************!
+[e276_t4.txt]
+Fique frio, Luke. Por que não me deixa conversa com ela.<W>
+!------------------------------!
+ &SetAni 0 talk_hands&Desculpe em atrapalhá-la, Sr. Riddleton, mas em clarividência, a senhora quis dizer que ter poderes psíquicos?<W>
+!------------------------------!
+ Você pode fazer coisas, tipo, localizar um criminoso na multidão ou visualizar o local de objetos perdidos?
+!******************************!
+[e276_t5.txt]
+Pshaw! Qualquer cartomante pode fazer isso. E então se você puder ver alguns dias do futuro?<W> Grande coisa!<W>
+!------------------------------!
+ Minha especialidade, como vê, são enigmas!<W> Engimas que as pessoas esquecem!<W> Enigmas que as pessoas deixam de fazer!<W>
+!------------------------------!
+ &SetAni 2 finger&Certamente vocês dois já tiveram um desses, não?<W> Não precisam ficar vermelhos. Acontece também com os melhores.<W>
+!------------------------------!
+ O que eu faço, como vê, é pegar esses pobres e perdidos enigmazinhos e convidá-los a vim ficar comigo.
+!******************************!
+[e276_t6.txt]
+<@3>Uau! Então todos os enigmas que nos esquecemos... Eles estão aqui agora?
+!******************************!
+[e276_t7.txt]
+Ainda não, garoto. Estou aqui para acolher enigmas que não têm mais lugar para ficar na vila.<W>
+!------------------------------!
+ Ehee hee! Parece que finalmente você worked out o que me faz tão surpreendente, garoto.<W>
+!------------------------------!
+ Agora vá em frente e dê uma batida na porta daquela pequena cabana atrás de mim.<W>
+!------------------------------!
+ Lá dentro, você vai achar colunas com pequeninas jarras, cadas uma delas com enigmas dentro.<W>
+!------------------------------!
+ Aposto que podes achar os seus enigmas esquecidos em algum lugar no meio de todas essas belezinhas.
+!******************************!
+[e276_t8.txt]
+Se a cabana estiver vazia, então você somente precisará sair dela e ir atrás de mais enigmas!<W>
+!------------------------------!
+ Por outro lado, se você deixar muitos enigmas não solucionados, nem todos poderão caber na cabana!<W>
+!------------------------------!
+ Se esse for o caso, você poderá ver o resto dos enigmas perdidos tocando no ícone da vassoura que irá aparecer.<W>
+!------------------------------!
+ Agora vá em frente e veja o que te espera dentro da cabana.
+!******************************!
+[e277_t0.txt]
+Vocês dois parecem estar procurando por algo.<W> Está bastante claro pra mim.
+!******************************!
+[e277_t1.txt]
+Talvez você possa nos ajudar.<W> Conhece alguém que o barão considerava um amigo íntimo?
+!******************************!
+[e277_t2.txt]
+Alguém íntimo do barão, hum?<W> Eu via ele com o homem bigodudo no mercado quase sempre.<W>
+!------------------------------!
+ O nome dele me escapa agora, mas you know the one. Você deveria ir ao mercado procurar por informações.
+!******************************!
+[e277_t3.txt]
+Muito bem, iremos fazer isso mesmo. Muito obrigado.
+!******************************!
+[e278_t0.txt]
+Olá, senhores! Procurando por algo, não estão?
+!******************************!
+[e278_t1.txt]
+<@3>Fomos chamados a St Mystere para localizar a Maçã Dourada.<W> Viemos de Londres até aqui!<W>
+!------------------------------!
+ Mas ficamos distraídos com algumas coisas não relacionadas! Ainda não obtivemos nenhum progresso na investigação!
+!******************************!
+[e278_t2.txt]
+Lamento em ouvir que as coisas não estão indo sem problemas.<W> Bom, você gosta de enigmas, não é? Você vai se dar bem aqui!
+!******************************!
+[e278_t3.txt]
+Estou suando a camisa aqui tentando keep things together! Se importaria em ajudar com um problema?<W>
+!------------------------------!
+ Tenho um pouco de leite para repartir, mas as jarras medidoras parecem ter criado pés e terem corrido.<W>
+!------------------------------!
+ Você tem alguma ideia de como possa me tirar dessa pequena confusão?
+!******************************!
+[e278_t4.txt]
+De volta pra pensar no meu problema?<W> Isso é terrivelmente bom de sua parte.
+!******************************!
+[e278_t5.txt]
+Está procurando pela manivela da ponte do Franco? Ouvi dizer que ela desapareceu.<W> Ele está de mau humor desde então.<W>
+!------------------------------!
+ Franco é um cara meio insensível, mas aquela ponte é a vida dele. Eu nunca o vi tão pra baixo.
+!******************************!
+[e278_t6.txt]
+Obrigado! Agora finalmente poderei começar a fazer esses scones!<W> Deve haver um jeito de poder retribuir o favor.<W>
+!------------------------------!
+ Bom, sendo isso um restaurante, venha aqui e coma quando quiser. É por conta da casa!
+!******************************!
+[e278_t7.txt]
+Hum, acho que é mesmo impossível. Talvez eu deva realmente desistir e comprar uma nova jarra medidora.
+!******************************!
+[e279_t0.txt]
+Tenho um trabalho a fazer agora.<W> For that matter, so do you!<W><@C> &SetAni 0 point&Vocês não deviam estar subindo? Ao topo da torre é um longo caminho!
+!******************************!
+[e279_t1.txt]
+Vá em frente, agora é com você!
+!******************************!
+[e288_t0.txt]
+Eu sou um homem que gosta de formas e modelos e você é um que gosta de selos, isso?<W> Também achei.<W>
+!------------------------------!
+ Eu tenho aqui o enigma para um homem como você então.<W>
+!------------------------------!
+ Recomendo fortemente que sejas útil e resolva este enigma sem me incomodar.
+!******************************!
+[e288_t1.txt]
+Eu sei o queres. Resolver aquele enigma de selos, não é?<W> Sabia que eras um fanático por selos!
+!******************************!
+[e288_t2.txt]
+A vida de um burocrata é extremamente ocupada.<W>
+!------------------------------!
+ A menos que você tenha um problema para resolver E os modos certos, recomendo fortemente que ambos saiam.
+!******************************!
+[e288_t3.txt]
+Sabia que um colecionador de selos como você conseguiria resolver. Agora finalmente posso postar esses documentos.<W>
+!------------------------------!
+ Recomendo fortemente que desocupe o escritório e me deixe voltar aos meus negócios.
+!******************************!
+[e288_t4.txt]
+Se não consegue resolver esse enigma, recomend fortemente que saia. Estou ocupado e preciso de espaço para trabalhar.
+!******************************!
+[e290_t0.txt]
+Uma carta requerindo ajuda trouxe Professor Layton e seu assistente Luke à remota St Mystere.
+!******************************!
+[e290_t1.txt]
+Após solucionar um enigma, o par pôde então atravessar a ponte levadiça que dá acesso à vila.<W>
+!------------------------------!
+ Agora Luke e Layton devem ir à Mansão Reinhold, a residência da Lady Dahlia, a autora da carta.
+!******************************!
+[e291_t0.txt]
+O professor e Luke efeturaram a passagem com êxito à Mansão Reinhold, onde lá encontraram Lady Dahlia.
+!******************************!
+[e291_t1.txt]
+Mas antes mesmo de começar a falar, um imenso barulho fez a gata da Lady Dahlia, Claudia, sair correndo.<W>
+!------------------------------!
+ O professor e Luke estão então forçados a encontrar o felino perdido.
+!******************************!
+[e292_t0.txt]
+Finalmente tendo retornado à mansão Reinhold com Claudia em mãos,<W>
+!------------------------------!
+ Layton e Luke ficaram horrorizados em saber que um assassinato ocorreu naquele lugar durante a ausência deles.
+!******************************!
+[e292_t1.txt]
+Esperando por Luke e Layton não mansão, está o detetive policial Inspetor Chelmey.<W>
+!------------------------------!
+ Ao receber um relatório de assassinato, ele saiu correndo para St Mystere para conduzir uma investigação.<W>
+!------------------------------!
+ Ele tinha uma suspeita de Luke e Layton.<W>
+!------------------------------!
+ Logo após o homicídio, um funcionário da família Reinhold chamado Ramon desapareceu.<W>
+!------------------------------!
+ A pedidos de Lady Dahlia, Luke e o professor partiram a fim de coletar informações do paradeiro dele.
+!******************************!
+[e293_t0.txt]
+No decorrer da longa investigação à tarde deles em St Mystere,<W>
+!------------------------------!
+ Luke e Layton escutam um rumor sobre misteriosos desaparecimentos.
+!******************************!
+[e293_t1.txt]
+O professor tem um paplite que o desaparecimento de Ramon e esses sequestros devem estar conectados.<W>
+!------------------------------!
+ A procura de mais detalhes, a intrépida dupla continua a busca em St Mystere pela noite.
+!******************************!
+[e294_t0.txt]
+Após presenciar a abdução de Ramon perante seus próprios olhos,<W>
+!------------------------------!
+ Luke e o Professor Layton estão chocados em o ver retornando à Mansão Reinhold por conta própria.
+!******************************!
+[e294_t1.txt]
+Ocupado com a investigação do homicído, o Inspetor Chelmey alerta Layton a não mais se intrometer.<W>
+!------------------------------!
+ Entretanto, Layton está confiante que a Maçã Dourada e o crime da manhã têm uma ligação.<W>
+!------------------------------!
+ Agora livres para prosseguir, Layton e Luke finalmente começam a busca pela Maçã Dourada .
+!******************************!
+[e295_t0.txt]
+O professor e Luke continuam a investigação ao redor de St Mystere pela Maçã Dourada.<W>
+!------------------------------!
+ Conversas com os associados do barão levaram a dupla ao túmulo da ex esposa dele.
+!******************************!
+[e295_t1.txt]
+Além disso, os dois recuperaram parte diário pessoal do Barão Reinhold.<W>
+!------------------------------!
+ Independente disso, Luke e Layton ainda não estão perto de entender o que é mesmo a Maçã Dourada.
+!******************************!
+[e295_t2.txt]
+A torre assombrosa no fim de St Mystere despertou suspeitas ao professor.<W>
+!------------------------------!
+ Ansioso para investigar mais, Luke e Layton seguem na direção dela.
+!******************************!
+[e296_t0.txt]
+Luke e Layton encontram uma misteriosa garota no beco sem saída ao lado norte da vila.<W>
+!------------------------------!
+ Ela começou a falar algo, mas uma estranha figura espreitando-se nas sombras, a assustou.
+!******************************!
+[e296_t1.txt]
+Mais tarde, um perplexo Layton e Luke acham um bilhete para a Roda gigante e decidem ir até ela.
+!******************************!
+[e297_t0.txt]
+Layton e Luke escapam por um triz de serem esmagados por uma Roda gigante desgovernada durante a ida ao parque.<W>
+!------------------------------!
+ A Roda gigante destroi uma tenda na margem, revelando uma passagem subterrânea secreta.
+!******************************!
+[e297_t1.txt]
+Após achar uma chave em formato de torre no quarto subterrâneo, Layton e Luke decidem voltar para a vila de novo.
+!******************************!
+[e297_t2.txt]
+Com a chave em mãos, Layton cogita em ir à torre.<W>
+!------------------------------!
+ Entretanto, após sentir uma presença maligna por perto, o professor elabora um plano para expulsar o demônio.
+!******************************!
+[e298_t0.txt]
+Layton expõe Don Paolo, e o cientísta do mal que estava disfarçado de Inspetor Chelmey.
+!******************************!
+[e298_t1.txt]
+Com seu disfarce descoberto, Don Paolo escapa da mansão, deixando apenas sua máscara de látex para trás.
+!******************************!
+[e298_t2.txt]
+Tendo expulsado o demônio que tentou roubar suas vidas, Luke e Layton partiram rumo à exploração da torre.
+!******************************!
+[e299_t0.txt]
+Após uma longa busca, Luke e o Professor Layton finalmente ganham accesso à torre.
+!******************************!
+[e299_t1.txt]
+Dentro, eles conhecem a verdade por trás da vila de St Mystere e a abdução de Ramon.
+!******************************!
+[e299_t2.txt]
+Ainda se recuperando da estranha virada de eventos, os dois sobem a torre em busca da Maçã Dourada.
+!******************************!
+[e299_t3.txt]
+Será que a dupla ousada encontrará mesmo o tesouro que tanto procuram no topo da torre?
+!******************************!
+[e311_t0.txt]
+<@1>Ah, pra mim CHEGA!<W> Eu criei este INCRÍVEL enigma, mas não encontro ALGUÉM para contá-lo!
+!******************************!
+[e311_t1.txt]
+<@1>Ah, então AGORA você está disposto a resolver meu enigma! Faz sentido!
+!******************************!
+[e311_t2.txt]
+<@1>Ufaa... Todo esse ódio me deixou com fome.
+!******************************!
+[e311_t3.txt]
+<@1>Ah, QUAL É!<W> Eu já estava pronto para contar a resposta e tudo mais!<W>
+!------------------------------!
+Mas NÃÃÃÃO, você tinha que estragar tudo e responder antes de eu dar permissão para isso, não é?!<W> NÃO É?!<W>
+!------------------------------!
+Você já considerou a forte possibilidade de que talvez você seja de fato um pé no saco?
+!******************************!
+[e311_t4.txt]
+<@1>O QUÊ?!<W> Vocês só podem estar me fazendo de palhaço!
+!******************************!
+[e312_t0.txt]
+Vocês dois são certamente fanáticos por enigmas!<W> Bem, eu tenho um enigma bombástico para vocês!
+!******************************!
+[e312_t1.txt]
+Esse é o espírito! Quando a vida lhe derrubar, levante e tente outra vez! Vocês jovens são cheios de energia!
+!******************************!
+[e312_t2.txt]
+Desculpe, rapazes, mas não tenho mais enigmas para vocês agora.
+!******************************!
+[e312_t3.txt]
+Que rapazes espertos são vocês dois!<W> Espero que parem aqui para resolver enigmas comigo mais vezes.
+!******************************!
+[e312_t4.txt]
+Estão dizendo que não têm tempo para resolver enigmas com uma velha senhora como eu?<W>
+!------------------------------!
+Vocês jovens conseguem ser tão egoístas as vezes.
+!******************************!
+[e313_t0.txt]
+<@1>Sinto muito incomodar você enquanto está ocupado, mas você poderá deixar um velho muito feliz ajudando-o a resolver este enigma.
+!******************************!
+[e313_t1.txt]
+Certamente. Vamos dar uma olhada.
+!******************************!
+[e313_t2.txt]
+<@1>Ah, deixe-me adivinhar. Você chegou na resposta enquanto estava fora?
+!******************************!
+[e313_t3.txt]
+<@1>Olá outra vez. Está aqui para dar uma outra olhada na minha mesa?
+!******************************!
+[e313_t4.txt]
+<@1>Ah, entendo.<W> Na minha juventude, eu teria resolvido um enigma como este antes mesmo que pudesse dizer "paralelepípedo".
+!------------------------------!
+Meu deus, acho que estou ficando cada vez mais caduco...
+!******************************!
+[e313_t5.txt]
+<@1>Volte sempre que desejar. Fico sempre feliz em ter companias.
+!******************************!
+[e314_t0.txt]
+<@3>Temos uma bela visão da entrada da vila daqui.
+!******************************!
+[e314_t1.txt]
+Lá está o Laytonmóvel. Pelo que parece, ele está intacto.
+!******************************!
+[e314_t2.txt]
+<@3>Não se preocupe, Professor. Ninguém nem mesmo sonharia em roubar o Laytonmóvel.
+!******************************!
+[e314_t3.txt]
+...<W>O que quer dizer com isso, Luke?
+!******************************!
+[e315_t0.txt]
+Vamos, meu garoto. Pense com cuidado...
+!******************************!
+[e315_t1.txt]
+<@3>...<W>&SetAni 1 smile&Ah sim, agora me lembro!
+!******************************!
+[e316_t0.txt]
+<@3>Lembrei agora! Está bem aqui!
+!******************************!
+[e316_t1.txt]
+<@3>Aha!<W> Um botão escondido!
+!******************************!
+[e316_t2.txt]
+O botão parece ter ativado a parede!
+!******************************!
+[e316_t3.txt]
+<@3>E pensar que a Mansão Reinhold escondeu o segredo atrás desta pintura por tanto tempo...<W>
+!------------------------------!
+Parece ter um tipo de passagem mais adiante.
+!******************************!
+[e316_t4.txt]
+<@3>Oh...
+!******************************!
+[e316_t5.txt]
+Vamos ver aonde essa passagem nos levará.
+!******************************!
+[e317_t0.txt]
+<@3>Estou simplesmente chocada-CHOCADA!-com tudo que está acontecendo!<W>
+!------------------------------!
+Quem poderia imaginar que havia um impostor entre nós? Ele me enganou completamente
+!******************************!
+[e317_t1.txt]
+<@3>Mas você viu através dele, Professor. Devo dizer que estou bastante impressionada com a sua astúcia.
+!******************************!
+[e317_t10.txt]
+<@3>Agora por que eu teria um sonho esquisito como esse? Esses últimos dias foram certamente muito cansativos.
+!******************************!
+[e317_t11.txt]
+<@3>Hm...
+!******************************!
+[e317_t12.txt]
+<@3>Professor Layton, e-eu não me sinto particularmente muito bem no momento. Acho que preciso descansar um pouco.
+!******************************!
+[e317_t13.txt]
+<@3>O que tem de errado com Lady Dahlia?
+!******************************!
+[e317_t14.txt]
+Ela sonhou que estava caminhando no parque com sua filhinha.
+!******************************!
+[e317_t15.txt]
+Há algo muito misterioso sobre esse sonho...
+!******************************!
+[e317_t2.txt]
+<@3>Peço para que vocês coloquem suas mentes brilhantes para funcionar outra vez e voltem à busca da Maçã Dourada.
+!******************************!
+[e317_t3.txt]
+Seria um prazer, Madame.
+!******************************!
+[e317_t4.txt]
+A propósito, está se sentindo bem? Você parece um pouco pálida.
+!******************************!
+[e317_t5.txt]
+<@3>Mm...
+!******************************!
+[e317_t6.txt]
+<@3>Eu acordei esta manhã lembrando de um sonho esquisito que devo ter tido durante a noite passada.
+!******************************!
+[e317_t7.txt]
+<@3>Nele, eu e meu marido acabávamos de ganhar uma pequena bebê, e oh, como todos eram carinhosos com ela.
+!******************************!
+[e317_t8.txt]
+<@3>No momento seguinte, de repente eu estava num parque caminhando de mãos dadas com minha filhinha.
+!******************************!
+[e317_t9.txt]
+Com sua filha?
+!******************************!
+[e318_t0.txt]
+<@3>Professor, há algo aqui no chão.
+!******************************!
+[e318_t1.txt]
+Tem razão... Parece ser um pedaço de papel.<W> Pode ver se há algo escrito nele?
+!******************************!
+[e318_t2.txt]
+<@3>É claro!<W> Vamos ver...
+!******************************!
+[e318_t3.txt]
+#rO chefe elogiou meu último modelo hoje.<W>
+!------------------------------!
+Ele é uma boa pessoa, e me deu um novo propósito de vida. Estou certo de que essa é minha verdadeira vocação.<W>
+!------------------------------!
+Eu quero aperfeiçoar minhas habilidades, assim poderei pagar o homem pela sua generosidade.#x
+!******************************!
+[e318_t4.txt]
+Isto aqui parece muito com a página de um diário, não é?<W>
+!------------------------------!
+Julgando pela maneira como o escritor usa o termo "o chefe", suponho que ele era empregado do barão.
+!******************************!
+[e318_t5.txt]
+#rEu construi modelos para cada situação, como o chefe pediu.<W>
+!------------------------------!
+Eu esboço um sorriso quando vejo o interesse dele neles.#x
+!******************************!
+[e318_t6.txt]
+<@3>Este é o fim. Você acha que esse homem criou alguma coisa para sobreviver?
+!******************************!
+[e318_t7.txt]
+Humm...
+!******************************!
+[e319_t0.txt]
+<@3>O que é isso no chão?
+!******************************!
+[e319_t1.txt]
+Parece ser um pedaço de papel.<W> O que está escrito, Luke?
+!******************************!
+[e319_t2.txt]
+<@3>Bem, vamos ver. Ahem..
+!******************************!
+[e319_t3.txt]
+#rÉ terrível. Lady Viola está com uma forte gripe, e não tem saído da cama há dias.<W>
+!------------------------------!
+Não sou nenhum doutor, então não consigo pensar em nenhuma maneira de ajudá-la... Oh, o que fazer... O que fazer...#x
+!******************************!
+[e319_t4.txt]
+<@3>Lady Viola... Ah, este texto deve estar falando sobre a primeira esposa do Barão Reinhold.
+!******************************!
+[e319_t5.txt]
+#rEstou com o coração pesado enquanto escrevo estas palavras.<W><@C> A perda da sua mulher derrubou completamente o chefe. Se pelo menos houvesse algo que eu pudesse fazer para ajudar...<W>
+!------------------------------!
+Ele caminha pelos cantos parecendo como se estivesse sem ar...#x
+!******************************!
+[e319_t6.txt]
+<@3>E esse é o fim.<W>
+!------------------------------!
+Céus, quem quer que tenha escrito isto devia se preocupar muito com o barão e sua família.
+!******************************!
+[e319_t7.txt]
+Hum...
+!******************************!
+[e320_t0.txt]
+<@3>Oh, o que é isso no chão?
+!******************************!
+[e320_t1.txt]
+Parece ser um pedaço de papel.<W> Poderia por favor ler o que está escrito, Luke?
+!******************************!
+[e320_t2.txt]
+<@3>Deixa comigo, Professor.<W> Hmm...
+!******************************!
+[e320_t3.txt]
+#rO chefe não tem sido o mesmo desde a morte de Lady Viola, e ele não aparenta sinais de recuperação.<W>
+!------------------------------!
+Foi por isso que decidi criar um deles como um tributo a Lady Viola. Tenha certeza que isto trará de volta o sorriso ao seu rosto.#x
+!******************************!
+[e320_t4.txt]
+Ah sim, agora faz sentido. Poderia nosso misterioso autor ser...ele?
+!******************************!
+[e320_t5.txt]
+#rEu trabalhei até não aguentar mais para animar o chefe.<W>
+!------------------------------!
+Olhando St. Mystère, eu vejo uma vila próspera e agitada.<W>
+!------------------------------!
+Com tantos habitantes para fazer lhe compania, talvez finalmente ele consiga ser feliz outra vez.#x
+!******************************!
+[e320_t6.txt]
+<@3>Este é o fim da página.<W>
+!------------------------------!
+Professor, qual o problema? Você parece perdido em seus pensamentos.
+!******************************!
+[e320_t7.txt]
+Eu não posso confirmar minhas suspeitas no momento. Mas acho que é seguro dizer que isto vai mais longe do que pensávamos.
+!******************************!
+[e321_t0.txt]
+<@3>Olhe isto, Professor. Estava no chão.
+!******************************!
+[e321_t1.txt]
+Parece ser um pedaço de papel.<W> Poderia o ler em voz alta para mim?
+!******************************!
+[e321_t2.txt]
+<@3>Semproblemas, Professor.<W> Muito bem, vamos ver...
+!******************************!
+[e321_t3.txt]
+#rQuanto mais ela cresce, mais a Jovem Senhorita está perto de descobrir o segredo da vila.<W>
+!------------------------------!
+Ela se sente sozinha, o que é a provável causa para o chefe ter me pedido para construir um parque de diversões para ela.<W>
+!------------------------------!
+É, parece que tenho trabalho a fazer.#x
+!******************************!
+[e321_t4.txt]
+<@3>A "Jovem Senhorita" mencionada aqui deve ser a Flora. O parque inteiro foi construído apenas para ela!<W>
+!------------------------------!
+Mas eu não entendo esta outra linha. O que significa esse história de segredo na vila?
+!******************************!
+[e321_t5.txt]
+#rApenas não estou preparado para lidar com a morte do chefe. Pobre Jovem Senhorita. Ela está sozinha no mundo agora.<W>
+!------------------------------!
+Mas não importa o que acontecer, tenho que continuar e cuidar dela no lugar do chefe.#x
+!******************************!
+[e321_t6.txt]
+<@3>A página acaba aqui.
+!******************************!
+[e321_t7.txt]
+Parece que o Barão Reinhold amava verdadeiramente mais sua filha do que tudo.<W> O destino as vezes é tão cruel.
+!******************************!
+[e322_t0.txt]
+<@3>Parece que encontramos um enigma escondido aqui, Professor!
+!******************************!
+[e322_t1.txt]
+<@3>Oh, olhe! É aquele enigma escondido de antes.
+!******************************!
+[e322_t2.txt]
+<@3>Barbada. Agora vamos encontrar mais enigmas!
+!******************************!
+[e322_t3.txt]
+<@3>Céus, foi mais difícil do que pensei.
+!******************************!
+[e323_t0.txt]
+Hyeh heh heh! Oh céus, oh vida! Não é todo dia que se vê um bonitão por estas paltes.<W>
+!------------------------------!
+Sua apalência é esplêndida, quelido, mas vamos ver se você também é espelto. Tente lesolver este enigma aqui.
+!******************************!
+[e323_t1.txt]
+Eu ficarei feliz em resolver qualquer enigma que você tenha, madame, mas acredito que ainda não nos conhecemos. Você é...?
+!******************************!
+[e323_t2.txt]
+Hyem nyem nyem...<W> &SetAni 2 talk&Você quer saber meu nome, quelido? Falalei assim que você lesolver este enigma.
+!******************************!
+[e323_t3.txt]
+Desulpe, quelido, mas não tenho mais enigmas pala você agola. Por gue não fica pala uma convelsa?
+!******************************!
+[e323_t4.txt]
+<@3>Sinto muito, madame, mas acho melhor irmos...
+!******************************!
+[e323_t5.txt]
+Hyeh heh heh heh! &SetAni 2 talk&Eu deixo um bonitão como você tentar lesolver este enigma quantas vezes você quiser!
+!******************************!
+[e323_t6.txt]
+Hyeh heh heh! Sim, tem lazão!<W> Espelto E bonitão! Você é um pacote completo, pode ter celteza!<W>
+!------------------------------!
+Sou Maltha, e amo caltas. Especialmente enigmas que usam caltas. Ooh, esses são meus favolitos!
+!******************************!
+[e323_t7.txt]
+Hyem nyem nyem. <W>&SetAni 2 talk&Acho que esqueci de mencionar o quanto eu gosto da compania de um belo cavalheilo.
+!******************************!
+[e323_t8.txt]
+<@3>Hm, Professor, não devíamos estar em algum lugar exatamente agora?
+!******************************!
+[e323_t9.txt]
+Hyeh heh heh heh!<W> Esse enigma não é blincadeila, não é?
+!******************************!
+[e324_t0.txt]
+Hyeh heh heh! Tenho um novo enigma paga você, quelido.<W> Aposto que está louquinho paga ouvi-lo!
+!******************************!
+[e324_t1.txt]
+<@3>Sinto muito, madame, mas estamos com muita pressa agora.
+!******************************!
+[e324_t10.txt]
+<@3>Hm, Professor, devemos realmente ir.
+!******************************!
+[e324_t11.txt]
+Hyem nyem nyem.<W> &SetAni 2 talk&Meu enigma foi difícil demais pala você, hein, quelido:
+!******************************!
+[e324_t2.txt]
+Hyem nyem.<W> &SetAni 2 talk&Você não pode enganar esta velha galota! Eu vi você passeando por aí lesolvendo o enigma das outlas pessoas.<W>
+!------------------------------!
+E agola é a minha vez!
+!******************************!
+[e324_t3.txt]
+<@3>N-nos viu? O quer dizer? Você estava nos seguindo?
+!******************************!
+[e324_t4.txt]
+Plonto pala tentar outla vez, quelido?
+!******************************!
+[e324_t5.txt]
+Hyeh heh heh! Então, quer uma compania para ir com você até a tole?<W> Uma... compania feminina?
+!******************************!
+[e324_t6.txt]
+<@3>Não, obrigado. Acho que estamos bem dessa maneira.
+!******************************!
+[e324_t7.txt]
+Hyeh heh heh! Você está indo pala a tole, não é, quelido?<W> Que tal eu lhe mostlar o caminho?
+!******************************!
+[e324_t8.txt]
+Hã? Eu tinha a impressão que os moradores de St. Mystère odiavam chegar perto da torre.
+!******************************!
+[e324_t9.txt]
+Hyem nyem neym;<@> &SetAni 2 talk& Ah, sim, eu mesma não quelo chegar pelto daquele lugar.<W>
+!------------------------------!
+Polém, acho que posso fazer uma exceção pala um bonitão como você, ah sim.
+!******************************!
+[e325_t0.txt]
+<@3>Professor, há um enigma escondido aqui!
+!******************************!
+[e325_t1.txt]
+<@3>Oh, olhe, é aquele enigma escondido de antes.
+!******************************!
+[e325_t2.txt]
+<@3>Fácil. Vamos procurar mais enigmas!
+!******************************!
+[e325_t3.txt]
+<@3>Céus, este foi mais difícil que eu pensava.
+!******************************!
+[e326_t0.txt]
+<@3>Olhe, Professor! Há um enigma escondido aqui!
+!******************************!
+[e326_t1.txt]
+<@3>Oh, é aquele enigma que vimos mais cedo!
+!******************************!
+[e326_t2.txt]
+<@3>Eu podia ter resolvido este durante meu cochilo!
+!******************************!
+[e326_t3.txt]
+<@3>Uau, não pensei que este daqui seria tão difícil!
+!******************************!
+[e327_t0.txt]
+<@3>Olhe, Professor! Há um enigma escondido aqui!
+!******************************!
+[e327_t1.txt]
+<@3>Oh, olhe, é aquele enigma escondido de antes.
+!******************************!
+[e327_t2.txt]
+<@3>Ufa, este enigma não era brincadeira não.
+!******************************!
+[e327_t3.txt]
+<@3>Céus, este daqui foi é difícil do que pensei que seria!
+!******************************!
+[e328_t0.txt]
+<@3>Olhe! Há uma enigma escondido aqui, Professor!
+!******************************!
+[e328_t1.txt]
+<@3>Oh, aqui está aquele enigma escondido de antes!
+!******************************!
+[e328_t2.txt]
+<@3>Barbada. Agora vamos encontrar mais enigmas!
+!******************************!
+[e328_t3.txt]
+<@3>Céus, que pergunta difícil é este daqui!
+!******************************!
+[e329_t0.txt]
+<@3>Oh, olhe, Professor! Encontrei um enigma escondido!
+!******************************!
+[e329_t1.txt]
+<@3>Oh, é aquele enigma que vimos mais cedo!
+!******************************!
+[e329_t2.txt]
+<@3>Como eu gostaria que todos os enigmas fosse tão fáceis assim.
+!******************************!
+[e329_t3.txt]
+<@3>Uau, este é um daqueles difíceis!
+!******************************!
+[e330_t0.txt]
+<@3>Olhe, um enigma escondido!
+!******************************!
+[e330_t1.txt]
+<@3>Olhe, é aquele enigma escondido de antes!
+!******************************!
+[e330_t2.txt]
+<@3>Fácil demais! Agora vamos encontrar mais alguns enigmas!
+!******************************!
+[e330_t3.txt]
+<@3>Este daqui realmente faz você pensar, hein:
+!******************************!
+[e331_t0.txt]
+<@3>Oh, olhe, Professor! Encontrei um enigma escondido!
+!******************************!
+[e331_t1.txt]
+<@3>Oh, é aquele enigma que vimos mais cedo!
+!******************************!
+[e331_t2.txt]
+<@3>Este foi fácil!
+!******************************!
+[e331_t3.txt]
+<@3>Uau, este é um daqueles difíceis...
+!******************************!
+[e332_t0.txt]
+<@3>Olhe, é um enigma escondido!
+!******************************!
+[e332_t1.txt]
+<@3>Oh, olhe, é aquele enigma escondido de antes.
+!******************************!
+[e332_t2.txt]
+<@3>Pronto! Vamos encontrar mais enigmas!
+!******************************!
+[e332_t3.txt]
+<@3>Preciso pensar sobre este daqui um pouco mais...
+!******************************!
+[e333_t0.txt]
+<@3>Olhe, Professor, há um enigma escondido aqui!
+!******************************!
+[e333_t1.txt]
+<@3>É aquele enigma escondido de antes.
+!******************************!
+[e333_t2.txt]
+<@3>Ufa, aquele enigma foi uma batalha e tanto.
+!******************************!
+[e333_t3.txt]
+<@3>Uau, este é um daqueles bem difíceis...
+!******************************!
+[e334_t0.txt]
+<@3>Olhe, Professor, há um enigma escondido aqui!
+!******************************!
+[e334_t1.txt]
+<@3>É aquele enigma escondido de antes.
+!******************************!
+[e334_t2.txt]
+<@3>Ufa... Consegui, mas foi por pouco.
+!******************************!
+[e334_t3.txt]
+<@3>Apavorante!
+!******************************!
+[e335_t0.txt]
+<@3>Olhe, é um enigma escondido!
+!******************************!
+[e335_t1.txt]
+<@3>Oh, é aquele enigma que vimos mais cedo!
+!******************************!
+[e335_t2.txt]
+<@3>Eu poderia ter resolvido este enigma sem as mãos!
+!******************************!
+[e335_t3.txt]
+<@3>Uau, este é um daqueles bem difíceis...
+!******************************!
+[e336_t0.txt]
+<@3>Há um enigma escondido aqui!
+!******************************!
+[e336_t1.txt]
+<@3>Olhe, é aquele enigma escondido de antes!
+!******************************!
+[e336_t2.txt]
+<@3>Ufa! Precisei pensar muito para resolver este daqui!
+!******************************!
+[e336_t3.txt]
+<@3>Uau, este é um tanto difícil.
+!******************************!
+[e337_t0.txt]
+<@3>Há um enigma escondido aqui!
+!******************************!
+[e337_t1.txt]
+<@3>Olhe, Professor, é aquele enigma escondido de antes!
+!******************************!
+[e337_t2.txt]
+<@3>Este foi um enigma difícil!
+!******************************!
+[e337_t3.txt]
+<@3>Céus, este foi mais difícil que eu pensava.
+!******************************!
+[e338_t0.txt]
+<@3>Oh, olhe, Professor! Encontrei um enigma escondido!
+!******************************!
+[e338_t1.txt]
+<@3>Olhe, Professor, é aquele enigma escondido de antes!
+!******************************!
+[e338_t2.txt]
+<@3>Sem problemas. Agora vamos encontrar mais enigmas!
+!******************************!
+[e338_t3.txt]
+<@3>Este enigma fez minha cabeça doer...
+!******************************!
+[e339_t0.txt]
+O Inspetor Chelmey e minha senhora já se recolheram aos seus quartos.<W> O Ramon deve estar na cafeteria.<W>
+!------------------------------!
+Você teve um dia bastante cansativo, Professor. Tente descancar um pouco. Boa noite, senhor.
+!******************************!
+[e342_t0.txt]
+Apesar de você ter chegado ao fim da história, "Professor Layton e a Vila Misteriosa" está longe de acabar.<W>
+!------------------------------!
+Quantos enigmas você resolveu durante o desenrolar da sua aventura?<W>
+!------------------------------!
+Exatamente 120 enigmas estão escondidos pela vila, então por que não tentar completar todos os enigmas?<W>
+!------------------------------!
+Além disso, certifique-se de verificar a seção Bônus. Cumpra certas condições para liberar mais conteúdos bônus.<W>
+!------------------------------!
+Seu jogo será salvo agora.<W> Quando voltar a ele, você retornará ao topo da torre.
+!******************************!
+[e344_t0.txt]
+Você está ficando acostumado em vasculhar e investigar St. Mystère?<W>
+!------------------------------!
+Aqui vão algumas dicas para que sua investigação corra tranquilamente.<W>
+!------------------------------!
+Alguns enigmas irão desaparecer de seus locais na vila conforme a história avança.
+!******************************!
+[e344_t1.txt]
+Mas não há porquê se preocupar!<W>
+!------------------------------!
+A maioria dos enigmas não resolvidos são enviados à cabana da Vovó Riddleton, na praça da vila.<W>
+!------------------------------!
+Visite-a com frequência para encontrar os enigmas que você esqueceu e cumprir o objetivo de completar todos os enigmas no jogo!
+!******************************!
+[e345_t0.txt]
+Acho que agora é hora para os agradecimentos. Você chegou até aqui, apesar de tudo.<W>
+!------------------------------!
+É claro, parece que você deixou alguns dos meus enigmas na vila intocados.
+!******************************!
+[e345_t1.txt]
+<@3>O-o que foi isso? De onde está vindo essa voz?!
+!******************************!
+[e345_t2.txt]
+Eu escondi todos os tipos de enigmas maravilhosos por St. Mystère.<W>
+!------------------------------!
+Volte para a vila, viajante, e teste sua coragem contra mais alguns dos meus enigmas.
+!******************************!
+[e345_t3.txt]
+Não sou tão insensato a ponto de querer que você resolva todos os enigmas antes de passar por aqui.<W>
+!------------------------------!
+Mas você está completamente enganado se acha que deixarei passar por aqui sem ter resolvido pelo menos 75 enigmas.<W>
+!------------------------------!
+Volte aqui quando tiver feito isso.
+!******************************!
+[e345_t4.txt]
+<@3>Quem você acha que era?
+!******************************!
+[e345_t5.txt]
+Hmm... &SetAni 0 Think&É uma voz familiar.<W> Bem, parece que esse mistério terá que esperar.<W>
+!------------------------------!
+Se não resolvermos 75 enigmas primeiro, nunca conseguiremos entrar na torre. Vamos voltar à vila.
+!******************************!
+[e345_t6.txt]
+Hmm...<W>Bem, parece que você resolveu pelo menos 75 enigmas.<W>
+!------------------------------!
+Muito bem, entre na torre.
+!******************************!
+[e350_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e350_t1.txt]
+Dê uma olhada neste enigma.
+!******************************!
+[e350_t2.txt]
+Pronto para tentar este daqui?
+!******************************!
+[e350_t3.txt]
+Esplêndido! É claro, eu não esperava nada menos que isso de você.
+!******************************!
+[e350_t4.txt]
+Este daqui não será fácil de resolver.
+!******************************!
+[e351_t0.txt]
+Você deve dar tudo de si!
+!******************************!
+[e351_t1.txt]
+Persistência é uma virtude, Luke.
+!******************************!
+[e351_t2.txt]
+Vejo que está louco de vontade de tentar este aqui outra vez.
+!******************************!
+[e351_t3.txt]
+Excelente trabalho. É claro, eu não esperaria menos do que isso de você.
+!******************************!
+[e351_t4.txt]
+Posso ver que este daqui não será derrotado sem uma luta.
+!******************************!
+[e352_t0.txt]
+Vamos, Luke, dê o seu melhor para resolver este enigma.
+!******************************!
+[e352_t1.txt]
+Dê uma olhada neste enigma.
+!******************************!
+[e352_t2.txt]
+Você está preparado para tentar este aqui outra vez, certo?
+!******************************!
+[e352_t3.txt]
+Muito bem. Suas habilidades estão crescendo a passos largos, meu garoto.
+!******************************!
+[e352_t4.txt]
+Hmm. Este é um daqueles bem enganadores, não é?
+!******************************!
+[e353_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e353_t1.txt]
+Não existe sucesso sem perseverança.
+!******************************!
+[e353_t2.txt]
+Pronto para um desafio?
+!******************************!
+[e353_t3.txt]
+Bom trabalho! Você tem as qualidades de um mestre dos enigmas, Luke!
+!******************************!
+[e353_t4.txt]
+Parece que terá que pensar um pouco neste daqui.
+!******************************!
+[e354_t0.txt]
+Dê o seu melhor para resolver este enigma.
+!******************************!
+[e354_t1.txt]
+Dê mais uma olhada neste enigma.
+!******************************!
+[e354_t2.txt]
+Pronto para tentar este daqui?
+!******************************!
+[e354_t3.txt]
+Excelente trabalho, meu garoto.
+!******************************!
+[e354_t4.txt]
+Este daqui certamente não será fácil.
+!******************************!
+[e355_t0.txt]
+Tente este daqui, Luke.
+!******************************!
+[e355_t1.txt]
+Você consegue. Tente outra vez.
+!******************************!
+[e355_t2.txt]
+Pronto para dar o melhor de si?
+!******************************!
+[e355_t3.txt]
+Sabi que você conseguiria!
+!******************************!
+[e355_t4.txt]
+Não será fácil, mas todo enigma tem uma resposta.
+!******************************!
+[e356_t0.txt]
+Vamos, tente.
+!******************************!
+[e356_t1.txt]
+Você não deve desistir, Luke!
+!******************************!
+[e356_t2.txt]
+Pronto para tentar outra vez?
+!******************************!
+[e356_t3.txt]
+Exatamente, meu garoto. Muito bem.
+!******************************!
+[e356_t4.txt]
+De modo a evoluir, sempre devemos buscar novos desafios.
+!******************************!
+[e357_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e357_t1.txt]
+Importa-se de tentar, Luke?
+!******************************!
+[e357_t2.txt]
+Pronto para tentar?
+!******************************!
+[e357_t3.txt]
+Sabi que você conseguiria!
+!******************************!
+[e357_t4.txt]
+Está claro que este enigma precisa de um pouco de reflexão.
+!******************************!
+[e358_t0.txt]
+Este enigma necessita da sua atenção, meu garoto.
+!******************************!
+[e358_t1.txt]
+Por que não dá uma chance a este enigma?
+!******************************!
+[e358_t2.txt]
+Pronto para tentar outra vez?
+!******************************!
+[e358_t3.txt]
+Excelente trabalho, meu garoto.
+!******************************!
+[e358_t4.txt]
+Talvez este enigma seja difícil, mas considere-o como uma oportunidade para aprender.
+!******************************!
+[e359_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e359_t1.txt]
+Dê uma olhada neste enigma.
+!******************************!
+[e359_t2.txt]
+Pronto para tentar este daqui?
+!******************************!
+[e359_t3.txt]
+Fantástico! Continue com o bom trabalho!
+!******************************!
+[e359_t4.txt]
+Este daqui requer sua máxima concentração.
+!******************************!
+[e360_t0.txt]
+Vamos, tente.
+!******************************!
+[e360_t1.txt]
+Por que não tenta outra vez?
+!******************************!
+[e360_t2.txt]
+Faça o seu melhor!
+!******************************!
+[e360_t3.txt]
+Muito bem. Sabia que conseguiria.
+!******************************!
+[e360_t4.txt]
+Este daqui não será fácil, mas você consegue.
+!******************************!
+[e361_t0.txt]
+Por que não dá uma chance a ele?
+!******************************!
+[e361_t1.txt]
+Dê uma olhada neste enigma.
+!******************************!
+[e361_t2.txt]
+Pronto para tentar este daqui?
+!******************************!
+[e361_t3.txt]
+Esplêndido, meu garoto. É claro, nunca duvidei disso.
+!******************************!
+[e361_t4.txt]
+Este daqui requer um pouco de reflexão.
+!******************************!
+[e362_t0.txt]
+Dê o seu melhor para resolver este enigma.
+!******************************!
+[e362_t1.txt]
+Vamos, tente.
+!******************************!
+[e362_t2.txt]
+Pronto para tentar outra vez, pelo que vejo.
+!******************************!
+[e362_t3.txt]
+Sim, é assim que se deve fazer! É claro, eu não esperaria nada menos que isso de você.
+!******************************!
+[e362_t4.txt]
+Apesar deste enigma ser um pouco mais trabalhoso, tenho confiança de que irá resolvê-lo.
+!******************************!
+[e362_t5.txt]
+E com este, parece que você completou todos os enigmas do jogo. Parabéns!<W>
+!------------------------------!
+Você possui uma aptidão e paixão para resolver enigmas que se equipara a minha própria.<W>
+!------------------------------!
+Eu encorajo-o a continuar melhorando suas habilidades com os novos enigmas semanais disponíveis via Nintendo WFC.
+!******************************!
+[e363_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e363_t1.txt]
+Vamos, tente.
+!******************************!
+[e363_t2.txt]
+Pronto para tentar outra vez, pelo que vejo.
+!******************************!
+[e363_t3.txt]
+Sim, é assim que se deve fazer! É claro, eu não esperaria nada menos que isso de você.
+!******************************!
+[e363_t4.txt]
+Apesar deste enigma ser um pouco mais trabalhoso, tenho confiança de que irá resolvê-lo.
+!******************************!
+[e363_t5.txt]
+E com este, parece que você completou todos os enigmas do jogo. Parabéns!<W>
+!------------------------------!
+Você possui uma aptidão e paixão para resolver enigmas que se equipara a minha própria.<W>
+!------------------------------!
+Eu encorajo-o a continuar melhorando suas habilidades com os novos enigmas semanais disponíveis via Nintendo WFC.
+!******************************!
+[e364_t0.txt]
+Tente resolver este enigma.
+!******************************!
+[e364_t1.txt]
+Vamos, tente.
+!******************************!
+[e364_t2.txt]
+Pronto para tentar outra vez, pelo que vejo.
+!******************************!
+[e364_t3.txt]
+Sim, é assim que se deve fazer! É claro, eu não esperaria nada menos que isso de você.
+!******************************!
+[e364_t4.txt]
+Apesar deste enigma ser um pouco mais trabalhoso, tenho confiança de que irá resolvê-lo.
+!******************************!
+[e364_t5.txt]
+E com este, parece que você completou todos os enigmas do jogo. Parabéns!<W>
+!------------------------------!
+Você possui uma aptidão e paixão para resolver enigmas que se equipara a minha própria.<W>
+!------------------------------!
+Eu encorajo-o a continuar melhorando suas habilidades com os novos enigmas semanais disponíveis via Nintendo WFC.
+!******************************!

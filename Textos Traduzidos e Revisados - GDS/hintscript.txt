@@ -1,0 +1,71 @@
+[00CA0000]
+Não há nada aqui além
+de assoalho e paredes.
+Que chato.
+<00000000>
+!******************************!
+[00CA0000]
+Hmm, este lugar ainda
+está bastante vazio,
+não é?
+<00000001>
+!******************************!
+[00CA0000]
+Bem, está melhor, mas
+ainda há muito o
+que fazer.
+<00000002>
+!******************************!
+[00CA0000]
+Sim, sim, vejo
+melhorias aqui.
+<00000003>
+!******************************!
+[00CA0000]
+As coisas parecem
+melhores, mas sei que
+podemos fazer melhor.
+<00000004>
+!******************************!
+[00CA0000]
+Excelente! Uma pessoa
+poderia viver num
+lugar como esse.
+<00000005>
+!******************************!
+[00CB0000]
+Meu quarto está vazio!
+Preciso de móveis
+agora mesmo!
+<00000000>
+!******************************!
+[00CB0000]
+Hmm, está bem vazio.
+Ainda há muito a ser
+feito aqui.
+<00000001>
+!******************************!
+[00CB0000]
+Estamos chegando
+lá...
+Eu acho...
+<00000002>
+!******************************!
+[00CB0000]
+Sim! Finalmente
+comecei a me sentir
+como em casa.
+<00000003>
+!******************************!
+[00CB0000]
+Uau, olha este lugar!
+É quase perfeito...
+Quase!
+<00000004>
+!******************************!
+[00CB0000]
+Isto é ótimo! Acho
+que eu poderia morar
+aqui para sempre!
+<00000005>
+!******************************!

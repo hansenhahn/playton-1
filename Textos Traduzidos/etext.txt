@@ -1,0 +1,291 @@
+[m10_0.txt]
+Não, Inspetor, isto tem 
+muito a ver com você.
+!******************************!
+[m10_1.txt]
+Significado?
+!******************************!
+[m10_10.txt]
+salve sua pele.
+!******************************!
+[m10_2.txt]
+Não é óbvio?
+!******************************!
+[m10_3.txt]
+Se há qualquer elemento criminoso 
+envolvido neste caso...
+!******************************!
+[m10_4.txt]
+Então esse é você, senhor!
+!******************************!
+[m10_5.txt]
+O quê?! Isso é um absurdo!
+!******************************!
+[m10_6.txt]
+Ei! Acalme-se!
+!******************************!
+[m10_7.txt]
+Humm?
+!******************************!
+[m10_8.txt]
+Que despropósito!
+!******************************!
+[m10_9.txt]
+Você vai precisar de mais do que
+uma acusação ridícula para...
+!******************************!
+[m11_0.txt]
+É... É você!
+!******************************!
+[m11_1.txt]
+Hein?
+!******************************!
+[m11_2.txt]
+O que é isso?!
+O que está acontecendo aqui?!
+!******************************!
+[m11_3.txt]
+Meu garoto, o que vê aqui é
+a "Maçã Dourada" em pessoa.
+!******************************!
+[m12_0.txt]
+O que está havendo?
+!******************************!
+[m12_1.txt]
+Aqui vou eu!
+!******************************!
+[m12_2.txt]
+Não!
+!******************************!
+[m12_3.txt]
+Pronto ou não!
+!******************************!
+[m12_4.txt]
+Ah! Siga-me!
+!******************************!
+[m12_5.txt]
+Venha agora!
+!******************************!
+[m13_0.txt]
+Professor!
+!******************************!
+[m13_1.txt]
+Luke, continue sem nós!
+Eu tenho uma ideia!
+!******************************!
+[m13_2.txt]
+Mas...
+!******************************!
+[m13_3.txt]
+Estamos bem! Vá logo!
+!******************************!
+[m13_4.txt]
+Er... tudo bem!
+!******************************!
+[m13_5.txt]
+Está tudo bem, querida. Por aqui.
+!******************************!
+[m14_0.txt]
+Layton!
+!******************************!
+[m14_1.txt]
+Vou esmagá-lo daqui do céu!
+!******************************!
+[m14_2.txt]
+Não!
+!******************************!
+[m14_3.txt]
+Isto ainda não acabou, Layton!
+Espere só!
+!******************************!
+[m14_4.txt]
+Um dia, eu IREI me vingar de você!
+!******************************!
+[m14_5.txt]
+Segure-se firme!
+!******************************!
+[m15_0.txt]
+Hum?
+!******************************!
+[m16_0.txt]
+Então adeus, pequena vila.
+!******************************!
+[m16_1.txt]
+Uau, que vila surpreendente era aquela,
+Professor!
+!******************************!
+[m16_10.txt]
+Claro que sim!
+Sempre pensando nos outros...
+!******************************!
+[m16_11.txt]
+Aha ha ha!
+!******************************!
+[m16_12.txt]
+Bem, sempre devemos colocar 
+as donzelas em primeiro lugar.
+!******************************!
+[m16_13.txt]
+Isso é o que um cavalheiro faz.
+!******************************!
+[m16_2.txt]
+Isso significa que você estará
+enfeitando as primeiras
+!******************************!
+[m16_3.txt]
+páginas dos jornais de Londres
+de novo em breve?
+!******************************!
+[m16_4.txt]
+Não, Luke.
+!******************************!
+[m16_5.txt]
+O segredo de St. Mystère
+deve ficar só entre nós.
+!******************************!
+[m16_6.txt]
+Hein?! Por que diz isso?
+!******************************!
+[m16_7.txt]
+Veja só, meu caro rapaz,
+!******************************!
+[m16_8.txt]
+não queremos que Flora chame
+a atenção das outras pessoas.
+!******************************!
+[m16_9.txt]
+Isso não seria certo.
+!******************************!
+[m4_0.txt]
+Ah, suponho que você deva
+ser o Professor Layton?
+!******************************!
+[m4_1.txt]
+É uma honra poder conhecê-lo.
+!******************************!
+[m4_2.txt]
+Ah, não, o prazer é todo meu.
+!******************************!
+[m4_3.txt]
+Ah, não! Claudia, querida!
+Volte, meu amor!
+!******************************!
+[m4_4.txt]
+E-Eita!
+!******************************!
+[m6_0.txt]
+Luke!
+!******************************!
+[m6_1.txt]
+Hã?
+!******************************!
+[m6_2.txt]
+Senhor! Alto lá!
+!******************************!
+[m6_3.txt]
+Logo atrás de você!
+!******************************!
+[m6_4.txt]
+Hã?
+!******************************!
+[m6_5.txt]
+Hã?
+!******************************!
+[m6_6.txt]
+Acredite em mim...
+!******************************!
+[m8_0.txt]
+Hum... Hum?
+!******************************!
+[m8_1.txt]
+O quê?
+!******************************!
+[m8_2.txt]
+E quem é você?
+!******************************!
+[m8_3.txt]
+Bem, prefiro não dizer.
+!******************************!
+[m8_4.txt]
+Hã? Por que não?
+O que está escondendo?!
+!******************************!
+[m8_5.txt]
+Nós buscamos acesso à torre.
+!******************************!
+[m8_6.txt]
+Você acha que poderia nos ajudar,
+Senhorita?
+!******************************!
+[m8_7.txt]
+A torre? Hmm...
+!******************************!
+[m8_8.txt]
+Ah, espere!
+!******************************!
+[m9_0.txt]
+Hum?
+!******************************!
+[m9_1.txt]
+Hum?
+!******************************!
+[m9_2.txt]
+Que diabos?!
+!******************************!
+[m9_3.txt]
+Professor!
+!******************************!
+[m9_4.txt]
+Fuja, Luke. Corra!
+!******************************!
+[m9_5.txt]
+Professor!
+Acho que ele está nos perseguindo!
+!******************************!
+[m9_6.txt]
+Isso é irracional!
+!******************************!
+[m9_7.txt]
+Hum?
+!******************************!
+[m9_8.txt]
+Luke!
+!******************************!
+[m9_9.txt]
+Maldição!
+!******************************!
+[sel137_0.txt]
+Qual é a comida favorita de Chelmey?
+!******************************!
+[sel137_1.txt]
+1. Pão com manteiga.
+!******************************!
+[sel137_2.txt]
+2. Carne assada quente e suculenta.
+!******************************!
+[sel137_3.txt]
+3. Bolos frescos.
+!******************************!
+[sel141_0.txt]
+Quando foi que a ponte levadiça
+foi desligada?
+!******************************!
+[sel141_1.txt]
+1. Durante nossa busca por Claudia.
+!******************************!
+[sel141_2.txt]
+2. Após Ramon desaparecer.
+!******************************!
+[sel141_3.txt]
+3. Esta amanhã, após recebermos
+a intimação do inspetor.
+!******************************!
+[sel343_0.txt]
+Você alcançou o topo da torre!
+!******************************!
+[sel343_1.txt]
+1. Seguir para a casa.
+!******************************!
+[sel343_2.txt]
+2. Retornar à vila para explorar mais.
+!******************************!

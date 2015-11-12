@@ -1,0 +1,70 @@
+[00CA0000]
+There's nothing here
+but floorboards and
+walls. How dreary.
+<00000000>
+!******************************!
+[00CA0000]
+Hmm, the place is
+still rather empty,
+isn't it?
+<00000001>
+!******************************!
+[00CA0000]
+Well, it's better, but
+there is still much
+to be done.
+<00000002>
+!******************************!
+[00CA0000]
+Yes, yes, I see
+improvement here.
+<00000003>
+!******************************!
+[00CA0000]
+Things are looking
+quite good, but I know
+we can do better yet.
+<00000004>
+!******************************!
+[00CA0000]
+Superb! A man could
+get used to living in
+a place like this. 
+<00000005>
+!******************************!
+[00CB0000]
+My room is barren!
+I need furniture
+right away!
+<00000000>
+!******************************!
+[00CB0000]
+Hmm, it's quite empty.
+There's still a lot to be
+done here.
+<00000001>
+!******************************!
+[00CB0000]
+Getting there...
+I suppose...
+<00000002>
+!******************************!
+[00CB0000]
+Yes! It's finally
+starting to feel
+like home.
+<00000003>
+!******************************!
+[00CB0000]
+Wow, look at this
+place! It's almost
+perfect... Almost!
+<00000004>
+!******************************!
+[00CB0000]
+This is great! I
+think I could stay
+here forever!
+<00000005>
+!******************************!

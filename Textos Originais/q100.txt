@@ -1,0 +1,1338 @@
+[c_100.txt]
+That's right!  This is the only route that allows the salesman to visit each town once only.
+!******************************!
+[c_101.txt]
+Nice work!  Speaking of leisurely strolls, have you been outside today? If it's sunny, why not go for a nice walk?
+!******************************!
+[c_102.txt]
+Excellent!  It's really just a matter of finding the right matching pattern, but staring at all those different pieces and trying to find one that fits is more complex than you would think.
+!******************************!
+[c_103.txt]
+That's right.  This puzzle seems straightforward, but it's quite formidable when you get down to it.
+!******************************!
+[c_104.txt]
+Sharp thinking!  As illustrated above, either the 6 or 9 stencil can be flipped to produce another number. This means you can get the whole job done with just one stencil.
+!******************************!
+[c_105.txt]
+That's right!  The conditions in the puzzle only work out if both the brother and sister are currently six years old.  The two siblings are actually twins!
+!******************************!
+[c_106.txt]
+Good job!  The only thing you need to do to solve this puzzle is look at it. However, the images themselves are complicated, so it's easy to get confused.  It would be fun to test all the various configurations with actual pieces of rope.
+!******************************!
+[c_107.txt]
+That's right!  The hands pass over each other 10 times. If you think about it the answer is obvious, but you might have been tricked by the question.  The hands pass over each other once an hour, but since they start and end directly on top of each other, two of the twelve hours do not count as a pass.  Why not try it on a real clock?
+!******************************!
+[c_108.txt]
+Nice work!  Did you have a hard time finding the two biggest squares?
+!******************************!
+[c_109.txt]
+That's right!  This puzzle is a snap once you see how the sandwich's protruding edges fit together.
+!******************************!
+[c_110.txt]
+Good work!  As shown above, the object you were shown can be reconfigured into a cube with a volume of one cubic metre.
+!******************************!
+[c_111.txt]
+That's right!  There's no way for him to reach under his chair without getting off his rear end!  Still, for reaching objects in other places, his tools seem to do a good enough job.
+!******************************!
+[c_112.txt]
+Excellent!  Any three numbers aligned horizontally, vertically, or diagonally should add up to 15.  Magic squares have been around for thousands of years. The earliest record of one dates back to 650 BC in ancient China.
+!******************************!
+[c_113.txt]
+Brilliant!  Were you easily able to visualise the matchstick cubes as three-dimensional objects?
+!******************************!
+[c_114.txt]
+That's right!  A lowercase 'e' certainly is #rsmaller#x. 
+!******************************!
+[c_115.txt]
+That's right! D is not used.  Maybe this was too easy...
+!******************************!
+[c_116.txt]
+That's right!  The silhouette of the artist's true love was hidden in his painting. The painting must have been a tribute to his love for her...
+!******************************!
+[c_117.txt]
+That's right! He has two pet snakes.  If there are six wings, then there can only be three canaries, with a total of six legs. Three shells means three tortoises, with four legs each for a total of 12 legs. Added together, these six animals have 18 legs, which leaves four more animals and eight legs. Since dogs have four legs and snakes none, there must be two dogs and two snakes.
+!******************************!
+[c_118.txt]
+Excellent!  Three-dimensional visualisation is crucial to solving this puzzle.
+!******************************!
+[c_119.txt]
+Nice!  As simple as it seems, this puzzle actually requires a good deal of thought, doesn't it?
+!******************************!
+[c_120.txt]
+Well done!  There are several ways to divide all the stamps into [[3C]]po[[3E]]1.00 groups, but this is the only way where the groups all form different shapes.
+!******************************!
+[c_121.txt]
+Great job!  You can see the complete list of triangles above. For such a simple picture, that's a lot of triangles!
+!******************************!
+[c_122.txt]
+Nicely done!  The measurements on each area of the diagram are the key to this puzzle. If you divide a quarter of the flag into four parts as shown, it's easy to see that half the diamond represents one-sixteenth of the flag's area. That makes the whole diamond one-eighth of the flag's area in total.
+!******************************!
+[c_123.txt]
+Excellent!  If you replace the red cats on the left with the equivalent weight of black and white cats, and the white cats on the right with the equivalent weight of black cats, this puzzle becomes much simpler.  Once you make the replacement, you'll have six black cats on the right and six black cats plus a white one on the left. Thus, the scale must tip to the left. 
+!******************************!
+[c_124.txt]
+Great job!  Fresh fruit for all!
+!******************************!
+[c_125.txt]
+Good thinking!  If you break down boxes A, B and C, you can see that they all share the same arrangement of decorations.  However, when you break down box D, you can see that its faces are arranged in a slightly different manner, and might look something like the above diagram. However, you can't know for sure, because the other three faces of box D are unknown.
+!******************************!
+[c_126.txt]
+Good eye!  This puzzle is all about how keen an eye you have for details.
+!******************************!
+[c_127.txt]
+Nicely done!  The situation was dicey, but it looks like our brave knight has triumphed again.
+!******************************!
+[c_128.txt]
+Good job!  We all know how important the professor's top hat is to him.
+!******************************!
+[c_129.txt]
+That's right! A borrowed money from D.  If you trace the flow of money according to the stated conditions, the answer becomes obvious.
+!******************************!
+[c_130.txt]
+That's right!  The answer is just a matter of arithmetic, but you need to be using the right figures. If the time between the front of the train travelling onto the bridge and the back of the train travelling off the bridge is 30 seconds, then the distance travelled in that time is 500m. This means the train travels 1km per minute, which is 60 km per hour.
+!******************************!
+[c_131.txt]
+Good job!  Repairing the vase wasn't much of a challenge, was it? Oh, if only fixing things in real life were this simple.
+!******************************!
+[c_132.txt]
+Nice job!  If you cover your eyes with the two coins, any object will disappear...from your field of vision, that is!
+!******************************!
+[c_133.txt]
+That's right!  The water level will be at the ninth rung, just as it was in the beginning.  If a boat is floating in the ocean, it rises with the tide, so the water level will never change relative to the rungs of the rope ladder.  You shouldn't get caught out by ancient riddles like this one!
+!******************************!
+[c_134.txt]
+Nicely done!  When examining a picture like this, the key to spotting a fake is looking at the areas where multiple lines intersect. When looking at these areas, take note of whether the number of lines running through a given point are odd or even.  If all intersections contain an even number of lines, or if there are two intersections that contain an odd number of lines, you should be able to draw the picture in one line.
+!******************************!
+[c_135.txt]
+Excellent!  If you draw a line like the dotted yellow one shown above, you can see that the right side is 5m. Therefore, red lines X, Y, and Z must add up to a length of 5m.  Next, you have two horizontal segments to deal with, A and B. Since A plus B equals 3m, and you have two sets of A and B, you have a total of 6m. Add everything up and you get a total perimeter length of 26m.
+!******************************!
+[c_136.txt]
+Wonderful!  This is a classic example of a slide puzzle.
+!******************************!
+[c_137.txt]
+Excellent!  The answer is 17.  The boy is counting the number of dots currently visible on the die. The only face of the die not included in this count is the one that faces down.  The top and bottom sides of a die always add up to seven, so it's easy to calculate the total for the five faces exposed on any given roll.
+!******************************!
+[c_138.txt]
+Nicely done!  Now those are some happy chickens!
+!******************************!
+[c_139.txt]
+Well done!  This room could use some light!
+!******************************!
+[c_140.txt]
+That's right! There are nine sweets in total.  The difference between the number of sweets A and B have is two. If B had one more sweet, he would have twice as many as A. Therefore, A + 3 = 2A, which means A has three sweets. B must then have five, as he has one less than twice what A has. If C had two more sweets he would have the same as A, so he must have one.
+!******************************!
+[c_141.txt]
+Wonderful!  If you shift the water back and forth long enough, you'll eventually end up with eight litres in each pitcher. The shortest possible solution requires 15 moves.
+!******************************!
+[c_142.txt]
+Wonderful!  This is a classic example of a slide puzzle.
+!******************************!
+[c_143.txt]
+Wonderful!  This is a classic example of a slide puzzle.
+!******************************!
+[c_144.txt]
+Great job!  To get the largest sum possible from any of the vertical, horizontal, or diagonal lines of numbers, you should place the largest number available in the middle square.  Once you've decided on that as your middle number, all you need to do is test whether you can complete the square.  The full solution should look something like the diagram above.
+!******************************!
+[c_145.txt]
+The only way to fulfil the conditions of the puzzle using three different colours is to paint opposite sides of the cube the same colour.  As seen in the diagram above, even if you were to change where you used each colour, rotating the cube proves that you're really just reusing the same idea of painting opposite sides the same colour.  There's only one unique way to paint this cube using three colours.
+!******************************!
+[c_146.txt]
+Many people's first instinct is to multiply five seconds by 12 rings of the bell, thus coming up with an answer of 60 seconds. The thing is, you'll know it's 12 o'clock the moment you hear the bell ring out for the twelfth time. This means you're only really waiting for the bell to ring 11 times.  11 rings times five seconds per ring equals 55 seconds. This is how long it takes for you to know the time.
+!******************************!
+[c_147.txt]
+That's right! You end up in room B.  There are a few different possible routes, but they all end up in room B.  It's sort of like connecting dots with a single stroke of a pen.
+!******************************!
+[c_148.txt]
+That's right!  The key is that each box has been mislabelled. For example, the LR box has to be either RR or LL, so if you take a right shoe out of this box you know the contents are in fact RR. Using that information, you can work out the contents of the other boxes. LL must actually be LR, as you now know where the real RR is.  Now the contents of the final box should be obvious. The process for solving this puzzle is the same whether you take a left or right shoe out of the box labelled LR.
+!******************************!
+[c_149.txt]
+The hat will be recovered at 12:10pm.  Since both the hat and the gondola are moving the same way on the same river, the river flow affects both items in the same way, and effectively allowing the gondola to travel at the same speed as if it were in still water.  The gondola travelled 100m from the hat before turning back to retrieve it. This means the boat travels 200m before picking up the dropped hat. Since the boat moves at a speed of 20m per minute, the total time needed is 10 minutes.
+!******************************!
+[c_150.txt]
+All the students in school have to bow, but the teacher doesn't. If you remember that, you get the following results:  The boys bow to each other 90 times. The girls bow to each other 90 times. The girls bow to the boys and the boys bow to the girls a total of 200 times. Lastly, the children bow to the teacher 20 times.  So the total is 400 bows.
+!******************************!
+[c_151.txt]
+You can expect a corresponding number of red and black cards to show up between the piles 1,000 times out of 1,000 tries.  There are 26 cards of each colour in a 52-card deck. If you form two piles of 26 randomly selected cards from this deck, the number of red cards in pile A is equal to 26 cards minus the number of black cards in pile A. In pile B, the situation is reversed. No matter how the cards are divided, the number of red cards in pile A will be equal to the number of black cards in pile B and vice versa.
+!******************************!
+[c_152.txt]
+You need four wires to make the cube.  Three straight lines make up each of the cube's eight corners. At least one wire must terminate at each corner. Since there are eight corners, you'll need eight wire ends to form things properly. Each wire has two ends, so the total number of wires needed is four.
+!******************************!
+[c_153.txt]
+That's right!  You don't need to use the scale at all! If one of the iron balls is half the weight of the others, you can tell the difference just by holding them!
+!******************************!
+[c_154.txt]
+Right! The answer is, there's one alien, the explorer.  From the Octopleans' point of view, this strange visitor from another planet is as alien as they come.
+!******************************!
+[c_155.txt]
+Good job.  This puzzle can be completed in 30 moves. Does that make you want to retry it?
+!******************************!
+[c_156.txt]
+That's right! Road 5 should be added.  All the fishermen can now avoid each other. It looks like a real pain moving around on that island, though, so it would be a lot easier on all of them if they just made up...
+!******************************!
+[c_157.txt]
+That's right! There are four possible orders.  A and B are three years apart, while B and C are two years apart, so that rules out the order BAC.  A may not be the oldest son, but what if A was the oldest daughter? That means you have to include orders where A comes first.
+!******************************!
+[c_158.txt]
+The horses will line up nose to nose 30 minutes after they begin running.  Despite the fact that two horses will be on the far side of the track, the four horses will still be lined up nose to nose.
+!******************************!
+[c_159.txt]
+Fantastic!  Easier than it looks, isn't it?  If you haven't done it yet, why not try to complete the puzzle in the minimum number of moves possible?
+!******************************!
+[c_160.txt]
+Excellent!  In addition to having that bothersome yellow block in the way, those purple and blue blocks proved to be quite a pain, didn't they?  It may have been frustrating to solve, but don't you feel good now? What a relief! 
+!******************************!
+[c_161.txt]
+Excellent!  This puzzle requires 28 moves to solve. Solving it isn't all that difficult if you stay focused and avoid getting confused.
+!******************************!
+[c_162.txt]
+Good thinking!  As shown here, there are a few places in the room the big steel cylinder just can't reach.  If you place the eggs in the corners of the room, even turning the cylinder on its side doesn't allow it to reach into the corners.
+!******************************!
+[c_163.txt]
+That's right!  The boy should go to the village on the right. If the man was from the village of honest people, he would be pointing to that village. However, if he was from the village of liars, his answer to the question "Which village are you from?" would be a lie, meaning he would still end up pointing to the village of honest people. Either way the boy knows which village to go to!
+!******************************!
+[f_100.txt]
+Try again!  Remember, the salesman must visit each town only once.
+!******************************!
+[f_101.txt]
+Give it another shot!  As a general rule, you should try to cover as many of the roads as possible.  In the example above, it appears that the boy who walked the green path covered quite a bit of distance. However, as shown by the dotted lines, the roads this boy passed up on his way to point B add up to quite a distance.
+!******************************!
+[f_102.txt]
+Try again!  Study that pattern carefully.
+!******************************!
+[f_103.txt]
+Nope!  Study where each sheet of film begins and ends.
+!******************************!
+[f_104.txt]
+Give it another shot.  You need to use as few stencils as possible to come up with six different numbers to paint on the jerseys.  You may need to turn everything you know about numbers upside down to find the answer.
+!******************************!
+[f_105.txt]
+Too bad!  For each year the brother gives to his sister, his age decreases by one.  When he loses two years, the sister becomes twice his age. When he loses three years, his sister becomes three times his age.  If you're feeling stumped, try charting the information you have on paper.
+!******************************!
+[f_106.txt]
+Try again!  Take a good look at each rope.
+!******************************!
+[f_107.txt]
+Try again!  It's easy if you try it for real, but think carefully about the question.
+!******************************!
+[f_108.txt]
+Nope!  See if you can get a different total on your next try. 
+!******************************!
+[f_109.txt]
+Too bad!  Take a closer look. There's an easy way to make the sandwich fit into the container.
+!******************************!
+[f_110.txt]
+No, try again.  If your tactic is a series of complicated mathematical equations, you'll only make this puzzle more difficult for yourself.  This one can actually be solved very quickly if you try #rreorganising your thoughts#x.
+!******************************!
+[f_111.txt]
+Give it another shot!  Why would he have to #rget up#x? Think about it.
+!******************************!
+[f_112.txt]
+Not quite.  Remember, the magic square isn't complete until all vertical, horizontal, and diagonal sets of numbers add up to the same total.  You'll just have to try again! 
+!******************************!
+[f_113.txt]
+No...  The arrangement of the matches fools your eyes into thinking that you're looking at four cubes. How can you fool your eyes into seeing three cubes instead?
+!******************************!
+[f_114.txt]
+Try again!  When you are asked to "make the E small," what are you really being asked to do?
+!******************************!
+[f_115.txt]
+Try again!  Take a closer look at the parts.
+!******************************!
+[f_116.txt]
+Try again!
+!******************************!
+[f_117.txt]
+Too bad!  Counting is all it takes to solve this puzzle.
+!******************************!
+[f_118.txt]
+Try again!  Take another look at the arrangement.
+!******************************!
+[f_119.txt]
+Too bad!  Look at those matches again.
+!******************************!
+[f_120.txt]
+Don't give up!  It's not enough just to divide the stamps into [[3C]]po[[3E]]1.00 groups. Each of the seven groups must be a #rdifferent shape#x.  The diagram here shows the stamps divided into [[3C]]po[[3E]]1.00 groups. However, the green groups are the same shape, so it's clear that this particular configuration isn't a valid solution.
+!******************************!
+[f_121.txt]
+Give it another shot!  Spotting triangles may seem easy, but there are quite a few to find here. Look carefully.
+!******************************!
+[f_122.txt]
+Not quite.  Remember, don't bother with complicated calculations to find the solution. Just look closely at the diagram.
+!******************************!
+[f_123.txt]
+Try again!  Use the results of examples 1 and 2 to find the solution.
+!******************************!
+[f_124.txt]
+Give it another shot!
+!******************************!
+[f_125.txt]
+Nope!  Try to picture how the boxes look unfolded.
+!******************************!
+[f_126.txt]
+Nope, try again.  Study the contents of each container closely.
+!******************************!
+[f_127.txt]
+Give it another try.  Surely there's another path that requires fewer doors to allow the knight to escape?
+!******************************!
+[f_128.txt]
+Give it another try.  How would the boxes look if you put them back together?
+!******************************!
+[f_129.txt]
+Too bad!  Try tracing the flow of money.
+!******************************!
+[f_130.txt]
+Try again!  Are you sure there isn't something you're forgetting to include?
+!******************************!
+[f_131.txt]
+Nope!  Give this one another try.
+!******************************!
+[f_132.txt]
+Think again about this one.  Look past the two coins to find your answer... Or rather, try to look past the two coins.
+!******************************!
+[f_133.txt]
+Too bad!  Read the explanation thoroughly.
+!******************************!
+[f_134.txt]
+Give it another go!  It looks like you should be able to draw all of them in one line, doesn't it?  Don't be fooled.
+!******************************!
+[f_135.txt]
+Too bad!  You can use the sides with known lengths to work out the lengths of the unlabelled sides.  Also, have you noticed that every corner of the plot is a right angle? This is important.
+!******************************!
+[f_136.txt]
+Try again!
+!******************************!
+[f_137.txt]
+Nope.  There must be some reason why this boy is  whispering those numbers. It's up to you to  find it.
+!******************************!
+[f_138.txt]
+Too bad!  But don't give up, the chickens are counting on you!
+!******************************!
+[f_139.txt]
+Give it another try.  Are you positive both of your wires are intact and connected?
+!******************************!
+[f_140.txt]
+Try again!  This puzzle can get confusing, so take things in order and think about them carefully.
+!******************************!
+[f_141.txt]
+Try again!
+!******************************!
+[f_142.txt]
+Try again!
+!******************************!
+[f_143.txt]
+Try again!
+!******************************!
+[f_144.txt]
+Give it another shot!  You need to get the largest sum possible for each horizontal, vertical and diagonal line passing through the middle square.  First, think about what that total should be.
+!******************************!
+[f_145.txt]
+Nope!  All rotated or colour-swapped versions of a particular painting scheme count as the same pattern. Don't count them as separate patterns when tallying up the total number of possible solutions.
+!******************************!
+[f_146.txt]
+Think about this some more.  If you could get the right solution by just multiplying information given to you, this wouldn't be a puzzle. It'd be a maths class.
+!******************************!
+[f_147.txt]
+Try again!  This is certainly a tricky test.
+!******************************!
+[f_148.txt]
+Try again!  Think carefully about the combination of shoes in each box.
+!******************************!
+[f_149.txt]
+Nope!  It looks like someone might be buying a new top hat today.
+!******************************!
+[f_150.txt]
+Think again...  Including the teacher and students, there are a total of 21 people. Stay sharp, though, because you may have overlooked something important when forming your answer.
+!******************************!
+[f_151.txt]
+Give it another shot.
+!******************************!
+[f_152.txt]
+Give it another shot.
+!******************************!
+[f_153.txt]
+Too bad!  You're trying to find a single iron ball out of 12. Read the conditions carefully.
+!******************************!
+[f_154.txt]
+Think again...  Don't waste time with difficult calculations. Consider what's really being asked here.
+!******************************!
+[f_155.txt]
+Try again!
+!******************************!
+[f_156.txt]
+Try again!  This road won't stop them from fighting...
+!******************************!
+[f_157.txt]
+Too bad!  Don't fall into the trap set for you in this puzzle. A is not the oldest son!
+!******************************!
+[f_158.txt]
+Nope, try again.  The horses must be lined up nose to nose, but the puzzle doesn't say anything about which direction they should be facing.
+!******************************!
+[f_159.txt]
+Try again!
+!******************************!
+[f_160.txt]
+Give it another shot!
+!******************************!
+[f_161.txt]
+Give it another try!
+!******************************!
+[f_162.txt]
+Nope, try again.  Remember that a cylinder is perfectly circular. How will that cylinder fare when rolling around a square room?
+!******************************!
+[f_163.txt]
+Try again!  Well, since there are only two possible answers, you now know that the other village is the right one, but think about why that is...
+!******************************!
+[h_100_1.txt]
+There is only one route around the map that will fulfil the conditions of the puzzle. Each town requires one road to enter by, and another to exit by. Bearing this in mind, try finding a route leading forwards out of town 1, and another leading back out of town S, then joining those routes in the middle.
+!******************************!
+[h_100_2.txt]
+FILE h_100_2
+!******************************!
+[h_100_3.txt]
+FILE h_100_3
+!******************************!
+[h_101_1.txt]
+When solving this puzzle, many people think they have the answer on their first try, only to discover otherwise.  Try to walk as much of the road as possible on your way to point B.
+!******************************!
+[h_101_2.txt]
+All the roads in this town are laid out in a grid pattern, with some long and some short roads.  After you've charted out your course and think you have the answer, take a quick look to see how many roads you left untouched.
+!******************************!
+[h_101_3.txt]
+Starting out from point A, head as far to the left as possible. When you reach the left border, start heading south.  The longest path you can draw will form an S-shaped line through the middle of the town.
+!******************************!
+[h_102_1.txt]
+The first thing you need to do is identify the pattern within the large shape. It's a simple pattern made up of squares, Xs and circles running diagonally down and to the right.
+!******************************!
+[h_102_2.txt]
+Once you've determined the pattern that belongs in the gap, you just need to find the piece that matches. The correct piece may need to be rotated to fit, so be sure to check each piece from all angles.
+!******************************!
+[h_102_3.txt]
+The correct piece has two circles, three squares, and three Xs. Armed with that knowledge, all you have to do is make sure that the piece you select matches the pattern when rotated into position.
+!******************************!
+[h_103_1.txt]
+Three layers here, four layers there...  Label each overlap you discover. 
+!******************************!
+[h_103_2.txt]
+Only one area of the image contains the maximum number of overlaps.
+!******************************!
+[h_103_3.txt]
+There are a total of seven sheets of film in this picture. The solution for this problem is a number smaller than seven.
+!******************************!
+[h_104_1.txt]
+In order to number 6 different jerseys, you will need to select 6 numbers from 0 to 99.  Maybe the numbers you're looking for are staring you in the face right now.
+!******************************!
+[h_104_2.txt]
+If you want to cut down on the number of stencils necessary, you might need to turn everything you know about numbers #rupside down#x.
+!******************************!
+[h_104_3.txt]
+When inverted, some numbers appear completely different. That means you can use one stencil for two numbers.  Remember that you can use this technique for both digits.
+!******************************!
+[h_105_1.txt]
+Let's see if we can't pare this puzzle down a bit.  When you take two years away from the brother's age and add them to the big sister's, she becomes twice his age.  Additionally, when you take three years away from the brother and give them to the sister, she becomes #rthree times older#x than he is.
+!******************************!
+[h_105_2.txt]
+You could try and solve this with an algebraic equation, but that's no way to tackle a puzzle! Try to reason your way through it.  Move two years from the brother's age, and the difference in age becomes four years. Move three years, and the difference widens to six years.  Four years makes the sister twice as old as the boy. Six years makes her three times as old.
+!******************************!
+[h_105_3.txt]
+The brother and sister are actually twins.
+!******************************!
+[h_106_1.txt]
+It's difficult to work out all the tangles and turns of a rope in one glance. You'll have better luck if you keep the shape of a simple knot in mind and inspect each part of the rope individually.
+!******************************!
+[h_106_2.txt]
+Take a look at Rope B. If you start from the right end of the rope and examine the first loop you encounter, you'll notice that the two strands of rope are just lying on top of each other. The same goes for the loop on the left side of the rope. There's no way this rope will knot up.
+!******************************!
+[h_106_3.txt]
+Only one of the four ropes will actually knot up when pulled from both ends. Rope B is already out. Now, which one will you choose?
+!******************************!
+[h_107_1.txt]
+The hands pass over each other once an hour. So in 12 hours they will pass 12 times...  Or will they?
+!******************************!
+[h_107_2.txt]
+The hands start off on top of each other at 12 noon, so that doesn't count as a pass.
+!******************************!
+[h_107_3.txt]
+One pass every hour.  But the hands don't pass over each other on the hour. They will pass at around 5 minutes past 1, or 33 minutes past 6.  So what time will it be the last time they pass?
+!******************************!
+[h_108_1.txt]
+You can #ruse a given dot as many times as you like#x and can #rorient the squares however you need to#x in order to fit them on the board.  In other words, you're going to reuse dots, and you should be on the lookout for a few diagonally oriented squares.
+!******************************!
+[h_108_2.txt]
+There are three different sizes of squares that you can make on the board.   You shouldn't have much trouble finding the smallest squares. There are five in total.
+!******************************!
+[h_108_3.txt]
+All four of the medium-sized squares are tilted 45 degrees. Can you see them on the board?  Now that you have the above information, all that's left for you to do is find the biggest type of square. When you know how many of these are on the board, you'll be done!
+!******************************!
+[h_109_1.txt]
+Have you thought of turning the sandwich to get a fresh perspective on the puzzle? It may sound slightly ridiculous, but if you do it right, you might be surprised at how everything comes together.
+!******************************!
+[h_109_2.txt]
+You won't have much success solving this puzzle if all you are doing is looking at the image provided.  Try rotating the sandwich 90 degrees to the left or right.
+!******************************!
+[h_109_3.txt]
+This solution is startlingly simple.  Rotate the sandwich 90 degrees and cut it. The sections fit together perfectly, like puzzle pieces.
+!******************************!
+[h_110_1.txt]
+You'll need to rearrange things before you can find the answer. Think about cutting the object in two along lines AD and BC.  How can you reassemble this object to make things easier to understand?
+!******************************!
+[h_110_2.txt]
+Hint 1 advised you to cut the object along lines AD and BC. By doing so, you should be able to reassemble the resulting pieces into a shape that you're more familiar with.  Here's another hint: the answer to this puzzle will be in #rcubic metres#x.
+!******************************!
+[h_110_3.txt]
+Once you reassemble the pieces of this object, you'll be looking at one of the most basic three-dimensional shapes.  You know the depth of the object is one metre, so any calculations you have to do shouldn't be very difficult.
+!******************************!
+[h_111_1.txt]
+Usually one has to stand to reach something high up and away. But this ingenious loafer has tools to do that for him.  Don't go looking for the answer in high places.
+!******************************!
+[h_111_2.txt]
+There are several places within the room that the average person couldn't reach without getting off the armchair, but our friend here has no trouble moving books and opening cupboards from across the room.  Where can't those tools reach?
+!******************************!
+[h_111_3.txt]
+It may seem like Mr Lazybones has all his bases covered, but rest assured that there is a place he can't reach #rwhile sitting down#x.  Ponder this. Can you reach under the bottom of your feet while standing up?  Well, it's technically possible if you stand on one foot, but you get the idea.
+!******************************!
+[h_112_1.txt]
+If you have the patience to experiment with all seven numbers, you'll run across the right answer eventually.  On the other hand, not everyone has the patience to do that, so here's a hint. The number five goes in the centre space.
+!******************************!
+[h_112_2.txt]
+Still having trouble?  All right then, here's a big hint for you.  The sum of each horizontal, vertical, and diagonal pillar is 15. 
+!******************************!
+[h_112_3.txt]
+You know that the number five goes in the centre space. You also know that the sum of each string of numbers is 15. Fifteen minus five is 10, so each pair of numbers that surrounds five should add up to 10. Pair one with nine, two with eight, and so forth.  Follow this principle as you arrange your numbers, and the answer is yours.
+!******************************!
+[h_113_1.txt]
+The matches are arranged so that they appear to form four adjoining cubes.  How can you rearrange things to make one of these cubes disappear?
+!******************************!
+[h_113_2.txt]
+The four cubes appear to be arranged in two rows. The first row has one cube, and the row behind it has three.  You need to get rid of the middle cube in the back row.
+!******************************!
+[h_113_3.txt]
+All you need to do is reposition one of the diagonal matches so that it's oriented vertically.  You have quite a few to choose from.
+!******************************!
+[h_114_1.txt]
+Because you're going to add a match to those already on the table, it's fair to say that you won't physically be making the E any smaller.  Since you can't shrink the actual size of the letter, you'll have to think of another way you can make it small.
+!******************************!
+[h_114_2.txt]
+Just what does it mean to make the E small anyhow?  Do you know a smaller E, perhaps?
+!******************************!
+[h_114_3.txt]
+The letter E as it's shown here is an #ruppercase#x letter. Some people call it a big E.  Do you know of a #rlittle#x E?
+!******************************!
+[h_115_1.txt]
+Each side of the square formed will be four smaller squares long.
+!******************************!
+[h_115_2.txt]
+With four on each side, the large square will be made up of 16 smaller squares.  B contains six squares, and the others all contain five. So the unused part must be one of A, C or D.
+!******************************!
+[h_115_3.txt]
+You'll definitely need to use A.  So, the answer must be either C or D.
+!******************************!
+[h_116_1.txt]
+You're looking for an #routline#x of the artist's lover.   Yes, you read that correctly. Search for her silhouette. 
+!******************************!
+[h_116_2.txt]
+The black background of the portrait can be reconfigured to form the silhouette of a woman.
+!******************************!
+[h_116_3.txt]
+Rearrange the pieces of the painting to form a silhouette of a woman from the waist up.
+!******************************!
+[h_117_1.txt]
+Birds have two wings and two legs.  Since only the canaries have wings, you know that there must be three canaries to make a total of six wings.  That means canaries account for six of the legs, too.
+!******************************!
+[h_117_2.txt]
+Tortoises have four legs.  With a total of three shells, there can only be three tortoises, which means another 12 legs.  Added to the six canary legs, that's 18 legs accounted for.
+!******************************!
+[h_117_3.txt]
+The boy states that he has 10 pets with a total of 26 legs.  Canaries and tortoises together make up six pets with 18 legs, so there are four pets and eight legs left.  Dogs, as you know, have four legs...
+!******************************!
+[h_118_1.txt]
+Look at how the red and blue lines cross over each edge of the tetrahedron. Note that three lines, one blue and two red, cross over the edges of the central triangle in the collapsed tetrahedron.
+!******************************!
+[h_118_2.txt]
+The missing triangle's right side connects with the top triangle's right side. You can see two lines here, one red and one blue.
+!******************************!
+[h_118_3.txt]
+The bottom side of the missing triangle connects with the bottom of the leftmost triangle. Only a single red line passes over this edge.  Read hints 1 and 2 and check which lines cross where. Do that, and the answer is yours. 
+!******************************!
+[h_119_1.txt]
+Your task is to make one less square with the same number of matches.  Each square is made up of four matches, so the key to this puzzle must be something to do with matches that are shared between more than one square.
+!******************************!
+[h_119_2.txt]
+The square in the upper-left side of the arrangement is absent in the solution.
+!******************************!
+[h_119_3.txt]
+Hint 2 told you that the solution does not contain the square in the upper-left.  Well, the middle square on the bottom row is also gone from the solution.  Get rid of two squares and make one new square to find the answer. 
+!******************************!
+[h_120_1.txt]
+There's no trick to solving this one. You just need to work things out. You'll have an easier time of things if you start from the stamps with higher values, like 80p or 90p.  Just remember that each group of stamps must have a #rdifferent shape#x. 
+!******************************!
+[h_120_2.txt]
+Even if you've successfully divided the stamps into [[3C]]po[[3E]]1.00 groups, the answer won't count unless each group has a different shape.  Here's one combination to get you started. The four stamps in the upper-left square of the sheet should be cut away to form a group.
+!******************************!
+[h_120_3.txt]
+The 90p stamp forms a two-stamp group with the 10p stamp to its right.  Also, the three 30p stamps form a group with the 10p stamp located between them.
+!******************************!
+[h_121_1.txt]
+There really is no trick at work here. You just need to find all the triangles you can.  Look carefully so you don't miss any triangles that are hard to spot.
+!******************************!
+[h_121_2.txt]
+Several triangles can share a single side.  To make matters even more confusing, you need to look at every side of the big triangle to find all the triangles. Make sure you don't accidentally count a single triangle twice during your search.
+!******************************!
+[h_121_3.txt]
+Imagine that the only line on the diagram is the one extending downwards from the topmost point of the triangle. It divides the large triangle into two smaller triangles. That makes three triangles so far.  Now add the other two lines back into the diagram one by one and count how many more triangles are made. Be careful not to count the same triangle twice.
+!******************************!
+[h_122_1.txt]
+Help yourself out by dividing up the flag.  First, split the flag into four equally sized rectangles by drawing a vertical line and a horizontal line through the middle of the flag. This will divide the diamond into quarters as well.
+!******************************!
+[h_122_2.txt]
+Examine one of the flag's new quarters.  These smaller rectangles can actually be broken down into quarters again. Take particular notice of the lengths 30cm and 20cm.
+!******************************!
+[h_122_3.txt]
+If you divide the small rectangle into quarters, you will end up including a portion of the diamond in one of the smallest rectangles.  What fraction of the rectangle's area does that slice of the diamond represent?  Work that out and you're one step away from the solution.
+!******************************!
+[h_123_1.txt]
+Use the results of examples 1 and 2 to simplify the relative weight of the groups of cats being weighed.  Look closely to find an accurate equivalent.
+!******************************!
+[h_123_2.txt]
+Example 2 shows that two black cats and a white cat equals three red cats.  On the upper scale, try swapping out the red cats for black and white ones and see what you can work out.
+!******************************!
+[h_123_3.txt]
+Example 1 shows you that five black cats equal the weight of four white cats.  If you substitute the four white cats on the right side of the scale for black cats, you end up with six black cats.  Put that together with what you learned from Hint 2 and you're very close to the answer.
+!******************************!
+[h_124_1.txt]
+There are two small areas between the warehouses where you can stash an additional two boxes. Use these to your advantage when shifting boxes back and forth. 
+!******************************!
+[h_124_2.txt]
+Find a pattern for sending boxes over and repeat it until solved. As long as you're gradually shifting the boxes to the proper warehouses, you will finish the puzzle eventually.  Don't be afraid of moving a few boxes back to the wrong warehouse on occasion. Sometimes you need to go backwards in order to go forwards.
+!******************************!
+[h_124_3.txt]
+Above all, you must find a method for moving things around.  This is by no means a difficult problem, but if you just send over boxes to the opposing warehouse, you'll block the entrance and get stuck. Think about how you can avoid obstructing the warehouses' entrances.
+!******************************!
+[h_125_1.txt]
+Each side of a box is in direct contact with four others. Pay attention to how each side connects to four other sides of the cube and in what arrangement.  Do this for other sides of the cube and you'll find an inconsistency that differentiates the odd one out.
+!******************************!
+[h_125_2.txt]
+From what you can see in boxes A and C, you know that the star is connected to the square, sun, heart and diamond. It doesn't touch the X.  According to boxes B and D, the X touches the sun, heart, square and diamond.  Hey, wait a second! There's something fishy about one of those arrangements!
+!******************************!
+[h_125_3.txt]
+Box A is one of the three identical boxes.  The face with the X is directly opposite the face with the star.  Use these two clues to see if they apply to boxes B, C and D. They won't hold true for one of these boxes.
+!******************************!
+[h_126_1.txt]
+Some chests may not have the same number of gems. How many gems do you count in a single chest?
+!******************************!
+[h_126_2.txt]
+One chest has more gems than the others.
+!******************************!
+[h_126_3.txt]
+Keep an eye on the number of square blue gems in each box.
+!******************************!
+[h_127_1.txt]
+You can learn a lot by working backwards and making your way through the maze starting from the goal. See the three doors that surround the goal? You'll have to open one of those in the end.
+!******************************!
+[h_127_2.txt]
+The path with the fewest doors will require the knight to pass through three doors. If you hit a fourth door before the exit, you should rethink your strategy.
+!******************************!
+[h_127_3.txt]
+The final door the knight encounters is the one closest to the goal itself. Try working your way backwards from that door.
+!******************************!
+[h_128_1.txt]
+Reconstruct the flattened hatboxes in your mind and you'll immediately see what's different. Pay special attention to the hat patterns on each box.
+!******************************!
+[h_128_2.txt]
+Each box has four faces with hats and two blank faces. If you keep in mind the relative location of the blank faces, you should spot the difference before you know it.
+!******************************!
+[h_128_3.txt]
+When reconstructed, only one of the boxes has two blank faces that touch each other.
+!******************************!
+[h_129_1.txt]
+Borrowing and lending can get quite complicated. To make things easier, you should think of each transaction only in terms of one person lending money to another. Doing this means you need to find five transactions.  You already know two...
+!******************************!
+[h_129_2.txt]
+You know who A and C lent money to, but not who B, D and E did.  However, since B borrowed money from A, and D borrowed money from C, you know that B, D and E must have lent money to one of A, C and E.
+!******************************!
+[h_129_3.txt]
+From Hint 2, you know that E lent money to either A, C or E. Of course, you can't lend money to yourself, so that leaves A or C, and you can eliminate A based on the information in the puzzle. So E lent money to C.  That leaves two more transactions to find...
+!******************************!
+[h_130_1.txt]
+You're probably thinking that this is a really bothersome calculation problem.  Actually, there's a really easy way to work it out. Just make sure you get all the numbers right before you start.
+!******************************!
+[h_130_2.txt]
+A 100m train travelling over a 400m bridge in 30 seconds. So you have to divide 400 by 30, right?  Well, the train starts travelling over the bridge the moment the front of the train is on the bridge, and it finishes once the end of the train has moved off the bridge.  How far has the train travelled in this time?
+!******************************!
+[h_130_3.txt]
+Can you see that the train must travel 500m in order to travel completely over the bridge?  If so, the rest is easy. 500m is 0.5km. 30 seconds is 0.5 minutes.
+!******************************!
+[h_131_1.txt]
+You'll get more out of moving pieces around than reading hints, but you did spend a hard-earned hint coin, so here's a small clue.  Start by arranging pieces to form the outer edges of the silhouette.
+!******************************!
+[h_131_2.txt]
+It should have been easy to put together all the pieces that form the outer edges.  So, the extra piece must be one that doesn't form any part of the edges.
+!******************************!
+[h_131_3.txt]
+If you've completed the entire outline of the vase, you'll only have two parts left over.  Try both of them out and see which one fits.
+!******************************!
+[h_132_1.txt]
+No matter how you arrange the coins on the screen, you won't be able to cover the tower completely.  Why not try covering something else with the coins?
+!******************************!
+[h_132_2.txt]
+Placing the coins on any part of the tower itself is futile.  The tower has to disappear completely, but  from where does it have to disappear?
+!******************************!
+[h_132_3.txt]
+To disappear is to vanish from sight, right?  How can you stop someone from seeing?
+!******************************!
+[h_133_1.txt]
+Before you get started on any calculations, read the explanation very thoroughly.
+!******************************!
+[h_133_2.txt]
+The end of the rope ladder is under the surface of the ocean. Try to picture this.  You'll see how easy this puzzle really is.
+!******************************!
+[h_133_3.txt]
+The boat is floating in the ocean!  It's not going to sink when the water level rises, is it?
+!******************************!
+[h_134_1.txt]
+Each picture should be composed of lines that meet at different points.  With these pictures, if you find a single line that runs out beyond the others, you know you have to start your drawing there.  Try tracing the answer out yourself.
+!******************************!
+[h_134_2.txt]
+Some points may be the convergence point for several lines. You need to think hard about which line to take in and out of the point in order to make the sketches work.  If your pen is entering a point formed by an even number of lines, you will always be able to leave the point via another line.
+!******************************!
+[h_134_3.txt]
+Using Hints 1 and 2, it's actually quite easy to draw these shapes out yourself.  Make sure that you start drawing the shape from a point that touches an odd number of lines. Don't forget, one is also an odd number.
+!******************************!
+[h_135_1.txt]
+First, don't be thrown off by the shape of the plot's right side. The total length of the right side is 5m.  Now focus your attention on that 3m measurement. It plays a pivotal role in helping you solve the puzzle.
+!******************************!
+[h_135_2.txt]
+Try drawing a line straight down from the upper-right corner of the plot. This will divide the 3m part into two sections.  The two parts you just created with your line may not be labelled, but you might be able to find equivalent lengths somewhere else on the perimeter of the shape.
+!******************************!
+[h_135_3.txt]
+If you look around the shape, you can find two other lengths equal to both parts of the 3m edge you divided with a line in Hint 2.  If those two parts total 3m and you know that there are two more segments identical to those two, then the total of all the edges with unknown lengths should be...
+!******************************!
+[h_136_1.txt]
+This puzzle is difficult, but as long as you don't repeat the same moves over and over, you'll eventually extricate the red block.  Now stop relying on hints and just try it!
+!******************************!
+[h_136_2.txt]
+This puzzle takes at least 81 moves to solve. There aren't really any good hints to give, but here's a little trick that might help you.  There are two open spaces in the box. As you slide pieces around, make sure you don't separate one open space from the other.
+!******************************!
+[h_136_3.txt]
+As stated in Hint 1, you're just going to have to work this puzzle out yourself.  However, it seems unfair to give you nothing for that hint coin you spent, so here's some trivia about the puzzle you're solving. In Japan, this type of puzzle has been around for hundreds of years.
+!******************************!
+[h_137_1.txt]
+A key phrase that you should keep in mind as you solve this puzzle is "sum total".
+!******************************!
+[h_137_2.txt]
+A typical die is labelled with the numbers one to six. What number would you get if you added them all up?
+!******************************!
+[h_137_3.txt]
+Fun fact time!  Did you know that the opposing faces of a normal die always add up to seven?
+!******************************!
+[h_138_1.txt]
+Rope off the mother hen in the upper-left corner so that she stays with the two chicks directly above and below her.
+!******************************!
+[h_138_2.txt]
+The hen in the lower-right corner should be grouped with the two chicks to her right.
+!******************************!
+[h_138_3.txt]
+All right, here's one last hint. The mother hen in the lower-left corner goes with the chicks located to the left and upper-right of her.
+!******************************!
+[h_139_1.txt]
+None of the wires should run off the sides of the panels, save for the areas where they connect to the light bulb and battery.
+!******************************!
+[h_139_2.txt]
+There are a few wires running through the panels that don't connect to the light bulb or the battery.
+!******************************!
+[h_139_3.txt]
+Since you know that none of the wires run off the sides of the panels, you should already be able to pick out the four corner panels and the two to the right and left of the middle panel, right?
+!******************************!
+[h_140_1.txt]
+If B gave C two sweets, everyone would have the same number.  This must mean that the difference between A and B is two sweets, and the difference between B and C is twice that, making four.
+!******************************!
+[h_140_2.txt]
+You know from Hint 1 that the difference between A and B is two sweets. You also know that if B got one sweet from C, he would have twice as many sweets as A.  Put these two facts together and you should be able to work out how many sweets A has.
+!******************************!
+[h_140_3.txt]
+You can work out from Hint 2 that A has three sweets.  That makes it easy to work out how many B has, since you know he has two more!
+!******************************!
+[h_141_1.txt]
+That's right, it's time for another pitcher puzzle. This time, the shortest solution requires 15 moves.  As always, don't try shifting the liquid back and forth aimlessly. One tip that can make this process easier is to focus on the discrepancy between how much each pitcher can hold.  Other than that, just do what you've been doing all along in these puzzles, and you'll come out on top.
+!******************************!
+[h_141_2.txt]
+After you move a larger pitcher filled with water to a smaller pitcher, some water will remain in the larger pitcher. Pay attention to this leftover amount.  Think about how you can use this leftover water to reach the solution.
+!******************************!
+[h_141_3.txt]
+If you can get 10 litres in the 16 litre pitcher and 6 litres in the 9 litre pitcher, you're only four more moves away from solving this puzzle.
+!******************************!
+[h_142_1.txt]
+You might think you'll get stuck within moments of starting this puzzle, but as long as you aren't repeating the same moves over and over, you'll get that block out eventually.  Sliding puzzles like these don't lend themselves well to hints. So here's one more hint: don't bother purchasing Hints 2 and 3!  
+!******************************!
+[h_142_2.txt]
+Since you decided to spend a hint coin anyway, here's a small tip that might help you out.  Try to move the long purple blocks out of the way by getting them to the upper-right or lower-left corners of the box.  Once you've done that, the long blue blocks will be easier to handle.
+!******************************!
+[h_142_3.txt]
+Move one of the blue blocks out to the right of the big red block. Once you've done this, your next goal should be to manoeuvre both blue blocks so that they are at the very top or bottom of the box.  That should clear things up a bit.
+!******************************!
+[h_143_1.txt]
+You might think you'll get stuck within moments of starting this puzzle, but as long as you aren't repeating the same moves over and over, you'll get that block out eventually. 
+!******************************!
+[h_143_2.txt]
+This trick should give you some wiggle room.  Try to move the blue blocks so that both of them are directly above or below the red block.  As a matter of fact, hold off on thinking about how to move the red block to the exit until you finish this step.
+!******************************!
+[h_143_3.txt]
+Here's one more trick that should help you move those blocks around.  While sliding blocks around, see if you can't move two green blocks to the immediate right of the red block. Then move the purple block to the right of those. 
+!******************************!
+[h_144_1.txt]
+There are 51 numbers you can choose from, but since you're trying to get the largest sum possible, you might want to try the bigger numbers first.
+!******************************!
+[h_144_2.txt]
+As stated in Hint 1, you should place large numbers in your square.  Use the numbers 43 through 51 when formulating your answer.
+!******************************!
+[h_144_3.txt]
+It might not seem obvious at first, but the middle number is used in every single tabulation. Since you're trying to get the largest sums possible, doesn't it make sense to put the largest number right in the middle?
+!******************************!
+[h_145_1.txt]
+As you know, all cubes have six sides. Because of this structure, every face of the cube touches four others, meaning that only one of the five other faces doesn't touch any given face. 
+!******************************!
+[h_145_2.txt]
+Taking Hint 1 a step further, in order to paint the cube three colours and have no two connecting faces be of the same colour, you should use each colour to paint opposing faces.
+!******************************!
+[h_145_3.txt]
+You need to use each colour to paint two opposing faces of the cube. Count how many different ways there are of doing that and you've solved the puzzle.  Just remember, simply reconfiguring which colours go where doesn't count as an entirely new arrangement. 
+!******************************!
+[h_146_1.txt]
+The bell will ring 12 times, and there are five seconds between each sounding of the bell.  It sounds simple, but there's at least one step that everyone overlooks at first.   Think about what needs to happen in order for you to realise that it's 12 o'clock.
+!******************************!
+[h_146_2.txt]
+This is a hint 146_2.[[0D]] 
+!******************************!
+[h_146_3.txt]
+This is a hint 146_3.[[0D]] 
+!******************************!
+[h_147_1.txt]
+If you enter a room that has two doors, there is only one possible exit - the door you did not enter from - and you will not be able to pass through that room again.  If a room has more than two doors, you have to pass through it again after exiting.  Also, don't forget that you don't need to exit the room you end up in last. Which means...?
+!******************************!
+[h_147_2.txt]
+This is a hint 147_2.[[0D]] 
+!******************************!
+[h_147_3.txt]
+This is a hint 147_3.[[0D]] 
+!******************************!
+[h_148_1.txt]
+The contents and labels consist of three variations, RR, LL and LR. You have a very narrow range of options to choose from. Imagine the possible contents for each box and think about which one you should open.
+!******************************!
+[h_148_2.txt]
+Since every box is labelled incorrectly, no box will give you the contents its label promises. For example, the only shoes you could expect to find in the RR box are LR or LL.
+!******************************!
+[h_148_3.txt]
+RR and LL are ultimately the same choice, because both tell you the same thing about what's in the other boxes.
+!******************************!
+[h_149_1.txt]
+The river moves at the same speed for all objects floating upon it and affects both the hat and the gondola in the exact same way.
+!******************************!
+[h_149_2.txt]
+This is a hint 149_2.[[0D]] 
+!******************************!
+[h_149_3.txt]
+This is a hint 149_3.[[0D]] 
+!******************************!
+[h_150_1.txt]
+Each student bows to the teacher and every other student.  Including the teacher and the students, there are a total of 21 people. You may think that information is enough to go on, but make sure you've read the puzzle over carefully before you answer.
+!******************************!
+[h_150_2.txt]
+This is a hint 150_2.[[0D]] 
+!******************************!
+[h_150_3.txt]
+This is a hint 150_3.[[0D]] 
+!******************************!
+[h_151_1.txt]
+How many red cards and black cards are there in a deck of 52 cards?
+!******************************!
+[h_151_2.txt]
+There are a total of 26 black cards and 26 red cards in a 52-card deck.
+!******************************!
+[h_151_3.txt]
+The number of red cards in pile A is equal to 26 minus the number of black cards in pile A.  You can also reverse this statement and apply it to the black cards, so...
+!******************************!
+[h_152_1.txt]
+Think about a corner of a cube and how many lines meet at that point.
+!******************************!
+[h_152_2.txt]
+Three lines meet at each corner on a cube.  Imagine a corner where a single wire forms two of the three lines. The final line in this corner must come from the end of a different wire.  Therefore, in every corner, at least one of the three lines comes from the end of a wire.
+!******************************!
+[h_152_3.txt]
+There are eight corners to a cube. As discussed earlier, every corner in a cube requires at least one end of a wire.  Each wire has two ends, right?
+!******************************!
+[h_153_1.txt]
+Your task is to find which of the 12 iron balls weighs 100g.  Since the others weigh 200g, you are trying to find one that weighs half of that.  How can you find something that looks the same but has half the weight?
+!******************************!
+[h_153_2.txt]
+FILE h_153_2
+!******************************!
+[h_153_3.txt]
+FILE h_153_3
+!******************************!
+[h_154_1.txt]
+The whole planet is covered with Octopleans, but adding their numbers up won't get you the answer you're after.  Perhaps you jumped to conclusions when considering answers for this puzzle.
+!******************************!
+[h_154_2.txt]
+This is a hint 154_2.[[0D]] 
+!******************************!
+[h_154_3.txt]
+This is a hint 154_3.[[0D]] 
+!******************************!
+[h_155_1.txt]
+In slide puzzles such as this one, if you move things around without a clear idea of what you'll move next, you'll end up back where you started before you know it.  Move the pieces so that you are constantly forming new configurations for the pieces.
+!******************************!
+[h_155_2.txt]
+To complete this puzzle, you'll need to make use of the space in the corridor connecting the two columns of balls.  For example, you could try moving the red ball that's third from the top into the small pocket above the middle square of the corridor. Then move two blue balls all the way over so that one occupies the space the red ball formerly sat in. Move the red ball out of the corridor into the red column in the spot second from the top. 
+!******************************!
+[h_155_3.txt]
+While it may seem counter-intuitive, you need to move some balls back out of the correct field to solve this puzzle.  Move two balls to the opposite side, move the ball hidden in the small central pocket over to the space created, then move two balls over the other way. Repeat this procedure and see what develops.
+!******************************!
+[h_156_1.txt]
+Look extra closely at the routes B and C must take to move between their houses and docks.  Those are the key to solving this puzzle.
+!******************************!
+[h_156_2.txt]
+This is a hint 156_2.[[0D]] 
+!******************************!
+[h_156_3.txt]
+This is a hint 156_3.[[0D]] 
+!******************************!
+[h_157_1.txt]
+The difference between A and B is three years, and the difference between B and C is two years.  This means you can rule out the order BAC.
+!******************************!
+[h_157_2.txt]
+This is a hint 157_2.[[0D]] 
+!******************************!
+[h_157_3.txt]
+This is a hint 157_3.[[0D]] 
+!******************************!
+[h_158_1.txt]
+It won't even take an hour for the horses to line up nose to nose once more.  All the horses' noses have to be lined up along the same straight line, but nowhere does it say that the horses must face the same direction.
+!******************************!
+[h_158_2.txt]
+This is a hint 158_2.[[0D]] 
+!******************************!
+[h_158_3.txt]
+This is a hint 158_3.[[0D]] 
+!******************************!
+[h_159_1.txt]
+This puzzle looks a little daunting at first, but take heart. If you use the five open spaces in the box, you can solve the puzzle.  Think about how to move things around so that you create some room for the bigger blocks to move.
+!******************************!
+[h_159_2.txt]
+The solution requires that you move that big yellow block into the upper-right portion of the screen. Here's what you can do to start making room for that move to take place.  Move the blue block at the bottom over to the right and slide the purple block into the space that has a hole. From here, if you move the blue block at the bottom so that it sits directly beneath the yellow block, you'll free up a space on the right that you can work with.
+!******************************!
+[h_159_3.txt]
+This hint starts from where Hint 2 left off. Move the purple block into the lower-right space and then bring down the green block above it.  Next, move the purple block in the upper right as far to the right as you can and move the blue block in the upper left to the far left.  Now you should be able to move that big yellow block up and to the right. With that block out of the way, the rest should be easy.
+!******************************!
+[h_160_1.txt]
+There are five empty spaces to work with here, but when you start, you have some bothersome long blocks in the way.  To remedy this, first you should move the lower-right blue block and slide the purple block that was formerly to the left of it down into the space with the hole.  Now you should be able to move the big yellow block down.
+!******************************!
+[h_160_2.txt]
+Move the purple block in the top row down into the space you created from moving the yellow block down, then line the two blue blocks up end to end in the row directly under the red ball.  Next, slide the purple block below the two blue blocks over to the far left so that the green block in the lower left and the big yellow block can move back up.
+!******************************!
+[h_160_3.txt]
+Align the two blue blocks in the lower right so that they sit end to end on the far-left side of the row directly above the hole. Then drop the green block in the upper right down. Now all you need to do is create a path for the ball to use to get to the hole.  You should have an easy time of it.
+!******************************!
+[h_161_1.txt]
+You need to make the balls change positions with each other, but the actual act of guiding individual balls to the right hole shouldn't prove too challenging.  Make your moves carefully and keep track of what you're doing. This problem requires you to shift things about a great deal, so just be warned that hints alone won't get you through this one.
+!******************************!
+[h_161_2.txt]
+The shortest solution for this problem  involves less than 30 moves, but in order to solve it that quickly, you need to manage the movement of multiple balls at once.  If you're having trouble, swallow your pride and try the easier solution where you only need to guide one ball at a time.
+!******************************!
+[h_161_3.txt]
+For puzzles like this, your best bet is to clump as many of the open spaces together as possible to give the ball you're guiding a larger space to move about.  Just don't get too obsessed with consolidating space or you might actually make things harder for yourself.
+!******************************!
+[h_162_1.txt]
+There are places on the floor that the cylinder can't reach no matter how it's turned or tilted. Where do you think they could be?   Pay special attention to the fact that there were four eggs. 
+!******************************!
+[h_162_2.txt]
+This is a hint 162_2.[[0D]] 
+!******************************!
+[h_162_3.txt]
+This is a hint 162_3.[[0D]] 
+!******************************!
+[h_163_1.txt]
+There are only two choices.  An honest person would tell you the truth, and a liar would always lie. Knowing this, there's only one possible answer here.
+!******************************!
+[q_100.txt]
+A salesman is planning his route around 16 towns using this map. Starting from S, he wants to visit every town and end up back at S.  Assuming he has decided to go to town 1 first, and that he will only visit each town once to save on fuel, what number will the town marked with a star be in the sequence?  By the way, roads marked with an X are closed.
+!******************************!
+[q_101.txt]
+Two boys are playing a game in which the goal is to take the #rlongest route possible from point A to point B#x, as shown on the map below. The only rule is that #rno section of road can be traversed more than once#x.  What course should they take in order to cover the longest distance possible between point A and point B?
+!******************************!
+[q_102.txt]
+Part of the patterned shape below is missing. Which of the pieces A, B, C and D will complete the pattern when inserted into the gap?
+!******************************!
+[q_103.txt]
+Several rectangular sheets of transparent film are arranged on top of each other as shown. The lines represent areas where one sheet overlaps with another.  At the thickest point of this pile, how many sheets are overlapping?
+!******************************!
+[q_104.txt]
+You are tasked with spray-painting player numbers onto six jerseys. You've prepared 10 paper stencils, each with a number from zero to nine. Now all you need to do is paint a different number on each jersey.  If each jersey only has room for two digits, what's the fewest number of stencils you need to number the six jerseys?
+!******************************!
+[q_105.txt]
+A boy and his sister are sitting around the kitchen table chatting.  "You know, Sis, if I took away two years from my age and gave them to you, you'd be #rtwice my age#x, huh!"  "Well, why don't you just give me one more on top of that? Then I'll be #rthree times your age#x."  So, #rhow old is each sibling#x?
+!******************************!
+[q_106.txt]
+In front of you are four tangled lengths of rope. Mark the ones you think will form a knot when you grab them by their ends and pull them taut.
+!******************************!
+[q_107.txt]
+An ordinary analogue clock has two hands, with the longer hand moving faster around the face of the clock.  Assuming that this clock keeps perfect time, how many times will the long and short hands pass over each other between 12 noon and 12 midnight?
+!******************************!
+[q_108.txt]
+This board has 12 dots on it. Your task is to connect these dots to form as many squares as possible.  You can #ruse each dot multiple times#x, and you can #rorient the squares however you wish#x to fit them on the board. However, to be counted as a square, each corner must be on a dot.  How many different squares can be drawn on the board?
+!******************************!
+[q_109.txt]
+Using leftovers from your breakfast, you've managed to cobble together a rather oddly-shaped sandwich.  How many times must you cut the sandwich in order to make it fit neatly in the container?
+!******************************!
+[q_110.txt]
+A strangely-shaped object sits before you. All sides of the object, save for depth, are of equal length.  Points A, B, C and D are all located in the exact middle of their respective sides. Additionally, line AD, line BC and the depth of the object are all one metre.  What is the total volume of the object in cubic metres?
+!******************************!
+[q_111.txt]
+Behold! Before you sits the laziest man in the entire world! Famous for his aversion to physical activity, this slug has designed his house so that he can grab anything without leaving the comfort of his armchair.  Using an elaborate set of tools, including a fishing rod, extendo-arm and high-energy magnets, this legendary loafer has put everything in the room within reach. However, despite his efforts, there's one place #rhe can't reach without getting up#x.  Can you find that spot?
+!******************************!
+[q_112.txt]
+You need to solve this magic square in order to proceed.  A magic square is #ra set of numbers organised in a square so that adding any string of three numbers, be they horizontal, vertical or diagonal, results in the same total#x.  1 and 2 have already been placed on the square for you. Complete the rest of the square to open the lock. 
+!******************************!
+[q_113.txt]
+On the table below are four cubes made up of matches.  Can you #rchange four cubes to three by moving a single match#x?
+!******************************!
+[q_114.txt]
+The matches set before you are arranged so that they form the letter E.  According to your friend, you can #rmake the E small by adding just one match#x.  Can you accomplish the task your friend has set out for you?
+!******************************!
+[q_115.txt]
+Three of the four parts A-D shown can be combined to form a square. Circle the one that isn't used.  You are allowed to rotate the parts freely when combining them.
+!******************************!
+[q_116.txt]
+A work from a famous artist was recently discovered. The painting is a self-portrait of the painter in his later years and is entitled "My Beloved".  Assuming the artist wasn't a huge narcissist and referring to himself, his beloved should appear in the painting somewhere. Can you #rfind his beloved#x?
+!******************************!
+[q_117.txt]
+This young man is boasting about the many and varied pets he keeps.  "I have 10 pets. Not just canaries and dogs, but tortoises and even snakes! I can't tell you how many of each animal I have, but there are six wings, three shells and 26 legs between all of them!"  Can you work out how many snakes he has?
+!******************************!
+[q_118.txt]
+The image below is of a tetrahedron that has been disassembled so that each of its four faces lie flat.  Which of the triangles should you insert in place of the question mark so that when the tetrahedron is put together, both the red and blue lines continue unbroken from one face to the next?
+!******************************!
+[q_119.txt]
+A set of matches are arranged so that they form #rfive#x squares.  To solve this puzzle, you need to change the number of squares below from five to #rfour#x by moving exactly #rtwo#x matches.  The four squares must be #runiform in size#x, and you must use #rall of the matches#x when forming the squares.
+!******************************!
+[q_120.txt]
+You just got back from the post office, where you bought a sheet of stamps with values ranging from 10p to [[3C]]po[[3E]]1.00.  First, you detach the [[3C]]po[[3E]]1.00 stamp and set it aside. Now, can you divide the remaining stamps up so that you make #rseven differently-shaped groups of stamps#x, each with a total value of [[3C]]po[[3E]]1.00?
+!******************************!
+[q_121.txt]
+The diagram below shows a triangle with several lines running through it.  #rHow many different triangles#x can you spot within the diagram?
+!******************************!
+[q_122.txt]
+Below is a diagram of a flag.  From the measurements shown on the diagram, can you calculate what #rfraction of the flag's total area#x is represented by the diamond in the middle? Your answer will be the denominator of a fraction in 1/X form.  Don't think too hard about this one. The answer is actually easy enough to work out in your head.
+!******************************!
+[q_123.txt]
+There are three different colours of toy cat, each colour having a different weight. Examples 1 and 2 show their relative weights.  You have three red cats and four black cats on one side of the scale, and four white cats and one black cat on the other. Given this setup, #rwhat will the scale do#x?  A: Tip left B: Stay level C: Tip right  Tap your answer on the Touch Screen.
+!******************************!
+[q_124.txt]
+Some careless deliveryman loaded two shipments of fruit into the wrong warehouses.  As you can see in the picture below, the oranges are currently in the apple warehouse and vice versa.  Can you correct the mistake and put all the fruit in its proper place?
+!******************************!
+[q_125.txt]
+Of the four boxes below, three are the exact same box viewed from different angles. The fourth box has a slightly different design.  Can you spot the odd one out?
+!******************************!
+[q_126.txt]
+Although all six chests appear to be of equal value, in fact, one of the chests differs from the rest. Choose the chest that has a different total value.
+!******************************!
+[q_127.txt]
+Behold the brave knight as he fights his way from A to B through a dark and winding maze. With his strength waning, the knight decides that he must exit the maze by opening the fewest number of doors possible.  Find the path that allows the knight to escape from those dark catacombs while opening as few doors as possible.
+!******************************!
+[q_128.txt]
+Oh, no! The professor's hatbox has gone missing!  Pictured below are four hatboxes that have been broken down and flattened. When reassembled, three of the boxes are identical in every way, but the fourth hatbox differs slightly in its design and belongs to the professor. Can you find it for him?
+!******************************!
+[q_129.txt]
+Each of these five people has borrowed money from one of the others, and each has lent money to one of the others. You know that none of them has lent money to more than one person, and none of them has borrowed money from someone that they have lent money to. You also know these facts:  1. B borrowed money from A. 2. E did not lend money to A. 3. C lent money to D.  Who did A borrow money from? Circle your answer.
+!******************************!
+[q_130.txt]
+A train with a length of 100m takes 30 seconds to travel over a 400m bridge.  Assuming that the train's speed is constant, how many kilometres per hour is it travelling at?
+!******************************!
+[q_131.txt]
+Someone knocked over this beautiful vase and shattered it.  Fit the pieces together and restore the vase to its original shape. There's one catch, though, mixed in with the pieces is a single piece from a different vase.
+!******************************!
+[q_132.txt]
+Behold the glorious Eiffel Tower, soaring monument to Paris, the city of light and love.  At over 300m tall, the tower is massive, but there is a way to make the entire structure vanish right before your very eyes by using nothing but two coins.  How does one accomplish this feat?
+!******************************!
+[q_133.txt]
+A rope ladder hangs from the side of a boat floating in the ocean, with the water coming up to the ninth rung. The ocean is calm, with almost no waves.  If the water rises by 40cm every hour, and the rungs of the ladder are 30cm apart, which rung will the water level be at in three hours?
+!******************************!
+[q_134.txt]
+The idea of one-line puzzles is to place your pen to paper and draw a shape without lifting your pen from the paper or retracing any part of the line. You can, however, cross lines.  Now that you're familiar with the concept, look at the four pictures below. One of them cannot be drawn with one line.  Which one is it?
+!******************************!
+[q_135.txt]
+All you know about the plot of land below is what's written here, but even these few measurements offer you enough information to accurately calculate the plot's perimeter.  How many metres long is the perimeter?  Bear in mind that the diagram may not be proportionally accurate.
+!******************************!
+[q_136.txt]
+Longing to see the sun, this queen is trying to slip out of her castle unattended. Armed guards, however, are blocking her path.  Slide the blocks out of the way to move the red one out of the exit to the right.  Her freedom depends on you. Can you do it?
+!******************************!
+[q_137.txt]
+A young boy sits quietly, rolling a single die over and over. Each time the die stops rolling, he picks it up, examines it, and whispers something to himself.  Each time he rolls a one, he whispers, "15". Each time he gets a six, he whispers, "20".  The boy has just rolled a three. What number will he whisper this time?
+!******************************!
+[q_138.txt]
+Draw three straight lines between the posts to divide the chickens into groups. Each group must consist of one hen and two chicks.
+!******************************!
+[q_139.txt]
+It's dark in here!  Turn the light bulb on by fixing the wires that connect it to the battery. Rearrange the panels so that both wires continue unbroken from the battery to the lightbulb.  Make sure you use all the panels!
+!******************************!
+[q_140.txt]
+Three boys are talking about how many sweets they each have.  A: B has the most! B: If C gave me one sweet, I'd have twice as many as A does. C: It'd be better if B gave me two sweets. Then we'd all have the same amount!  How many sweets are there in total?
+!******************************!
+[q_141.txt]
+You have one 16 litre pitcher full of water, one empty 9 litre pitcher, and one empty 7 litre pitcher.  Using nothing but these three pitchers, can you divide the water evenly so that the #r16 and 9 litre pitchers#x are each holding #rexactly 8 litres#x of water?
+!******************************!
+[q_142.txt]
+Tired of leading a sheltered life, this princess is trying to escape her castle. Armed guards, however, are blocking her path.  Slide the blocks out of the way to move the red one out of the exit to the right.  Her freedom depends on you. Can you do it?
+!******************************!
+[q_143.txt]
+This maiden has been captured by a wicked wizard, and is trying to escape his castle. Armed guards, however, are blocking her path.  Slide the blocks out of the way to move the red one out of the exit to the right.  Her freedom depends on you. Can you do it?
+!******************************!
+[q_144.txt]
+Nine squares are carved into a piece of wood.  Arrange nine unique numbers between one and 51 so that every vertical, horizontal and diagonal line of numbers crossing through the middle square has the same sum.   Arrange the numbers so that they yield the #rhighest possible sum.#x  What number occupies the #rmiddle square#x?
+!******************************!
+[q_145.txt]
+In front of you sits a blank paper cube that you've decided to paint. You need to paint the cube so that all faces that touch are different colours.  #rUsing three colours of paint, how many ways can you paint the cube so that it satisfies the above condition?#x  Each painting scheme should be a different pattern, not just the same pattern with the colours rearranged. Also, #ryou can't leave any sides of the cube blank#x.
+!******************************!
+[q_146.txt]
+There is a clock tower that rings the time on the hour every hour. However, this clock tower is special in that it rings the time out very slowly. Each ringing of the bell takes a full #rfive seconds#x.  Now to the problem. When the time is #r12#xpm, the bell rings #r12 times#x. #rHow many seconds#x does it take for you to hear the time?
+!******************************!
+[q_147.txt]
+The owner of a mansion decides to hire a security guard, and he sets the following test for all applicants.  "Take a look at this map. If you enter my mansion through the front door and pass through each doorway once and only once, which room will you end up in?"  Circle the room and see if you pass the test!
+!******************************!
+[q_148.txt]
+There are three shoeboxes that each contain two shoes. The boxes are labelled as shown.  However, the labels have all been placed on the wrong boxes. From which of the three shoeboxes can you remove one shoe in order to work out which pairs of shoes are in which box?  Circle your answer.
+!******************************!
+[q_149.txt]
+A river moves at a pace of 1km per hour, and upon that river floats a lone gondola. At precisely 12 noon, a passenger on the gondola drops his black top hat into the water. The gondola turns around to collect the hat exactly 100m downstream from it. This particular gondola moves at a speed of 20m per minute in still water.  How many minutes from the time the hat hit the water will it take the gondola to meet up with the top hat ?
+!******************************!
+[q_150.txt]
+At the edge of town, there is a traditional private school with 10 boys, 10 girls, and a single teacher.  The school requires students to show respect to the teacher and other students by #rgreeting the teacher and other students with one bow#x.  #rHow many bows could you expect to see#x on a given morning?
+!******************************!
+[q_151.txt]
+You have a jokerless deck of 52 cards, which have been shuffled thoroughly. You take the cards and divide them into two stacks of 26 cards each, labelled A and B.  If you divide the cards as described above and check the contents of each pile 1,000 times, how many times could you expect the number of red cards in one pile to #rmatch the number of black cards#x in the other?
+!******************************!
+[q_152.txt]
+You want to create a cube out of metal wiring using the fewest number of wires possible.  You can bend each wire as many times as you like, but no portion of the cube can have more than one length of wire running over the same edge. Don't worry about how one wire will connect to the next, because you'll use a soldering iron later on.  What is the fewest number of wires required to complete the task described above?
+!******************************!
+[q_153.txt]
+Here are 12 iron balls of the kind used in school science experiments. They are all the same size and shape, but 11 of them weigh 200g while just one weighs 100g.  What is the least number of times you can use the scale shown to find out which of the iron balls is the 100g one?
+!******************************!
+[q_154.txt]
+A famous space explorer has just discovered a new planet and landed on its surface to investigate it further.  During his three-hour investigation, he counted 379 male Octopleans, 493 female Octopleans, and 125 that had the features of both male and female Octopleans.  #rHow many aliens are there#x on this new planet?  
+!******************************!
+[q_155.txt]
+The box below holds blue and red balls. As you can see, the colours of the balls and their respective areas don't match.  Slide the balls around the box so that the red balls are in the red area and the blue ones are in the blue area.
+!******************************!
+[q_156.txt]
+Four fishermen all live on the same island, but none of them can stand the others. Their houses and docks are indicated on the map as A, B, C and D.  Which of the new roads 1-5 should be added to the island's road network in order to allow all four fishermen to travel between their houses and docks without running into any of the others?  Circle your answer and stop any more scuffles from breaking out!
+!******************************!
+[q_157.txt]
+The king of an ancient kingdom had three children, A, B and C.  The difference in age between A and B is three years, while the difference between B and C is two years. A is definitely not the oldest son.  How many possible ways are there to order the ages of the three children?
+!******************************!
+[q_158.txt]
+Four horses are running around a course made up of several concentric circles.  A runs one lap an hour on its course. B runs two laps an hour on its course. C runs three laps an hour on its course. D runs four laps an hour on its course.  All four horses line up at the bottom of the circle and start running their courses at the same time. How many minutes will it take until all four horses are lined up nose to nose on a straight line again?
+!******************************!
+[q_159.txt]
+Can you get the red ball out of the maze?  Slide obstructing blocks out of the way to clear a path for the ball.  This problem can be solved in as few as 14 moves.
+!******************************!
+[q_160.txt]
+Can you get the red ball out of the maze?  Slide obstructing blocks out of the way to clear a path for the ball.  This problem can be solved in 20 moves.
+!******************************!
+[q_161.txt]
+Move each ball to the area with the same colour.  Do you have what it takes to complete this puzzle?
+!******************************!
+[q_162.txt]
+The room shown below is perfectly square and completely empty. Four normal chicken eggs were placed on the #rfloor#x of the room. Shortly afterwards, a man came in with a giant steel cylinder and rolled it all over the floor. Amazingly, not a single egg was broken in the process. Can you guess #rwhere#x these eggs were placed?  #rThe eggs used in this problem are standard- sized eggs, but have been shown larger so that you can move them around more easily.#x
+!******************************!
+[q_163.txt]
+A boy is walking up a mountain when he comes to a fork in the path. Unsure which way to go, he asks a man standing by the road for help. The man says, "There are two villages near here. One is full of honest people, and one is full of liars."  Not wanting to go to the village of liars, he asks "Which village are you from?" The man points to the right-hand fork in the road.  Circle the village the boy should go to. Remember, you don't know for sure which village the man is really from!
+!******************************!
+[t_100.txt]
+Around the Towns
+!******************************!
+[t_101.txt]
+The Longest Path
+!******************************!
+[t_102.txt]
+Pattern Matching
+!******************************!
+[t_103.txt]
+How Many Sheets?
+!******************************!
+[t_104.txt]
+Jersey Numbers
+!******************************!
+[t_105.txt]
+Brother and Sister
+!******************************!
+[t_106.txt]
+Not Knots?
+!******************************!
+[t_107.txt]
+Clock Hands
+!******************************!
+[t_108.txt]
+How Many Squares?
+!******************************!
+[t_109.txt]
+The Odd Sandwich
+!******************************!
+[t_110.txt]
+Find the Volume
+!******************************!
+[t_111.txt]
+Laziest Man on Earth
+!******************************!
+[t_112.txt]
+A Magic Square
+!******************************!
+[t_113.txt]
+The Vanishing Cube
+!******************************!
+[t_114.txt]
+Make it Smaller
+!******************************!
+[t_115.txt]
+Making a Square
+!******************************!
+[t_116.txt]
+My Beloved
+!******************************!
+[t_117.txt]
+Pet Menagerie
+!******************************!
+[t_118.txt]
+Tetrahedron Trial
+!******************************!
+[t_119.txt]
+From Five to Four
+!******************************!
+[t_120.txt]
+Stamp Stumper
+!******************************!
+[t_121.txt]
+Tons of Triangles
+!******************************!
+[t_122.txt]
+Diamond in the Flag
+!******************************!
+[t_123.txt]
+Weighing Cats
+!******************************!
+[t_124.txt]
+Apples to Oranges
+!******************************!
+[t_125.txt]
+Odd Box Out
+!******************************!
+[t_126.txt]
+Treasure Chests
+!******************************!
+[t_127.txt]
+The Knight's Escape
+!******************************!
+[t_128.txt]
+Layton's Hatbox 
+!******************************!
+[t_129.txt]
+Five Borrowers
+!******************************!
+[t_130.txt]
+Train Speed
+!******************************!
+[t_131.txt]
+The Shattered Vase
+!******************************!
+[t_132.txt]
+The Vanishing Tower
+!******************************!
+[t_133.txt]
+The Rope Ladder
+!******************************!
+[t_134.txt]
+One-Line Puzzle 2
+!******************************!
+[t_135.txt]
+Perimeter Perplexer
+!******************************!
+[t_136.txt]
+Queen's Escape
+!******************************!
+[t_137.txt]
+Rolling the Die
+!******************************!
+[t_138.txt]
+Chicks and Hens
+!******************************!
+[t_139.txt]
+Bright Idea
+!******************************!
+[t_140.txt]
+How Many Sweets?
+!******************************!
+[t_141.txt]
+Water Pitchers
+!******************************!
+[t_142.txt]
+Princess's Escape
+!******************************!
+[t_143.txt]
+Maiden's Escape
+!******************************!
+[t_144.txt]
+The Largest Total
+!******************************!
+[t_145.txt]
+Painting a Cube
+!******************************!
+[t_146.txt]
+The Clock's Chime
+!******************************!
+[t_147.txt]
+Security Guard Test
+!******************************!
+[t_148.txt]
+Shoe Box Scramble
+!******************************!
+[t_149.txt]
+The Lost Hat
+!******************************!
+[t_150.txt]
+Morning Greetings
+!******************************!
+[t_151.txt]
+Red and Black Cards
+!******************************!
+[t_152.txt]
+The Wire Cube
+!******************************!
+[t_153.txt]
+Iron Balls
+!******************************!
+[t_154.txt]
+Aliens?
+!******************************!
+[t_155.txt]
+Red and Blue 1
+!******************************!
+[t_156.txt]
+Feuding Fishermen
+!******************************!
+[t_157.txt]
+Three Children
+!******************************!
+[t_158.txt]
+Nose to Nose
+!******************************!
+[t_159.txt]
+Get the Ball Out! 2
+!******************************!
+[t_160.txt]
+Get the Ball Out! 3
+!******************************!
+[t_161.txt]
+Four Balls
+!******************************!
+[t_162.txt]
+Unbroken Eggs
+!******************************!
+[t_163.txt]
+Which Village?
+!******************************!
