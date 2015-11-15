@@ -1,0 +1,14 @@
+Textos comprimidos:
+	Rodar dumper.py
+	Escolher opção 2, Inserir
+	Copiar os arquivos gerados na pasta "Arquivos Comprimidos" para "All Files".
+
+Textos plano:
+	
+
+Imagens:
+	Rodar imagens.py
+
+Splash:
+
+Montagem:
