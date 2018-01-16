@@ -51,14 +51,9 @@ Notas das Versões:
 		Diversas correções ortográficas;
 		Verificação e correção das dicas;
 		Correção de janelas de textos que não esperavam iteração do jogador;
+		Alterações na maioria dos gráficos, visando padronizar o layout com os demais jogos da série;
 	- 28/07/2013 Revisão 1:
 		Lançamento Inicial
-
-Créditos Adicionais:
-	- Fontes Usadas:
-		Benegraphic - Tepid Monkey Fonts
-		Grixel Kyrou 7 Wide Bold - Nikos Giannakopoulos
-		Nokia Cellphone FC - Zeh Fernando
 
 Contato:	
 	E-mail: hansen.hahn@gmail.com
