@@ -1,0 +1,1173 @@
+[art_d1.txt]
+O falecido Barão Augustus Reinhold 
+encomendou este retrato logo após  
+ter completado a construção 
+de St. Mystère.
+!******************************!
+[art_d10.txt]
+Esta incrível refeição foi o final 
+perfeito para o café da manhã na 
+mansão Reinhold. Isso que é vida boa!
+!******************************!
+[art_d11.txt]
+Um artigo mostrando os incríveis 
+talentos do inspetor. "O crime
+da década é solucionado! Chelmey 
+recebe uma comenda oficial."
+!******************************!
+[art_d12.txt]
+Beatrice tenta se animar com seu 
+novo cliente, mas o ar sinistro 
+de Don Paolo faz ela voltar atrás.
+!******************************!
+[art_d13.txt]
+Nosso vilão parece gostar de usar
+seu quarto como lixeira particular. 
+Mesmo sendo amável, Beatrice ficará 
+uma fera quando ver a bagunça.
+!******************************!
+[art_d14.txt]
+Uma jovem Flora, chocada e com medo
+ao encontrar Lady Dahlia pela primeira
+vez, se esconde atrás de Matthew.
+!******************************!
+[art_d15.txt]
+Este cartaz exibe a encantadora Flora
+apreciando o parque de diversões que
+seu pai construira para ela.
+!******************************!
+[art_d16.txt]
+Se passando por Inspetor Chelmey, 
+Don Paolo tenta culpar o Professor 
+Layton pelo assassinato de Simon.
+!******************************!
+[art_d17.txt]
+Logo após entrar na torre, Luke e o 
+professor caem do térreo para o porão, 
+resultando nesta cena.
+!******************************!
+[art_d18.txt]
+Gênio maligno ou não, é natural 
+ser surpreendido quando se descobre 
+o que se parece com um corpo morto.
+!******************************!
+[art_d19.txt]
+O Barão Reinhold supervisiona a 
+construção da vila enquanto Bruno 
+alegremente transmite as ordens. 
+A idade desta pintura é desconhecida.
+!******************************!
+[art_d2.txt]
+Este retrato detém a chave para o 
+tesouro escondido sob a Mansão
+Reinhold. O autor e a data da obra
+são desconhecidos.
+!******************************!
+[art_d20.txt]
+Bruno amorosamente cuida do 
+deprimido Pauly. A expressão de Bruno
+claramente mostra seu carinho pelas 
+suas criações.
+!******************************!
+[art_d3.txt]
+Luke tenta iniciar uma conversa 
+com Claudia. Quem diria que ele era 
+tão experiente em se comunicar 
+com animais? (Miau? Miaaaau...)
+!******************************!
+[art_d4.txt]
+A felina fugitiva é atraída de volta 
+com uma tentadora espinha de peixe. 
+Parece ser o jeito mais rápido de 
+se conquistar um gato.
+!******************************!
+[art_d5.txt]
+Ainda sem vida, Simon jaz estendido
+no chão da mansão. Fique tranquilo! 
+Ele não está morto, apenas precisa 
+de reparos.
+!******************************!
+[art_d6.txt]
+Essas engrenagens foram achadas 
+onde Simon e Ramon caíram. O símbolo 
+em cada uma delas é a marca de Bruno,
+e todas parecem ser de sua autoria.
+!******************************!
+[art_d7.txt]
+O que Claudia está tentando fazer 
+com os óculos de Simon?
+!******************************!
+[art_d8.txt]
+Lady Viola segura o bebê Flora 
+enquanto Ingrid e Matthew olham-na 
+calorosamente.
+!******************************!
+[art_d9.txt]
+Apesar do túmulo aparentemente estar 
+no subterrâneo, um belo jardim floresce 
+aqui, dando ao lugar um ar etéreo.
+!******************************!
+[art_t1.txt]
+Retrato de Augustus Reinhold
+!******************************!
+[art_t10.txt]
+Hora do Chá
+!******************************!
+[art_t11.txt]
+O Ás - Inspetor Chelmey
+!******************************!
+[art_t12.txt]
+Um Hóspede Incomum
+!******************************!
+[art_t13.txt]
+O Quarto de Don Paolo
+!******************************!
+[art_t14.txt]
+Uma Introdução Inquieta
+!******************************!
+[art_t15.txt]
+Cartaz do Parque de Diversões
+!******************************!
+[art_t16.txt]
+A Armadilha de Don Paolo
+!******************************!
+[art_t17.txt]
+Aparecem Dois Visitantes
+!******************************!
+[art_t18.txt]
+Don Paolo Encontra Simon
+!******************************!
+[art_t19.txt]
+St. Mystère em Construção
+!******************************!
+[art_t2.txt]
+Retrato de Flora Reinhold
+!******************************!
+[art_t20.txt]
+O General de St. Mystère.
+!******************************!
+[art_t3.txt]
+Luke e Claudia
+!******************************!
+[art_t4.txt]
+Recuperando Claudia!
+!******************************!
+[art_t5.txt]
+A Cena do "Crime"
+!******************************!
+[art_t6.txt]
+Engrenagens Misteriosas
+!******************************!
+[art_t7.txt]
+A Descoberta de Claudia
+!******************************!
+[art_t8.txt]
+A Figura do Bebê
+!******************************!
+[art_t9.txt]
+O Túmulo de Lady Viola
+!******************************!
+[chr1.txt]
+Fanático por enigmas, 
+a habilidade de Hershel 
+Layton de solucionar os 
+enigmas mais difíceis 
+colocou seu nome nos 
+jornais várias vezes. 
+Sua marca registrada 
+é o seu chapéu, que se 
+ajusta tão bem nele que 
+você poderia jurar que 
+faz parte de seu corpo.
+!******************************!
+[chr10.txt]
+Lady Dahlia é um robô 
+criado para ser uma 
+réplica perfeita da mãe 
+de Flora, Viola. 
+Ela é mandona e 
+arrogante, mas possui 
+também uma doçura 
+oculta que se manifesta 
+quando ela se encontra 
+com Flora.
+!******************************!
+[chr11.txt]
+Embora rico, Gordon é
+extremamente preocupado
+com suas finanças.
+Talvez seja por causa
+da sua situação econômica
+que ele não consiga atrair
+tantas mulheres, fato
+que o atormenta
+constantemente.
+!******************************!
+[chr12.txt]
+Por falta de manutenção,
+Simon desmaia, levando
+todos a acreditar que
+fora assassinado.
+Don Paolo acha seu corpo
+e o esconde. Mais tarde,
+porém, Bruno encontra
+Simon e o conserta.
+!******************************!
+[chr13.txt]
+Esse bichano fofo pode
+ter um nome delicado, mas
+verdade seja dita, ela é
+ele. Ele normalmente fica
+perto de Dahlia, mas tem
+sido conhecido por fugir
+e rasgar a barraca de
+peixes para aliviar um
+pouco do estresse.
+!******************************!
+[chr14.txt]
+Deke é o camarada alto
+na torre do relógio. Ele
+é conhecido como a maior
+pessoa de St. Mystère,
+assim como também a mais
+covarde. Ele adoraria
+subir a torre do relógio,
+mas sua acrofobia o
+mantém longe de qualquer
+lugar acima do solo.
+!******************************!
+[chr15.txt]
+Beatrice administra a
+única pousada da vila.
+Ela é uma senhora gentil,
+mas tende a ficar
+apaixonada por cada
+homem que encontra. Ela
+afirma ter já esquecido
+de sua busca insaciável
+por homens, mas robôs
+nunca esquecem de fato.
+Mães, escondam seus
+filhos!
+!******************************!
+[chr16.txt]
+Agnes pode prever o
+futuro, mas suas
+previsões são tão cheias
+de destruição e
+melancolia, que todos
+tentam evitá-la. Qualquer
+um que se esbarra nela é
+forçado a escutar as
+suas ladainhas de
+prognósticos sombrios.
+!******************************!
+[chr17.txt]
+Pauly pode ser
+frequentemente visto
+fora do restaurante, de
+punho erguido no ar.
+Uma vez ou outra ele
+fica sem energia, mas na
+maior parte do tempo,
+é um vulcão em erupção.
+!******************************!
+[chr18.txt]
+Crouton é o dono do
+restaurante e é famoso
+tanto por sua gentileza
+quanto pelo seu pudim
+celestial. Entretanto, 
+fique longe dos seus
+bolinhos. Eles são como
+esponjas secas. Ele
+também é irmão de Crumm.
+!******************************!
+[chr19.txt]
+Nick é um cliente regular
+do restaurante da vila,
+além de um louco por
+moedas. Ele parece um
+adolescente, mas na
+verdade tem 28 anos e é
+casado, apesar de
+ninguém nunca ter visto
+sua esposa.
+!******************************!
+[chr2.txt]
+Autoproclamado aprendiz
+do Professor Layton,
+Luke segue seu mestre a
+qualquer lugar, mas ainda
+tem muito a aprender
+antes de poder ser
+chamado de mestre dos
+enigmas. Além dos enigmas,
+Luke também tem uma
+grande paixão por animais.
+!******************************!
+[chr20.txt]
+Nervoso e correto,
+Rodney comanda o centro
+comunitário da vila. Ele
+frequentemente tenta
+fugir do trabalho
+"recomendando
+fortemente" as pessoas
+que façam as coisas sem
+sua ajuda. Ele ama tanto
+formulário que há boatos
+de que dorme com eles.
+!******************************!
+[chr21.txt]
+Membro da força policial,
+o Inspetor Chelmey é
+firme e teimoso. Apesar
+do seu pavio curto, suas
+habilidades de
+representante da lei são
+incomparáveis, por isso é
+temido por todos os
+criminosos da região
+de Londres.
+!******************************!
+[chr22.txt]
+Numa vila cheia de
+excentricidades, Lucy se
+destaca pelo fato de ser
+bastante normal. Apesar
+de seu avô Archibald
+tentar mimá-la, ela
+continua madura, honesta
+e esperta.
+!******************************!
+[chr23.txt]
+Zappone alega ser um
+detetive e está feliz em
+conhecer Layton, um
+colega de profissão. Ele
+também alega ter um
+informante, mas na
+verdade ele não tem pista
+alguma. O que Bruno
+estava pensando quando
+construiu essa figura?
+!******************************!
+[chr24.txt]
+Gerard é um velho tímido
+que tem problemas em
+decidir qualquer coisa.
+Ele ama flores e pode ser
+quase sempre encontrado
+no jardim cuidando dos
+canteiros de flores após
+uma das traquinagens
+destrutivas de Claudia.
+!******************************!
+[chr25.txt]
+Jarvis fica em um
+penhasco na vila,
+ponderando todos os
+tipos de pensamentos
+profundos e importantes.
+Ele sabe muito sobre a
+vila, mas é preocupado
+demais com seus próprios
+pensamentos para
+compartilhá-los. Ele
+também é bastante amigo
+de Ramon.
+!******************************!
+[chr26.txt]
+Essa garota é sempre
+vista rindo de alguém.
+Alguns dizem que Adrea
+herdou seu cruel senso
+de humor de sua avó,
+Agnes. Curiosamente,
+Adrea é amiga de Lucy,
+uma garota tão doce
+quanto possível.
+!******************************!
+[chr27.txt]
+Intrépido aventureiro que
+é, Pavel tem o pior senso
+de direção possível. Ele
+havia planejado viajar
+para a América, mas de
+alguma maneira acabou
+parando em St. Mystère.
+O verdadeiro mistério é
+como ele consegue viajar
+tão rápido.
+!******************************!
+[chr28.txt]
+Crumm gerencia a
+cafeteria da vila.
+Embora sua aparência
+e estatura sugiram
+outra coisa, tem um
+coração mole e ama os
+pequenos animais.
+É o irmão de Crouton.
+!******************************!
+[chr29.txt]
+Prosciutto tem um grande
+apetite e vive no norte
+da vila. Ele nunca é visto
+sem um aperitivo na mão,
+por isso é conhecido como
+"Prosciutto, a Despensa".
+Ele frequentemente visita
+o mercado e pega toda
+comida que pode.
+!******************************!
+[chr3.txt]
+Ele trabalha na ponte
+levadiça que liga
+St. Mystére com o mundo
+a fora. Como a forma
+distinta de Franco deve
+sugerir, ele vira e mexe
+abandona o trabalho para
+encher a pança no
+restaurante da vila.
+!******************************!
+[chr30.txt]
+Archibald foi
+originalmente criado para
+ser um amigo do barão.
+O barão era tão seu amigo
+que deixou para ele sua
+mesa, que continha uma
+pista para achar a Maçã
+Dourada. A menina dos
+seus olhos é sua neta
+Lucy.
+!******************************!
+[chr31.txt]
+Como zelador do parque,
+Sylvain costumava
+mantê-lo em ordem, mas
+quando as pessoas
+pararam de visitá-lo, ele
+decidiu fechá-lo. Porém,
+o bom disso é que ele não
+precisa encarar filas
+para se divertir nos
+brinquedos.
+!******************************!
+[chr32.txt]
+Uma amante de jogos de
+cartas, Martha às vezes
+passa o dia inteiro
+entocada em sua casa
+polindo e embaralhando
+suas cartas. Seu
+passatempo favorito é
+desafiar pessoas
+inocentes para uma
+rodada de "52 Card
+Pickup".
+!******************************!
+[chr33.txt]
+Como açougueiro da vila,
+os bifes de Giuseppe são
+de primeira classe, mas
+ele é mais conhecido por
+piadas e trocadilhos
+embaraçantes. Dizem que
+seu senso de humor veio
+do seu criador, Bruno.
+!******************************!
+[chr34.txt]
+O falecido Barão Reinhold
+criou St. Mystère e todos
+os seus habitantes para
+sua filha Flora. Seu amor
+por Flora era tão grande,
+que ele planejou um
+elaborado esquema para
+garantir que ela não
+ficasse sozinha após
+a morte dele.
+!******************************!
+[chr35.txt]
+O Laytonmóvel ostenta um
+incomum teto alto que
+permite que o professor
+meta o pé na estrada sem
+precisar remover sua
+cartola. Graças aos seus
+cuidados e manutenção, o
+carro está sempre em
+excelente estado.
+!******************************!
+[chr36.txt]
+Flora usou esse disfarce
+para poder andar
+livremente sem ser
+notada. Quase todos os
+cidadãos podem notá-la
+num piscar de olhos, mas
+ela está convencida de
+que é uma incógnita.
+!******************************!
+[chr37.txt]
+Vovó Riddleton tem a
+sinistra habilidade de
+encontrar enigmas que
+Layton e Luke esqueceram
+em sua aventura. Ela
+ostenta um estilo
+fada-madrinha e é a
+prova máxima do senso
+de humor bizarro de
+Bruno.
+!******************************!
+[chr38.txt]
+A mente criminosa que se
+fez passar de Inspetor
+Chelmey, Don Paolo é
+conhecido por ser um
+cientista brilhante e
+vê Layton como um rival.
+Quando não está
+planejando maldades,
+Don Paolo gosta de tocar
+músicas.
+!******************************!
+[chr39.txt]
+Bruno é o zelador de
+St. Mystère. Ele serviu
+o Barão Reinhold por
+anos, além de ser um
+habilidoso engenheiro que
+contruiu todos os robôs
+da vila com suas próprias
+mãos.
+!******************************!
+[chr4.txt]
+Ah, sim, o misterioso
+Sr. Stachenscarfen. Numa
+vila cheia de mistérios,
+poucos se destacam como
+sendo enigmas de primeira
+classe, como este homem
+de bigode. De onde ele
+veio? E para onde está
+indo? Isso, ninguém pode
+dizer.
+!******************************!
+[chr40.txt]
+A única filha de uma
+família extremamente
+rica, Flora é a garota
+misteriosa que andava
+perambulando ao redor da
+vila. Ela perdeu sua mãe
+quando era criança e foi
+educada por seu pai, o
+Barão Augustus Reinhold.
+!******************************!
+[chr5.txt]
+O robô babá de Flora se
+parece com uma doce
+senhora, que faz seu
+papel muito bem, apesar de
+nunca recordar os nomes
+das pessoas. Ela adora
+cozinhar e é considerada
+uma verdadeira artesã de
+tortas por aqueles que
+provaram.
+!******************************!
+[chr6.txt]
+Esse aspirante a escritor
+está constantemente
+procurando por novas
+inspirações. Embora
+nunca tenha completado
+uma obra sequer, ele não
+deixa que isso o intimide.
+Seu plano atual é fazer
+uma novela com as
+aventuras de Layton
+e Luke.
+!******************************!
+[chr7.txt]
+Esse camarada grosseiro
+tem o infeliz hábito de
+responder suas próprias
+perguntas enquanto fala.
+Ele geralmente fica tão
+ocupado com isso que não
+escuta o que as outras
+pessoas têm a dizer.
+Ironicamente, ele odeia
+ser ignorado.
+!******************************!
+[chr8.txt]
+Embora empregado
+pela família Reinhold,
+Ramon escapa para o
+restaurante da vila em
+vez de trabalhar. Muitas
+pessoas o conhecem como
+"aquele homem de lábios
+roxos horripilantes".
+!******************************!
+[chr9.txt]
+O robô mais velho de
+Bruno, Matthew serviu
+fielmente a família
+Reinhold como seu mordomo
+por vários anos. Talvez
+pela sua natureza gentil
+e calma, é um alvo
+constante do espírito
+dominante de Lady Dahlia.
+!******************************!
+[laytonv1.txt]
+Luke, meu
+garoto...
+!******************************!
+[laytonv10.txt]
+Acontece que...
+!******************************!
+[laytonv11.txt]
+E como...
+!******************************!
+[laytonv12.txt]
+Que indivíduo...
+!******************************!
+[laytonv13.txt]
+Uns especulam...
+!******************************!
+[laytonv14.txt]
+Mas, Luke, eu...
+!******************************!
+[laytonv15.txt]
+Humm. Bem,
+nosso...
+!******************************!
+[laytonv16.txt]
+Ha ha! Ah...
+!******************************!
+[laytonv17.txt]
+A esposa de...
+!******************************!
+[laytonv18.txt]
+Parece que ela...
+!******************************!
+[laytonv19.txt]
+Ho ho! Bom...
+!******************************!
+[laytonv2.txt]
+Ah, não...
+!******************************!
+[laytonv20.txt]
+Devemos estar...
+!******************************!
+[laytonv21.txt]
+Lady Dahlia...
+!******************************!
+[laytonv22.txt]
+Ela quer ver...
+!******************************!
+[laytonv23.txt]
+Você se importa...
+!******************************!
+[laytonv24.txt]
+Muito bem então...
+!******************************!
+[laytonv25.txt]
+Você está certo... 
+!******************************!
+[laytonv26.txt]
+Ha ha ha!
+Receio... 
+!******************************!
+[laytonv27.txt]
+De qualquer
+modo...
+!******************************!
+[laytonv28.txt]
+Palpite 1
+!******************************!
+[laytonv29.txt]
+Palpite 2
+!******************************!
+[laytonv3.txt]
+Mas suponho...
+!******************************!
+[laytonv30.txt]
+Palpite 3
+!******************************!
+[laytonv31.txt]
+Resposta Certa 1
+!******************************!
+[laytonv32.txt]
+Resposta Certa 2
+!******************************!
+[laytonv33.txt]
+Resposta Certa 3
+!******************************!
+[laytonv34.txt]
+Resposta Errada 1
+!******************************!
+[laytonv35.txt]
+Resposta Errada 2
+!******************************!
+[laytonv36.txt]
+Resposta Errada 3
+!******************************!
+[laytonv4.txt]
+Dois meses...
+!******************************!
+[laytonv5.txt]
+Pouco tempo
+depois...
+!******************************!
+[laytonv6.txt]
+O tesouro...
+!******************************!
+[laytonv7.txt]
+Para quem...
+!******************************!
+[laytonv8.txt]
+Naturalmente...
+!******************************!
+[laytonv9.txt]
+Mas, no final...
+!******************************!
+[laytonvs1.txt]
+Luke, meu garoto, você realmente acha
+que eu aceitaria um simples pedido como
+esse?
+!******************************!
+[laytonvs10.txt]
+Acontece que ninguém sequer tinha ouvido
+falar de que tal tesouro existia até a
+sua menção no testamento.
+!******************************!
+[laytonvs11.txt]
+E como! Augustus Reinhold apostou sua
+fortuna inteira apenas para criar mais
+um enigma antes de sua morte.
+!******************************!
+[laytonvs12.txt]
+Que indivíduo desconcertante!
+Gostaria de tê-lo conhecido
+quando ainda estava vivo.
+!******************************!
+[laytonvs13.txt]
+Uns especulam ser uma antiguidade rara,
+outros dizem que poderia ser uma joia,
+mas sua identidade continua indefinida.
+!******************************!
+[laytonvs14.txt]
+Mas, Luke, eu tenho a sensação de que
+essa questão está relacionada a algum
+mistério maior. Algo grande.
+!******************************!
+[laytonvs15.txt]
+Hum. Bem, nosso primeiro
+passo é chegar à cidade.
+!******************************!
+[laytonvs16.txt]
+Ha ha! Ah, Luke, você sabe tão bem
+quanto eu que não sou detetive.
+!******************************!
+[laytonvs17.txt]
+A esposa de Augustus Reinhold,
+Lady Dahlia, pediu-me para
+investigar a situação.
+!******************************!
+[laytonvs18.txt]
+Parece que ela chegou ao meu nome por
+acaso quando estava lendo um artigo
+sobre mim nos jornais.
+!******************************!
+[laytonvs19.txt]
+Ho ho! Bom, Luke, um verdadeiro
+cavalheiro jamais recusa o pedido
+de uma bela donzela.
+!******************************!
+[laytonvs2.txt]
+Ah, não! Trata-se de uma circunstância
+única e interessante que despertou minha
+curiosidade intelectual.
+!******************************!
+[laytonvs20.txt]
+Devemos estar chegando à cidade agora.
+Olhe o mapa dentro do envelope e me
+ajude com as direções.
+!******************************!
+[laytonvs21.txt]
+Lady Dahlia parece nos ter dado um
+teste. Vamos precisar decifrar este
+mapa se quisermos encontrar a vila.
+!******************************!
+[laytonvs22.txt]
+Ela quer ver se somos capazes de
+desvendar o mistério que envolve
+a fortuna Reinhold.
+!******************************!
+[laytonvs23.txt]
+Você se importa em tentar, Luke?
+!******************************!
+[laytonvs24.txt]
+Muito bem então, Luke. Vou deixar
+este para você. Pense nisso como um
+aperitivo para as coisas que virão.
+!******************************!
+[laytonvs25.txt]
+Você está certo. Devemos vê-la
+no horizonte a qualquer momento.
+!******************************!
+[laytonvs26.txt]
+Ha ha ha! Receio dizer que não pude
+evitar. Em enigma básico tão fácil como
+esse resolve-se num piscar de olhos.
+!******************************!
+[laytonvs27.txt]
+De qualquer modo, é melhor juntar
+suas coisas, Luke. Nós chegamos.
+!******************************!
+[laytonvs3.txt]
+Mas suponho que seja melhor explicar
+o caso antes de chegarmos ao nosso
+destino.
+!******************************!
+[laytonvs4.txt]
+Dois meses atrás, o Barão
+Augustus Reinhold faleceu.
+!******************************!
+[laytonvs5.txt]
+Pouco tempo depois de sua morte, seu
+testamento foi aberto. O seu conteúdo
+era intrigante, para dizer o mínimo.
+!******************************!
+[laytonvs6.txt]
+"O tesouro da família Reinhold, a Maçã
+Dourada, está escondido em algum lugar
+dentro desta vila.
+!******************************!
+[laytonvs7.txt]
+Para quem localizar com sucesso este
+tesouro, eu ofereço a totalidade dos
+meus bens."
+!******************************!
+[laytonvs8.txt]
+Naturalmente, aqueles que assitiram à
+leitura do testamento, imediatamente
+sairam em busca da Maçã Dourada.
+!******************************!
+[laytonvs9.txt]
+Mas, no final, todo mundo
+voltou de mãos vazias. 
+!******************************!
+[lukev1.txt]
+Eu não entendo,
+Professor.
+!******************************!
+[lukev10.txt]
+Pode deixar...
+!******************************!
+[lukev11.txt]
+O que...?
+!******************************!
+[lukev12.txt]
+Farei o meu
+melhor...
+!******************************!
+[lukev13.txt]
+Lá vamos nós!
+!******************************!
+[lukev14.txt]
+Hã?
+!******************************!
+[lukev15.txt]
+Palpite 1
+!******************************!
+[lukev16.txt]
+Palpite 2
+!******************************!
+[lukev17.txt]
+Palpite 3
+!******************************!
+[lukev18.txt]
+Resposta Certa 1
+!******************************!
+[lukev19.txt]
+Resposta Certa 2
+!******************************!
+[lukev2.txt]
+Uau, isso é...
+!******************************!
+[lukev20.txt]
+Resposta Certa 3
+!******************************!
+[lukev21.txt]
+Resposta Errada 1
+!******************************!
+[lukev22.txt]
+Resposta Errada 2
+!******************************!
+[lukev23.txt]
+Resposta Errada 3
+!******************************!
+[lukev3.txt]
+Realmente...
+!******************************!
+[lukev4.txt]
+A propósito...
+!******************************!
+[lukev5.txt]
+Aha! Esso é...?
+!******************************!
+[lukev6.txt]
+Isso tudo é tão... 
+!******************************!
+[lukev7.txt]
+Espero...
+!******************************!
+[lukev8.txt]
+E você...
+!******************************!
+[lukev9.txt]
+Se é isso que
+diz...
+!******************************!
+[lukevs1.txt]
+Eu não entendo, Professor.
+Por que estamos indo ajudar
+a resolver uma disputa por herança?
+!******************************!
+[lukevs10.txt]
+Pode deixar, Professor!
+!******************************!
+[lukevs11.txt]
+O que...?! O que é isso?
+!******************************!
+[lukevs12.txt]
+Farei o meu melhor! Um enigma como
+esse não deve ser problema para o
+aprendiz do grande Professor Layton.
+!******************************!
+[lukevs13.txt]
+Lá vamos nós! Agora seremos capazes
+de percorrer o caminho até a vila.
+!******************************!
+[lukevs14.txt]
+Hã? Professor, você quer dizer que já
+descobriu a localização da vila?
+!******************************!
+[lukevs2.txt]
+Uau, isso que é enigma, não é?
+!******************************!
+[lukevs3.txt]
+Realmente parece que vocês dois teriam
+muita afinidade, Professor!
+!******************************!
+[lukevs4.txt]
+A propósito, o que seria essa
+Maçã Dourada afinal?
+!******************************!
+[lukevs5.txt]
+Aha! Essa é a sua famosa intuição
+atuando novamente, Professor?
+!******************************!
+[lukevs6.txt]
+Isso tudo é tão interessante!
+!******************************!
+[lukevs7.txt]
+Espero que St. Mystère esteja pronta
+para o ilustre arqueólogo e detetive
+resolvedor de enigmas, Hershel Layton!
+!******************************!
+[lukevs8.txt]
+E você imediatamente decidiu
+aceitar o pedido dela?
+!******************************!
+[lukevs9.txt]
+Se é isso que diz, Professor...
+!******************************!
+[music1.txt]
+Tema do Professor Layton
+!******************************!
+[music10.txt]
+Cafeteria de Crumm
+!******************************!
+[music11.txt]
+Perseguição à Noite
+!******************************!
+[music12.txt]
+A Garota Misteriosa
+!******************************!
+[music13.txt]
+O Parque de Diversões
+!******************************!
+[music14.txt]
+O Grande Don Paolo
+!******************************!
+[music15.txt]
+A Vila Acorda
+!******************************!
+[music16.txt]
+A Imponente Torre
+!******************************!
+[music17.txt]
+Memórias de St. Mystère
+!******************************!
+[music18.txt]
+Partindo
+!******************************!
+[music19.txt]
+Tema Final
+!******************************!
+[music2.txt]
+A Aventura Começa
+!******************************!
+[music3.txt]
+St. Mystère
+!******************************!
+[music4.txt]
+Sobre a Vila
+!******************************!
+[music5.txt]
+Enigmas
+!******************************!
+[music6.txt]
+Barão Reinhold 
+!******************************!
+[music7.txt]
+A Complexa Trama
+!******************************!
+[music8.txt]
+Esgoto Abaixo
+!******************************!
+[music9.txt]
+O Véu da Noite
+!******************************!
+[n_0.txt]
+Layton
+!******************************!
+[n_1.txt]
+Luke
+!******************************!
+[n_10.txt]
+Gordon
+!******************************!
+[n_11.txt]
+Simon
+!******************************!
+[n_12.txt]
+Claudia
+!******************************!
+[n_13.txt]
+Deke
+!******************************!
+[n_14.txt]
+Beatrice
+!******************************!
+[n_15.txt]
+Agnes
+!******************************!
+[n_16.txt]
+Pauly
+!******************************!
+[n_17.txt]
+Crouton
+!******************************!
+[n_18.txt]
+Nick
+!******************************!
+[n_19.txt]
+Rodney
+!******************************!
+[n_2.txt]
+Franco
+!******************************!
+[n_20.txt]
+Inspetor Chelmey
+!******************************!
+[n_21.txt]
+Lucy
+!******************************!
+[n_22.txt]
+Zappone
+!******************************!
+[n_23.txt]
+Gerard
+!******************************!
+[n_24.txt]
+Jarvis
+!******************************!
+[n_25.txt]
+Adrea
+!******************************!
+[n_26.txt]
+Pavel
+!******************************!
+[n_27.txt]
+Crumm
+!******************************!
+[n_28.txt]
+Prosciutto
+!******************************!
+[n_29.txt]
+Archibald
+!******************************!
+[n_3.txt]
+Stachenscarfen
+!******************************!
+[n_30.txt]
+Sylvain
+!******************************!
+[n_31.txt]
+Martha
+!******************************!
+[n_32.txt]
+Giuseppe
+!******************************!
+[n_33.txt]
+Augustus Reinhold
+!******************************!
+[n_34.txt]
+O Laytonmóvel
+!******************************!
+[n_35.txt]
+Flora
+!******************************!
+[n_36.txt]
+Vovó Riddleton
+!******************************!
+[n_37.txt]
+Don Paolo
+!******************************!
+[n_38.txt]
+Bruno
+!******************************!
+[n_39.txt]
+Flora
+!******************************!
+[n_4.txt]
+Ingrid
+!******************************!
+[n_5.txt]
+Percy
+!******************************!
+[n_6.txt]
+Marco
+!******************************!
+[n_7.txt]
+Ramon
+!******************************!
+[n_8.txt]
+Matthew
+!******************************!
+[n_9.txt]
+Lady Dahlia
+!******************************!

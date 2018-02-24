@@ -1,0 +1,172 @@
+[t_0.txt]
+Ao meu querido amigo,
+%s,
+!******************************!
+[t_1.txt]
+Eu não entendo, Professor. 
+Por que estamos indo ajudar a 
+resolver uma disputa por herança?
+!******************************!
+[t_10.txt]
+Uns especulam ser uma antiguidade rara,
+outros dizem que poderia ser uma joia,
+mas sua identidade continua indefinida.<W>
+!------------------------------!
+Mas, Luke, eu tenho a sensação de que
+essa questão está relacionada a algum
+mistério ainda maior. Algo grande.
+!******************************!
+[t_11.txt]
+Aha! Essa é a sua famosa intuição
+atuando novamente, Professor?
+!******************************!
+[t_12.txt]
+Hum. Bem, nosso primeiro 
+passo é chegar à cidade.
+!******************************!
+[t_13.txt]
+Isso tudo é tão interessante!<W>
+!------------------------------!
+Espero que St. Mystère esteja pronta
+para o ilustre arqueólogo e detetive 
+resolvedor de enigmas, Hershel Layton!
+!******************************!
+[t_14.txt]
+Ha ha! Ah, Luke, você sabe tão bem
+quanto eu que não sou detetive.<W>
+!------------------------------!
+A esposa de Augustus Reinhold, 
+Lady Dahlia, pediu-me para 
+investigar a situação.<W>
+!------------------------------!
+Parece que ela chegou ao meu nome por
+acaso quando estava lendo um artigo 
+sobre mim nos jornais.
+!******************************!
+[t_15.txt]
+Se você diz, Professor...
+!******************************!
+[t_16.txt]
+Devemos estar chegando à cidade agora.
+Olhe o mapa dentro do envelope e me
+ajude com as direções.
+!******************************!
+[t_17.txt]
+Pode deixar, Professor!
+!******************************!
+[t_18.txt]
+Lady Dahlia parece ter nos dado um 
+teste. Vamos precisar decifrar este
+mapa se quisermos encontrar a vila.<W>
+!------------------------------!
+Ela quer ver se somos capazes de
+desvendar o mistério que envolve
+a fortuna Reinhold.<W>
+!------------------------------!
+Você se importa em tentar, Luke?
+!******************************!
+[t_19.txt]
+Um enigma como esse não deve ser
+problema para o aprendiz do grande 
+Professor Layton.
+!******************************!
+[t_2.txt]
+Luke, meu garoto, você realmente acha
+que eu aceitaria um simples pedido como
+esse?<W>
+!------------------------------!
+Ah, não! Trata-se de uma circunstância
+única e interessante que despertou minha
+curiosidade intelectual.<W>
+!------------------------------!
+Mas suponho que seja melhor explicar 
+o caso antes de chegarmos ao nosso 
+destino.
+!******************************!
+[t_20.txt]
+Muito bem então, Luke. Vou deixar 
+esse para você. Pense nisto como um 
+aperitivo para as coisas que virão.
+!******************************!
+[t_21.txt]
+Lá vamos nós! Agora seremos capazes
+de percorrer o caminho até a vila.
+!******************************!
+[t_22.txt]
+Você está certo. Devemos vê-la 
+no horizonte a qualquer momento.
+!******************************!
+[t_23.txt]
+Hã? Professor, você quer dizer que já
+descobriu a localização da vila?
+!******************************!
+[t_24.txt]
+Ha ha ha! Receio dizer que não pude
+evitar. Um enigma básico tão fácil como
+esse resolve-se num piscar de olhos.
+!******************************!
+[t_25.txt]
+De qualquer jeito, é melhor juntar 
+suas coisas, Luke. Nós chegamos.
+!******************************!
+[t_3.txt]
+Dois meses atrás, o Barão
+Augustus Reinhold faleceu.<W>
+!------------------------------!
+Pouco tempo depois de sua morte, seu
+testamento foi aberto. O seu conteúdo
+era intrigante, para dizer o mínimo.
+!******************************!
+[t_37.txt]
+O que...?! O que é isso?
+!******************************!
+[t_38.txt]
+E você imediatamente decidiu 
+aceitar o pedido dela?
+!******************************!
+[t_39.txt]
+Ho ho! Bom, Luke, um verdadeiro
+cavalheiro jamais recusa o pedido
+de uma bela donzela.
+!******************************!
+[t_4.txt]
+"O tesouro da família Reinhold, a Maçã
+Dourada, está escondido em algum lugar
+dentro desta vila.<W>
+!------------------------------!
+Para quem localizar com sucesso esse
+tesouro, eu ofereço a totalidade dos
+meus bens."
+!******************************!
+[t_5.txt]
+Naturalmente, aqueles que assistiram à
+leitura do testamento, imediatamente
+saíram em busca da Maçã Dourada.<W>
+!------------------------------!
+Mas, no final, todo mundo
+voltou de mãos vazias. 
+!******************************!
+[t_6.txt]
+Acontece que ninguém sequer tinha ouvido
+falar de que tal tesouro existia até a
+sua menção no testamento.
+!******************************!
+[t_7.txt]
+Uau, isso que é enigma, hein?
+!******************************!
+[t_8.txt]
+E como! Augustus Reinhold apostou sua
+fortuna inteira apenas para criar mais
+um enigma antes de sua morte.<W>
+!------------------------------!
+Que indivíduo desconcertante!
+Gostaria de tê-lo conhecido 
+quando ainda estava vivo.
+!******************************!
+[t_9.txt]
+Realmente parece que vocês dois teriam
+muita afinidade, Professor!<W>
+!------------------------------!
+A propósito, o que seria essa
+Maçã Dourada afinal?
+!******************************!

@@ -1,0 +1,270 @@
+[m10_0.txt]
+No, Inspector, it has quite a bit to do with you.
+!******************************!
+[m10_1.txt]
+Meaning?
+!******************************!
+[m10_10.txt]
+save your hide.
+!******************************!
+[m10_2.txt]
+Isn't it obvious?
+!******************************!
+[m10_3.txt]
+If there is any criminal element involved in this case...
+!******************************!
+[m10_4.txt]
+Then it is you, sir!
+!******************************!
+[m10_5.txt]
+What?! That's absurd!
+!******************************!
+[m10_6.txt]
+Hey! Calm down!
+!******************************!
+[m10_7.txt]
+Hm?
+!******************************!
+[m10_8.txt]
+What utter rubbish!
+!******************************!
+[m10_9.txt]
+You'll need more than some daft charge to
+!******************************!
+[m11_0.txt]
+It... It's you!
+!******************************!
+[m11_1.txt]
+Huh?
+!******************************!
+[m11_2.txt]
+What's this?! What's going on here?!
+!******************************!
+[m11_3.txt]
+My boy, what you see here is the "Golden Apple" herself.
+!******************************!
+[m12_0.txt]
+What's going on?
+!******************************!
+[m12_1.txt]
+Here I come!
+!******************************!
+[m12_2.txt]
+No!
+!******************************!
+[m12_3.txt]
+Ready or not!
+!******************************!
+[m12_4.txt]
+Ah! Follow me!
+!******************************!
+[m12_5.txt]
+Come now!
+!******************************!
+[m13_0.txt]
+Professor!
+!******************************!
+[m13_1.txt]
+Luke, go ahead without us! I have an idea!
+!******************************!
+[m13_2.txt]
+But...
+!******************************!
+[m13_3.txt]
+We're fine! Go on!
+!******************************!
+[m13_4.txt]
+Er... all right!
+!******************************!
+[m13_5.txt]
+It's all right, dear. This way.
+!******************************!
+[m14_0.txt]
+Layton!
+!******************************!
+[m14_1.txt]
+I'll smash you right out of the sky!!
+!******************************!
+[m14_2.txt]
+No!
+!******************************!
+[m14_3.txt]
+This isn't over yet, Layton! Just you wait!
+!******************************!
+[m14_4.txt]
+One day, I WILL have my revenge on you!
+!******************************!
+[m14_5.txt]
+Hold tight!
+!******************************!
+[m15_0.txt]
+Hmm?
+!******************************!
+[m16_0.txt]
+Goodbye then, little village.
+!******************************!
+[m16_1.txt]
+Cor, what an astonishing village that was, Professor!
+!******************************!
+[m16_10.txt]
+Of course! Always thinking of others...
+!******************************!
+[m16_11.txt]
+Aha ha ha!
+!******************************!
+[m16_12.txt]
+Well, one must always put a lady's needs first.
+!******************************!
+[m16_13.txt]
+That's what a gentleman does.
+!******************************!
+[m16_2.txt]
+Does this mean you'll be gracing the front pages
+!******************************!
+[m16_3.txt]
+of the London papers again sometime soon?
+!******************************!
+[m16_4.txt]
+No, Luke.
+!******************************!
+[m16_5.txt]
+St Mystere's secret must stay between us.
+!******************************!
+[m16_6.txt]
+Huh?! Why do you say that?
+!******************************!
+[m16_7.txt]
+You see, my dear boy,
+!******************************!
+[m16_8.txt]
+we don't want people to make a spectacle of Flora.
+!******************************!
+[m16_9.txt]
+That wouldn't be right.
+!******************************!
+[m4_0.txt]
+Oh, you must be Professor Layton, I presume?
+!******************************!
+[m4_1.txt]
+It's an honour to make your acquaintance.
+!******************************!
+[m4_2.txt]
+Oh, no, the pleasure's all mine.
+!******************************!
+[m4_3.txt]
+Oh, no! Claudia, darling! Come back, sweetie!
+!******************************!
+[m4_4.txt]
+Wh-whoa!
+!******************************!
+[m6_0.txt]
+Luke!
+!******************************!
+[m6_1.txt]
+Huh?
+!******************************!
+[m6_2.txt]
+Sir! Hold it there!
+!******************************!
+[m6_3.txt]
+Right behind you!
+!******************************!
+[m6_4.txt]
+Huh?
+!******************************!
+[m6_5.txt]
+Huh?
+!******************************!
+[m6_6.txt]
+My word...
+!******************************!
+[m8_0.txt]
+Hmm... Hmm?
+!******************************!
+[m8_1.txt]
+What?
+!******************************!
+[m8_2.txt]
+And who might you be?
+!******************************!
+[m8_3.txt]
+Well, I'd rather not say.
+!******************************!
+[m8_4.txt]
+Huh? Why not? What are you hiding?!
+!******************************!
+[m8_5.txt]
+We seek access to the tower.
+!******************************!
+[m8_6.txt]
+Do you think you could help us, Miss?
+!******************************!
+[m8_7.txt]
+The tower? Hmm...
+!******************************!
+[m8_8.txt]
+Oh, wait!
+!******************************!
+[m9_0.txt]
+Hmm?
+!******************************!
+[m9_1.txt]
+Hmm?
+!******************************!
+[m9_2.txt]
+What on earth?!
+!******************************!
+[m9_3.txt]
+Professor!
+!******************************!
+[m9_4.txt]
+Get away, Luke. Run!
+!******************************!
+[m9_5.txt]
+Professor! I think it's chasing after us!
+!******************************!
+[m9_6.txt]
+That's preposterous!
+!******************************!
+[m9_7.txt]
+Hmm?
+!******************************!
+[m9_8.txt]
+Luke!
+!******************************!
+[m9_9.txt]
+Blast!
+!******************************!
+[sel137_0.txt]
+What's Chelmey's favourite food?
+!******************************!
+[sel137_1.txt]
+1. A sandwich on buttered bread.
+!******************************!
+[sel137_2.txt]
+2. Hot, juicy roast beef.
+!******************************!
+[sel137_3.txt]
+3. Fresh cakes.
+!******************************!
+[sel141_0.txt]
+When did the drawbridge shut down?
+!******************************!
+[sel141_1.txt]
+1. During our search for Claudia.
+!******************************!
+[sel141_2.txt]
+2. After Ramon went missing.
+!******************************!
+[sel141_3.txt]
+3. This morning, after we received     the inspector's summons.
+!******************************!
+[sel343_0.txt]
+You've reached the top of the tower!
+!******************************!
+[sel343_1.txt]
+1. Continue into the house.
+!******************************!
+[sel343_2.txt]
+2. Return to the village to     explore more.
+!******************************!

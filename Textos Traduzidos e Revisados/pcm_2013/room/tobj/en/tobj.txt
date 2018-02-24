@@ -1,0 +1,469 @@
+[t_0.txt]
+Você encontrou
+uma moeda de dica!
+!******************************!
+[t_1.txt]
+Que tempo mais estranho
+tem esta vila.
+!******************************!
+[t_10.txt]
+Que tipo de loja é
+essa afinal?
+!******************************!
+[t_100.txt]
+O chão foi encerado até
+adquirir um brilho
+reluzente.
+!******************************!
+[t_101.txt]
+Aquelas flores parecem
+ter vindo do jardim.
+!******************************!
+[t_102.txt]
+Um mapa do parque. Está
+amarelado pelo tempo.
+!******************************!
+[t_103.txt]
+Ah, aquilo parece a lona
+de um circo. Mas pelo jeito
+não há ninguém dentro.
+!******************************!
+[t_104.txt]
+Isto foi uma bilheteria
+uma dia, mas agora está
+vazia.
+!******************************!
+[t_105.txt]
+Aqui diz: "Não jogue
+lixo no lago!"
+!******************************!
+[t_106.txt]
+Este lugar devia ser usado
+para vender coisas, mas
+não há ninguém aqui.
+!******************************!
+[t_107.txt]
+Fico imaginando por que
+a roda-gigante tentou nos
+pegar?
+!******************************!
+[t_11.txt]
+Gostaria de saber se
+esse hotel recebe muitos
+hóspedes de fora.
+!******************************!
+[t_12.txt]
+Humm...
+!******************************!
+[t_13.txt]
+Parece que existe
+um parque lá atrás.
+!******************************!
+[t_14.txt]
+É o menu do restaurante.
+!******************************!
+[t_15.txt]
+Gostaria de saber para
+que serve este sinal.
+!******************************!
+[t_16.txt]
+Apenas formulários e
+canetas até onde os olhos
+conseguem ver. Bleh.
+!******************************!
+[t_17.txt]
+Melhor não tocar em nada,
+ou aquele homem vai ter
+um ataque!
+!******************************!
+[t_18.txt]
+Aquilo na parede são
+formulários emoldurados!
+Que perdedor!
+!******************************!
+[t_19.txt]
+Há uma cama aqui... Será
+que ele mora no centro
+comunitário da vila?
+!******************************!
+[t_2.txt]
+Nós poderíamos atravessar
+a nado, mas a água está
+terrivelmente gelada.
+!******************************!
+[t_20.txt]
+É um lindo lustre, mas
+ele está todo manchado.
+!******************************!
+[t_21.txt]
+Os moradores devem
+gostar muito de... bege.
+!******************************!
+[t_22.txt]
+O pão e o queijo daqui
+são tudo, menos frescos.
+Eca!
+!******************************!
+[t_23.txt]
+Tudo por aqui está
+coberto de pó.
+!******************************!
+[t_24.txt]
+Parece que ninguém está
+trabalhando na loja.
+!******************************!
+[t_25.txt]
+É o retrato de um homem.
+Quem será ele?
+!******************************!
+[t_26.txt]
+Essas escadas levam
+ao primeiro andar.
+!******************************!
+[t_27.txt]
+Acho que sinto cheiro de
+pão assando vindo de lá.
+!******************************!
+[t_28.txt]
+Os negócios parecem
+parados agora.
+!******************************!
+[t_29.txt]
+Eu não me importaria
+de um copo de suco de
+laranja...
+!******************************!
+[t_3.txt]
+Então está dizendo
+que quer ir para casa?
+!******************************!
+[t_30.txt]
+Que tipo de arruaceiro
+joga lixo onde quer que
+lhe dê na telha?
+!******************************!
+[t_31.txt]
+Parque Reinhold
+Abertura: 10 da manhã
+Fechamento: 5 da tarde
+!******************************!
+[t_32.txt]
+Este parque é tão
+grande que chega a
+lembrar uma floresta.
+!******************************!
+[t_33.txt]
+O que poderia ser aquilo?
+!******************************!
+[t_34.txt]
+Uau, pode se imaginar
+morando num lugar enorme
+como esse?
+!******************************!
+[t_35.txt]
+Pode-se ver a vila inteira
+lá de cima.
+!******************************!
+[t_36.txt]
+Aposto que esse riacho
+se liga ao rio lá fora.
+!******************************!
+[t_37.txt]
+O jardim é grande, mas
+não há muito o que se ver
+por aqui...
+!******************************!
+[t_38.txt]
+Parece que está fechado.
+Vamos voltar mais tarde.
+!******************************!
+[t_39.txt]
+Como é que uma pousada
+se mantém aqui?
+!******************************!
+[t_4.txt]
+Essa ponte levadiça não
+vai sair do lugar sem um
+operador. 
+!******************************!
+[t_40.txt]
+Uma homem está
+bloqueando nosso
+caminho até a mansão.
+!******************************!
+[t_41.txt]
+Professor, temor que ir
+para a mansão, certo?
+!******************************!
+[t_42.txt]
+A porta está trancada.
+Chelmey está realizando
+sua investigação.
+!******************************!
+[t_43.txt]
+Aquilo é uma
+roda-gigante.
+!******************************!
+[t_44.txt]
+Que lixão!
+!******************************!
+[t_45.txt]
+Uma roda-gigante
+das grandes.
+!******************************!
+[t_46.txt]
+Poderia ser isto
+outro retrato da
+família Reinhold?
+!******************************!
+[t_47.txt]
+O lustre lança um
+brilho quente e
+encantador.
+!******************************!
+[t_48.txt]
+Será que o barão tem
+alguns dos meus livros
+favoritos?
+!******************************!
+[t_49.txt]
+Pela sua aparência,
+esta lareira não tem sido
+usada há muito tempo.
+!******************************!
+[t_5.txt]
+Parece que isso
+não vai abrir tão cedo.
+!******************************!
+[t_50.txt]
+Melhor não sair correndo
+por aqui. Parece um pouco
+perigoso.
+!******************************!
+[t_51.txt]
+Há algo um pouco
+sombrio e triste
+sobre este lugar.
+!******************************!
+[t_52.txt]
+Será que alguém
+vive aqui?
+!******************************!
+[t_53.txt]
+Parece que a cafeteria
+ainda não abriu.
+!******************************!
+[t_54.txt]
+Parece que poucas
+pessoas vivem aqui.
+!******************************!
+[t_55.txt]
+As letras estão tão
+borradas que não consigo
+ler isto.
+!******************************!
+[t_56.txt]
+Este mercado está
+lotado de coisas
+para comprar.
+!******************************!
+[t_57.txt]
+Talvez devêssemos
+parar para uma pausa.
+!******************************!
+[t_58.txt]
+Está assustadoramente
+quieto aqui...
+!******************************!
+[t_59.txt]
+Subir até lá parece
+ser perigoso.
+!******************************!
+[t_6.txt]
+Gostaria de saber
+aonde esta porta leva.
+!******************************!
+[t_60.txt]
+Nenhuma alma parece
+viver aqui.
+!******************************!
+[t_61.txt]
+Centro Comunitário da Vila
+Abertura: 10 da manhã
+Fechamento: 5 da tarde
+!******************************!
+[t_62.txt]
+Aquela torre parece
+ainda mais assustadora
+à noite.
+!******************************!
+[t_63.txt]
+Estes livros são
+muito grossos.
+!******************************!
+[t_64.txt]
+Esta carta parece
+ter sido deixada
+inacabada.
+!******************************!
+[t_65.txt]
+Que bela ampulheta.
+!******************************!
+[t_66.txt]
+Que adorável artesanato.
+!******************************!
+[t_67.txt]
+Parece que teremos
+que esperar até a
+ponte abaixar.
+!******************************!
+[t_68.txt]
+St. Mystère é rodeada
+por bosques fechados.
+!******************************!
+[t_69.txt]
+Há uma luz lá dentro.
+Engraçado, ninguém estava
+aqui durante o dia.
+!******************************!
+[t_7.txt]
+Parece ser a torre
+do relógio.
+!******************************!
+[t_70.txt]
+Devemos voltar a
+procurar o Ramon.
+!******************************!
+[t_71.txt]
+O lugar parece fechado.
+!******************************!
+[t_72.txt]
+Olha o tamanho
+deste lugar!
+!******************************!
+[t_73.txt]
+Acho que o parque
+está fechado agora.
+!******************************!
+[t_74.txt]
+Este lugar está fechado
+agora. Nós podemos 
+voltar amanhã.
+!******************************!
+[t_75.txt]
+Caramba, esta torre é
+realmente grande.
+!******************************!
+[t_76.txt]
+Esta loja parece
+vender todo tipo
+de coisa.
+!******************************!
+[t_77.txt]
+Um bueiro. Não seria mau
+levantar a tampa e dar
+uma olhada.
+!******************************!
+[t_78.txt]
+É apenas um
+pote de leite.
+!******************************!
+[t_79.txt]
+É uma banheira
+comum.
+!******************************!
+[t_8.txt]
+Há algo muito
+curioso sobre
+aquela torre.
+!******************************!
+[t_80.txt]
+Apenas uma
+caixa vazia.
+!******************************!
+[t_81.txt]
+Nada para se
+ver aqui.
+!******************************!
+[t_82.txt]
+Há algumas pequenas
+pinturas aqui.
+!******************************!
+[t_83.txt]
+Receio que seja
+apenas uma garrafa
+vazia.
+!******************************!
+[t_84.txt]
+Ai! Quente! Quente!
+!******************************!
+[t_85.txt]
+Que vaso curioso.
+Todas as flores nele
+estão murchas.
+!******************************!
+[t_86.txt]
+É um antigo retrato
+um pouco danificado.
+!******************************!
+[t_87.txt]
+Todas essas gavetas
+estão completamente
+vazias.
+!******************************!
+[t_88.txt]
+Não, esse não
+é o local.
+!******************************!
+[t_89.txt]
+Agora, Luke,
+é importante ser
+um cavalheiro.
+!******************************!
+[t_9.txt]
+Aquela construção no
+topo da colina deve ser
+a Mansão Reinhold.
+!******************************!
+[t_90.txt]
+Ah, você gostou do
+rabo de cavalo da
+Flora, não é?
+!******************************!
+[t_91.txt]
+Quem quer que tenha
+pintado isto tinha muita
+atenção aos detalhes.
+!******************************!
+[t_92.txt]
+Aquele vestido é
+muito charmoso, não é?
+!******************************!
+[t_93.txt]
+Você está apertando
+as mãos da pintura?
+!******************************!
+[t_94.txt]
+Cabana da Vovó Riddleton
+Fechado
+!******************************!
+[t_95.txt]
+Aonde isso vai?
+Vamos descobrir depois.
+!******************************!
+[t_96.txt]
+Estas cortinas são
+muito chiques!
+!******************************!
+[t_97.txt]
+Que vaso encantador.
+!******************************!
+[t_98.txt]
+É melhor tomar
+cuidado para não
+derrubar isso.
+!******************************!
+[t_99.txt]
+O jardim inteiro é
+visível desta janela.
+!******************************!

@@ -1,0 +1,67 @@
+[p_1.txt]
+algumas espinhas de peixe
+!******************************!
+[p_3.txt]
+um relógio de pulso
+!******************************!
+[sys_100.txt]
+Sobrescrever o arquivo
+"%s"?
+!******************************!
+[sys_101.txt]
+Salvar seu progresso?
+!******************************!
+[sys_102.txt]
+Salvar seu jogo finalizado?
+!******************************!
+[sys_200.txt]
+%s
+foi adicionado à sua 
+lista de Mistérios!
+!******************************!
+[sys_201.txt]
+Enigma %.3d
+"%s"
+está no seu Índice de Enigmas!
+!******************************!
+[sys_202.txt]
+Você completou todos os enigmas 
+no jogo! Belíssimo trabalho!
+!******************************!
+[sys_203.txt]
+Resolveu o enigma %.3d
+"%s"?
+!******************************!
+[sys_300.txt]
+Você conseguiu
+%s.
+!******************************!
+[sys_301.txt]
+Você pegou uma
+estranha bugiganga.
+!******************************!
+[sys_302.txt]
+Você pegou uma parte
+de uma pintura.
+!******************************!
+[sys_303.txt]
+%s.
+Onde isso vai?
+!******************************!
+[sys_304.txt]
+O item foi para o Layton.
+!******************************!
+[sys_305.txt]
+O item foi para o Luke.
+!******************************!
+[sys_400.txt]
+Enigma %.3d %s
+!******************************!
+[sys_500.txt]
+Código de Erro: %d[[0D]]
+ 
+!******************************!
+[sys_600.txt]
+Não foram encontrados
+dados salvos.
+!******************************!

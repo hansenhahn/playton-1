@@ -1,14 +1,14 @@
-Textos comprimidos:
-	Rodar dumper.py
-	Escolher opção 2, Inserir
-	Copiar os arquivos gerados na pasta "Arquivos Comprimidos" para "All Files".
-
-Textos plano:
-	
-
-Imagens:
-	Rodar imagens.py
-
-Splash:
-
-Montagem:
+Executar create_rom.bat
+	- Copiar alguns gráficos do espanhol (OK)
+	- Empacotar backgrounds (OK)
+	- Empacotar sprites (OK)
+	- Empacotar textos pcm (OK)
+	- Empacotar textos gds (NOK)
+	- Empacotas áudios (NOK)
+	- Copiar as fontes (OK)
+	- Montar splash (NOK)
+	- Copiar arm9 modificado (NOK)
+	- Copiar utility.bin (OK)
+	- Copiar banner.bin (OK)
+	- Montar a ROM nova (OK)
+	- Gerar patch (OK)

@@ -1,0 +1,1029 @@
+[c_1.txt]
+The car flattened the poor dog! Let this be a lesson to you - be aware of your surroundings when driving!
+!******************************!
+[c_10.txt]
+That's right!  Now those men don't even have to look at each other! Good job!
+!******************************!
+[c_11.txt]
+That's right!  To solve this puzzle with no guesswork, you must load three weights on each side of the scale for your first measurement. If you manage to get that far, the rest is easy.
+!******************************!
+[c_12.txt]
+Well done!  This puzzle can be solved in as few as  11 trips. How many trips did it take you?  Fun fact time! There are several variations of this type of river-crossing puzzle, and they've appeared in writings dating back to over 1,000 years ago.
+!******************************!
+[c_13.txt]
+Well done!  With all those blocks in the way, getting your ball to the goal was harder than you expected, wasn't it?
+!******************************!
+[c_14.txt]
+Well done!  If you keep at it long enough, you're sure to come across the solution. The shortest possible solution requires seven moves.  These liquid distribution problems have a very long history, with some examples dating back to medieval times.
+!******************************!
+[c_15.txt]
+Well done!  If you keep at it long enough, you'll  eventually come across the solution. The  shortest possible solution requires nine moves.
+!******************************!
+[c_16.txt]
+Nicely played!  Chess queen problems like this one have been around for over a century. This is a relatively simple variation of this type of puzzle. Consider it an introduction to the genre.
+!******************************!
+[c_17.txt]
+Very nice!  This one was a bit tougher than the 4x4 version, wasn't it? There's more than one answer for this puzzle, so if you really want a challenge, search for alternate solutions.
+!******************************!
+[c_18.txt]
+Good job!  Some people probably stumbled across the answer to this puzzle while they were working through the 5x5 chess problem.
+!******************************!
+[c_19.txt]
+You got it!  Since three queens were already in place before you began, there's only one possible solution for this problem.  What's that? You think it'd be more interesting if you had to place all eight queens by yourself?!
+!******************************!
+[c_2.txt]
+The answer is 59 minutes.  It takes one minute for a single germ to split into two. Therefore, starting with two germs instead of one only saves you one minute.
+!******************************!
+[c_20.txt]
+Well done!  You've finally worked your way up to an official size chessboard, 8x8. Because this classic puzzle requires the solver to place eight queens, it's known as the Eight Queens Puzzle.  If you consider rotations and mirrored solutions as separate answers, there are 92 answers to this puzzle. Without any of the above factors, there are only 12 answers.
+!******************************!
+[c_21.txt]
+Well done!  Now you can move forward.
+!******************************!
+[c_22.txt]
+You got it!  Doesn't spotting a star earn you a free wish?
+!******************************!
+[c_23.txt]
+Nice job!  Now drop that bridge!
+!******************************!
+[c_24.txt]
+That's correct!  The only village that isn't connected by roads to another village is the one in the upper-left area of the map.  It looks like you're all ready to start solving puzzles!
+!******************************!
+[c_25.txt]
+That's correct!  Do your part to keep St Mystere clean!
+!******************************!
+[c_26.txt]
+Good job!  Now go and wash up!
+!******************************!
+[c_27.txt]
+Well done!  It seems the fiend was hiding in the night sky. You certainly gave it what for!
+!******************************!
+[c_28.txt]
+Well done!  The shortest solution for this problem requires seven moves. How did you fare?
+!******************************!
+[c_29.txt]
+That's correct!  This challenging problem is well known to many puzzle aficionados. If you're lucky, it's possible to find the answer without too much work.  Think of how you could do this if you could use the scale as many times as you wanted.
+!******************************!
+[c_3.txt]
+That's correct!  Your first impulse might have been to  divide the 36 triangles by four, but a closer look shows that each four-triangle cluster is actually formed from three triangles.  When you apply this way of thinking to the larger shape, you end up with the answer pictured above. 
+!******************************!
+[c_30.txt]
+The liar here is C. A and C split your dinner and each ate half.  The answer becomes clear when you realise that if A is lying, B must be lying as well. The same thing happens when you assume that B is the liar. Therefore, the only possible answer is that C is lying, a scenario that only works if C actually did eat some of the fish.
+!******************************!
+[c_31.txt]
+That's right!  The dots on each die represent the hands on an analogue clock.
+!******************************!
+[c_32.txt]
+That's right!  You'll gather up nine coins when the rope is pulled taut. It's really quite a simple puzzle, but following every coin's path does take quite a bit of time.
+!******************************!
+[c_33.txt]
+That's right!  One metre (m) really is equal to 1,000 millimetres (mm). 
+!******************************!
+[c_34.txt]
+That's right!  There are two correct configurations possible. Did you manage to work out both?
+!******************************!
+[c_35.txt]
+Good job!  If you examine the connections for each ring, the answer is surprisingly easy, isn't it?
+!******************************!
+[c_36.txt]
+C ate the sausages, and the only person telling the truth here is D.  If you assume A to be the culprit, both C's and D's statements must be correct. Choose B, and the other three boys' statements must be true. If you make D out to be the culprit, then what both B and C are saying must be true.   None of these possibilities fit the conditions set forth in the puzzle.
+!******************************!
+[c_37.txt]
+That's right!  The first thing you need to light is the match itself! Without a fire source, how could you possibly start to take care of the lamp, bathwater or fireplace?
+!******************************!
+[c_38.txt]
+That's right!  Your mouse can't birth any babies by itself!
+!******************************!
+[c_39.txt]
+You got it!  In one minute, horse A will have done two laps, horse B will have done three laps, horse C will have done four laps, and all the horses will be lined up at the starting line.
+!******************************!
+[c_4.txt]
+That's right!  Working backwards is the easiest way to solve this problem. The sun rises in the east, so you must end up facing right on the map. To get there, you turn left, right and then right from the starting point. Working backwards, you start from a left-facing position, then turn left, left and right. This leaves you facing downwards. If that was your starting point you would be facing upwards, and there's only one house whose exit faces up.
+!******************************!
+[c_40.txt]
+That's right!  This is a very famous optical illusion.  An optical illusion is a visual phenomenon where your eyes perceive things differently than they actually are. There are dozens of known optical illusions.  What's the world coming to when you can't even trust your own eyes?
+!******************************!
+[c_41.txt]
+That's right!  Diagonal line AC is the exact same length as diagonal line BD. BD is the same length as the radius of the circle, so once you've worked that out, the only thing left to do is add five and five.
+!******************************!
+[c_42.txt]
+Good job!  This puzzle is fairly straightforward, but catching the subtle difference in the picture can take a while.
+!******************************!
+[c_43.txt]
+That's right!  Now get out there and enjoy that island paradise!
+!******************************!
+[c_44.txt]
+Very nice!  There's actually a very easy way to tell whether or not a given picture has been drawn in one stroke.  This method will be revealed to you after you solve one more of these riddles. 
+!******************************!
+[c_45.txt]
+Good job!  Since the man has to start taking his medicine today, the first thing he should do is take today's pill. Next, he should label the pills for days two through nine. If he does this, he shouldn't have to label the pill for the last day; it will be the only one without a label.  He only needs to label eight pills.
+!******************************!
+[c_46.txt]
+Well done!  Were you able to get the ball to the hole without shuffling back and forth too much?  If you had to move the ball lots of times to reach the goal, don't worry! Working out how to get to the goal in the fewest moves possible is an interesting puzzle in itself.
+!******************************!
+[c_47.txt]
+That's right!  Half of the father's age plus the son's age should give you the answer, which means that half the father's age must be equal to the son's age.   The son is 22, so the father must be 44.
+!******************************!
+[c_48.txt]
+That's right!  Jim is D. Steve and Mike are next to each other, and Tom is above Steve. Since you know Jim is not next to Tom, he must be on the lowest step, so he is D.  A is Tom, and Steve and Mike are B and C, although there is no way of knowing which is which with this information.
+!******************************!
+[c_49.txt]
+That's right!  For the first nine minutes the Ferris wheel is moving, the cars arriving at the unloading zone are unoccupied. For the last nine minutes of operation, needless to say, no one will be allowed to board the cars.  From the time the Ferris wheel fills up at 10 minutes past the hour until the last passenger steps off at 10:30, a total of 21 sets of passengers will have taken a ride on the Ferris wheel. 
+!******************************!
+[c_5.txt]
+That's right! The answer is the 6th day.  It's easy to fall into the trap of thinking that because the water level rises by 40cm each day, it will have risen to 2.40m by the 6th day, and therefore overflow the 2.5m deep tank on the 7th day. However, on the 6th day the water level actually starts at 200cm and rises by 60cm over the course of the day, overflowing the tank.
+!******************************!
+[c_6.txt]
+That's right!  There are 12 triangles in all. The roof and chimney count as one each, and you can easily spot the five small triangles inside the big star.  Was it hard to find all the big ones?
+!******************************!
+[c_7.txt]
+Five cats.  Five cats can catch five mice in five minutes. If the mouse hunt continues another five minutes, you can expect a total of 10 mice to get caught. In other words, the same five cats catch 10 mice in 10 minutes, and 20 mice in 20 minutes. It's simply a matter of how long the five cats work.
+!******************************!
+[c_8.txt]
+That's correct!  The seven candles that manage to stay lit will melt down completely. The only candles that remain in the end are the three that are extinguished by the wind and therefore stay intact.
+!******************************!
+[c_9.txt]
+That's right!  The interesting thing about this puzzle is the way the whole triangle changes shape with the simple shifting of a few coins.  The trick is to think about the corners on the first triangle. Then it's easy to see the changes you need to make.
+!******************************!
+[f_1.txt]
+Try again!  Because the dog was hit by a car, it's probably not walking anymore.  While it's all terribly sad, try to think about how the dog looked after the accident...
+!******************************!
+[f_10.txt]
+Too bad!  Don't give up! If you keep at it, there's no way you'll miss the answer!
+!******************************!
+[f_11.txt]
+Too bad!  The light weight changes each time you try the problem. Think about what you need to do and try again.
+!******************************!
+[f_12.txt]
+Too bad!
+!******************************!
+[f_13.txt]
+Too bad!
+!******************************!
+[f_14.txt]
+Too bad!
+!******************************!
+[f_15.txt]
+Too bad!
+!******************************!
+[f_16.txt]
+Too bad!
+!******************************!
+[f_17.txt]
+Too bad!
+!******************************!
+[f_18.txt]
+Too bad!
+!******************************!
+[f_19.txt]
+Too bad!
+!******************************!
+[f_2.txt]
+Too bad!  In one minute, one germ becomes two germs. In other words, the number of germs doubles by the minute. Straightforward, right?  It takes a full hour to fill the jar when you start with one germ, so...
+!******************************!
+[f_20.txt]
+Too bad!
+!******************************!
+[f_21.txt]
+Too bad!  Take another careful look at the picture. Don't forget to trace the figure neatly.
+!******************************!
+[f_22.txt]
+Too bad!  Take another careful look at the picture. Don't forget to trace the figure neatly.
+!******************************!
+[f_23.txt]
+Too bad!  Take a careful look at the picture. The shape of the slot will be the reverse of the crank.
+!******************************!
+[f_24.txt]
+Too bad!  If you quit now you'll never make it to the village. Give it another try.
+!******************************!
+[f_25.txt]
+Too bad!  Just move that one and that one right there...
+!******************************!
+[f_26.txt]
+Too bad!  The pipes are a mess, but give it another look anyway.
+!******************************!
+[f_27.txt]
+Too bad!  That beast is there somewhere, so keep searching.
+!******************************!
+[f_28.txt]
+Too bad!
+!******************************!
+[f_29.txt]
+Too bad!  The irregular weight changes each time you try the problem. Think about what you need to do and try again. 
+!******************************!
+[f_3.txt]
+Too bad!  Take another look at the two shapes and the puzzle, paying special attention to the phrases "enough ink to draw four little triangles" and "the shape on the right that's made up of 36 triangles."
+!******************************!
+[f_30.txt]
+Too bad!  Remember, you're looking for the liar in the bunch, not the person who ate your fish.
+!******************************!
+[f_31.txt]
+Too bad!  The answer relates to something you've seen thousands of times in your life. You might even be able to see one from where you're sitting right now.
+!******************************!
+[f_32.txt]
+Too bad!  Be patient and work steadily towards finding a solution.
+!******************************!
+[f_33.txt]
+Too bad!  The question talks about something that's 1,000 times something else, so perhaps this letter has something to do with size. 
+!******************************!
+[f_34.txt]
+Too bad!  Check your calculations and try again.
+!******************************!
+[f_35.txt]
+Too bad!  Take a closer look at the diagram.
+!******************************!
+[f_36.txt]
+Too bad!
+!******************************!
+[f_37.txt]
+Too bad!  Take a deep breath and think about it. That may not seem like much help, but you can do it.
+!******************************!
+[f_38.txt]
+Too bad!  Take a deep breath and think about it. That may not seem like much help, but you can do it.
+!******************************!
+[f_39.txt]
+Too bad!  Don't bother with complicated calculations.
+!******************************!
+[f_4.txt]
+Try again!  It would be an awful lot of work to check the directions from the doorstep of each house. If you end up facing the morning sun, you must be facing...
+!******************************!
+[f_40.txt]
+Too bad!  Look at things again.
+!******************************!
+[f_41.txt]
+No, no, no!  Look at things again. You shouldn't have to do any difficult calculations to get to the answer.
+!******************************!
+[f_42.txt]
+Nope!  Look at the problem again.
+!******************************!
+[f_43.txt]
+Nope!  Take another look at this puzzle.
+!******************************!
+[f_44.txt]
+Too bad!  It certainly looks like each picture was created in one stroke, but take a second look.
+!******************************!
+[f_45.txt]
+Too bad!  What conditions will allow you to get away with labelling fewer than all 10 pills?
+!******************************!
+[f_46.txt]
+Too bad!
+!******************************!
+[f_47.txt]
+Too bad!  "I'm as old as your age, plus half of my age."  So how many years is half the father's age?
+!******************************!
+[f_48.txt]
+Too bad!  This really isn't a difficult puzzle if you just take your time.
+!******************************!
+[f_49.txt]
+Too bad!  A car comes once a minute for 30 minutes. Two people can ride in each car.  It certainly sounds simple, but it's awfully easy to overlook some important facts surrounding this problem.
+!******************************!
+[f_5.txt]
+Too bad!  There's a hidden trap in this puzzle. You must avoid it to get the right answer.
+!******************************!
+[f_6.txt]
+Try again!  Take another look at the picture and count those triangles carefully.
+!******************************!
+[f_7.txt]
+Too bad!  Did you think that if five cats catch five mice in five minutes, then 100 mice will be caught by 100 cats in 100 minutes? Is that really the right answer?
+!******************************!
+[f_8.txt]
+Too bad!  Think about the problem one more time. The puzzle asks you to work out how many candles you have "left in the end", but what does that actually mean? 
+!******************************!
+[f_9.txt]
+Too bad!  You're going to have to think creatively if you want to change the triangle direction by moving only three coins.
+!******************************!
+[h_10_1.txt]
+You might think that this puzzle is impossible, but rest assured, it's not.  The first thing you should try to do is connect any pair of blocks. That'll limit where your next path can go. B's route is the shortest. Try enough times and you're sure to work it out.
+!******************************!
+[h_10_2.txt]
+The path between the b blocks is a straight line. D goes around to the north.
+!******************************!
+[h_10_3.txt]
+As stated earlier, connect the pair of b blocks with a straight line. Then connect the d blocks by drawing a path that arcs up over the b block path. A goes south then east.  Got it now?
+!******************************!
+[h_11_1.txt]
+You're not weighing two sets of four weights on your first use of the scale, are you?  If you do that, you'll only have one more chance left to determine which of the four weights is the light one.  But you probably already know that, right?
+!******************************!
+[h_11_2.txt]
+Maybe thinking about another example will help you out here. Imagine you have three weights, one of which is lighter than the rest.  To find the light weight, all you have to do is weigh any two of the three. If one of the weights on the scale is lighter, there's your answer. If the two weights on the scale are equal, the remaining weight is the light one.
+!******************************!
+[h_11_3.txt]
+Think about the previous hint. You can work out the light weight in a group of three with one use of the scale.  If you can narrow the number of weights in question to three in one use of the scale, you've got your answer.
+!******************************!
+[h_12_1.txt]
+Do you find yourself moving the raft back and forth only to end up with the animals back in their starting position?  Somewhere within your movements, you are doing something that restores the animals to  their original positions. When you've found that point, try to do something different  than you have thus far. It might bring you closer to the answer.
+!******************************!
+[h_12_2.txt]
+You don't necessarily have to take two animals over on every trip and then bring only one back. Sometimes you may want to bring two animals back.  For starters, try getting all three of the wolves to the right side. Then you can slowly start swapping wolves for chicks.
+!******************************!
+[h_12_3.txt]
+Let's recap the previous hint. First, get all the wolves to the right side of the river. Then, start swapping the wolves for chicks.  When you start to have too few chicks on the left bank of the river, you can bring a chick back over with a wolf to keep your remaining chick from getting eaten.
+!******************************!
+[h_13_1.txt]
+If all you want to do is get the ball to the goal, just slide things around and see what happens. However, if you're aiming to solve this puzzle in as few moves as possible, you'll have to think ahead. Remember that moving one block immobilises others.
+!******************************!
+[h_13_2.txt]
+Only blue blocks can move at the beginning. Slide the one on the right up, and then  arrange the two purple blocks underneath it in a horizontal line.  Next, move the lower yellow block over to the right. This will give you some space to work with on the left. 
+!******************************!
+[h_13_3.txt]
+If you've followed the previous hint, you should start to see the answer to the puzzle.  In order to move the yellow block that's directly beneath the ball, you're going to  have to move that green block on the left. To do that, go ahead and move the bothersome blue block out of the way.  Got it now?
+!******************************!
+[h_14_1.txt]
+This puzzle can be frustrating because it's easy to end up back where you started.  Pay special attention to difference, particularly the 1-litre difference between 5 litres and 4 litres.
+!******************************!
+[h_14_2.txt]
+If you pour the contents of the 5-litre pitcher into the 3-litre pitcher, you are left with 2 litres.  If you're aiming to isolate 4 litres, you just need to remove 1 litre from 5. To get that 1 litre, you just need to create a single litre's worth of space in another pitcher. 
+!******************************!
+[h_14_3.txt]
+If you pour the contents of the 5-litre pitcher into the 3-litre pitcher, you are left with 2 litres. Next, empty the 3-litre pitcher and pour in the 2 litres you had stored in the 5-litre pitcher.  Well, look at that! How many litres worth of space do you have left in that 3-litre pitcher now?
+!******************************!
+[h_15_1.txt]
+You can use the same strategy you used for the juice puzzle on this puzzle.  Simply shifting some milk over to one of the smaller pitchers won't get you the 5 litres you need. Pay attention to what remains when you pour some milk into the smallest pitcher.
+!******************************!
+[h_15_2.txt]
+Pour milk from the 10-litre pitcher into the 7-litre pitcher. Then take the contents of that pitcher and pour what you can into the 3-litre pitcher. This leaves you with four litres in the 7-litre pitcher. After that, return the contents of the 3-litre pitcher to the 10-litre pitcher and refill the smallest pitcher using the 7-litre pitcher. This should leave you with 1 litre in the 7-litre pitcher. Next...
+!******************************!
+[h_15_3.txt]
+Now you should have 1 litre left in your 7-litre pitcher. Empty the contents of your smallest pitcher into the 10-litre pitcher, then pour the 1 litre into the smallest pitcher. You should now have 9 litres left in your 10-litre pitcher, so pour 7 of them into the middle pitcher. Next, take your newly filled 7-litre pitcher and pour the milk into your 3-litre pitcher. You should already have 1 litre in the small pitcher, so...
+!******************************!
+[h_16_1.txt]
+It's not like you have to solve the puzzle in a limited number of moves, so go ahead and check out all the possibilities.  Here's a tip: try arranging the pieces in a way that allows for a line of symmetry between them.
+!******************************!
+[h_16_2.txt]
+The four corner spaces on the board should be left unoccupied.  The four pieces will form a perfectly symmetrical shape.
+!******************************!
+[h_16_3.txt]
+You don't need to place any pieces in the four centre squares of the board either.  Now that you've eliminated those spaces and the corner spaces, you should have a pretty good idea about where your pieces should go.
+!******************************!
+[h_17_1.txt]
+Here's a hint to get you started: place one queen in the dead centre of the board.
+!******************************!
+[h_17_2.txt]
+Once you place one piece in the board's centre, you'll only have four pieces left to place.  The remaining four pieces will surround the centre in a symmetrical shape.
+!******************************!
+[h_17_3.txt]
+Don't put any pieces in the four corner spaces of the board. You can also ignore the eight spaces directly surrounding the centre space.
+!******************************!
+[h_18_1.txt]
+This one's a bit of a puzzler, but if you check everything thoroughly, you'll find the answer sooner or later.  Don't put anything in the centre square.  Remember that you have to #rarrange the pieces so that no queen blocks another's line of movement#x. Even if you think you've got the answer, if one of your queens turns red, it means that you haven't got the placement just right yet.
+!******************************!
+[h_18_2.txt]
+One of your three queens needs to go in a corner space.
+!******************************!
+[h_18_3.txt]
+Two of your queens need to be placed within the eight squares that directly surround the centre space.
+!******************************!
+[h_19_1.txt]
+You're sure you can't think this one through by yourself?  Oh, all right. Here's a hint: leave the four corner spaces empty.
+!******************************!
+[h_19_2.txt]
+Place one queen in the space third from the top in the far-left column.  Place another queen in the far-right column, three spaces from the bottom.
+!******************************!
+[h_19_3.txt]
+One queen goes in the space one to the right of the upper-left corner.  Place another queen in the bottom row four spaces from the right.
+!******************************!
+[h_1_1.txt]
+The original shape shows the dog walking. Think about how that shape will change after the dog gets hit by the car.
+!******************************!
+[h_1_2.txt]
+Dogs walk on all four legs, but since this poor pooch isn't doing much walking anymore, the position of his legs must have changed.
+!******************************!
+[h_1_3.txt]
+The dog is probably sprawled out on the road where it got hit. To show this, you'll need to move two of his legs, or two matches. Take the two legs in the middle and bring them above.
+!******************************!
+[h_20_1.txt]
+You're an old hand at these puzzles, so why not try to solve this one on your own?  Just so you know, there are 92 possible solutions to this puzzle.
+!******************************!
+[h_20_2.txt]
+Sorry, no hints!
+!******************************!
+[h_20_3.txt]
+Hey, didn't you read Hint 2?! No hints!
+!******************************!
+[h_21_1.txt]
+There's no way around it. You just have to search the picture long and hard for the answer.  The puzzle mentions the directions left and right, so there's a good chance the hidden arrow won't point upward like the example, but sideways. 
+!******************************!
+[h_21_2.txt]
+The arrow hidden in the picture is a bit larger than the example.
+!******************************!
+[h_21_3.txt]
+Don't bother searching the left half of the sign.
+!******************************!
+[h_22_1.txt]
+There's no way around it! You're just going to have to search this picture long and hard for the answer.  Only a star with the exact shape and size as the example star will do! No defective, misshapen, or distorted stars will be accepted!
+!******************************!
+[h_22_2.txt]
+Pay special attention to the left side of the picture.
+!******************************!
+[h_22_3.txt]
+Have you tried searching the upper-left corner yet?
+!******************************!
+[h_23_1.txt]
+First, get a good, long look at the shape of the crank. How is the central axle shaped? Are the little protrusions around the edges of the crank triangular or square?  Next, look at where those funny shapes stick out on the crank.   Starting to make sense?
+!******************************!
+[h_23_2.txt]
+While you need to pay attention to the actual features of the crank and slot, you also need to remember that the shape of the slot is a mirror image of the crank.  That's right, you have to stare at the crank straight on and then look for the slot that mirrors it.
+!******************************!
+[h_23_3.txt]
+The central axle on the crank has five sides. There are three shapes attached to the main axle, one triangle and two squares.  One of the small squares sits right on top of one of the central axle's five corners, while the other two shapes sit flush on two sides of the axle.  All right, now you have everything you need. Don't forget that you need to flip the crank's shape when searching for the slot!
+!******************************!
+[h_24_1.txt]
+You can use the stylus for a whole lot more than just circling the answer, you know. Try tracing a path from any village on the map to see if it connects to any other village.  Try it a few times until you are confident you have the right answer. Then just tap the Submit icon.
+!******************************!
+[h_24_2.txt]
+Still stumped? Try tracing paths backwards, so that you start from a village and work your way back. This will make it easy for you to see if any other villages are connected to the one you selected.
+!******************************!
+[h_24_3.txt]
+Just look for the village that's not connected to any other. In other words, any village that's connected to another can't possibly be the right answer.  If you take a look at the map, you should be able to see any connections between villages with no trouble.
+!******************************!
+[h_25_1.txt]
+Can you see how the matchsticks form a  dustpan? Notice that the scoop part is pointing up in the picture.  To put the dirt "in" the dustpan, you need to arrange the matches so that the dirt is surrounded on three sides.
+!******************************!
+[h_25_2.txt]
+Let's just keep the match farthest to the left where it is. Keeping in mind that we need to surround the dirt on three sides, the topmost match in the shape starts to look ripe for rearrangement, doesn't it? Now all you need to do is work out which other match to move.
+!******************************!
+[h_25_3.txt]
+Move the match on the upper-right side of the dustpan and the match directly above the dirt.  It shouldn't be hard to determine where these need to go so that the dustpan looks like it's scooping up the dirt.
+!******************************!
+[h_26_1.txt]
+It goes without saying that if you open every valve in sight, the water will make it to the tap. To keep things simple, though, let's start near the source. It's safe to say that you'll have to open one of the three valves directly surrounding the water source.  Keep the number of valves you open in addition to this one as low as possible, and you'll have your answer.
+!******************************!
+[h_26_2.txt]
+There are three more valves positioned near the tap. Work backwards from each of these and see where they go.  Do this right, and you'll eliminate quite a few possible valves.
+!******************************!
+[h_26_3.txt]
+You really only need to open two valves.  Start from the valves near the water source and trace a route. If you don't find yourself at the tap after opening a second valve, you made a wrong turn somewhere. This theory also works in reverse.  Keep performing test runs like this and you'll find the solution.
+!******************************!
+[h_27_1.txt]
+At a glance, the picture appears to be filled with glowing objects that could well be eyes. But remember, there's only one monster attacking the village.
+!******************************!
+[h_27_2.txt]
+The monster is huge.  In fact, it's so big that it could well cover the whole of the village!
+!******************************!
+[h_27_3.txt]
+Have you figured out where the monster is going to strike from?  Look to the skies!
+!******************************!
+[h_28_1.txt]
+Think about your first move here.  If you take the wolf over first, the sheep will eat that poor, helpless cabbage.  Meanwhile, if you take the cabbage over first, the sheep will fall victim to that hungry wolf.  So now do you have a better idea about which of the three to move first?
+!******************************!
+[h_28_2.txt]
+The key to solving this puzzle is being flexible in the way you go about solving it.  Don't forget that you can bring a single creature or item with you when you return to the left bank of the river. When your cabbage or sheep is in danger, you can always bring it back with you.
+!******************************!
+[h_28_3.txt]
+The sheep should travel first. When you return to the left bank, you can bring the wolf or the cabbage with you. However, remember that no matter what you bring over next, you'll have to take something back to the left bank to keep your sheep or cabbage from being eaten.  Now you should be able to solve this puzzle with ease.
+!******************************!
+[h_29_1.txt]
+There is no one definitive way to solve this puzzle, but it's best to start by putting four weights on each side of the scale.  If the scale tips to one direction, you know that the four weights off the scale don't contain the weight you are looking for.  If the scale stays level, you know that one of the four weights you didn't load on the scale is the irregular weight.
+!******************************!
+[h_29_2.txt]
+If the scale tips after you weigh eight weights in the fashion described in Hint 1, take one set of weights off the scale and keep the other four where they are. Next, put the four unweighed weights on the empty side of the scale.  If you make it this far, all you need to do is narrow the possible choices down one more time in the next step.
+!******************************!
+[h_29_3.txt]
+If your scale doesn't tip after your second weighing as described in Hint 2, you know the odd weight is somewhere within the four weights you took off the scale. If the scale tips in the same direction as before, you know that the irregular weight is somewhere within the four weights that you kept on the scale. If it tips in the opposite direction than before, the weight you seek is one of the four you loaded on the scale before the second weighing.
+!******************************!
+[h_2_1.txt]
+If one germ becomes two, and two become four, that means that the number of germs doubles each minute.
+!******************************!
+[h_2_2.txt]
+If you start with one germ, the germ will multiply and fill the jar in one hour.  So, starting with one germ, how many will you have in one minute?  Read the problem carefully.
+!******************************!
+[h_2_3.txt]
+Let's take a step back and think.  Your answer is the amount of time it takes for two germs to fill the jar. If it takes one minute for one germ to turn into two, how much additional time is needed to fill the jar?
+!******************************!
+[h_30_1.txt]
+Only one person is lying here, so let's take a closer look at their statements.  If you assume A is lying, then A didn't eat the fish. If that's true, does it support the other two brothers' statements, or does it make someone else a liar?  Try working things out logically like this in order to find your answer.  
+!******************************!
+[h_30_2.txt]
+If B is lying, doesn't that make A's statement contradictory?  Surely by now you've realised that more than one person could have eaten this fish, right?
+!******************************!
+[h_30_3.txt]
+Here's a big hint for you.  Not one, but two uncouth individuals took part in the consumption of your fish. Think about who those two have to be.  Now that you know the truth behind what happened, look at the three brothers' statements again and see whose testimony doesn't fall in line with what you know to be true. There's your answer.
+!******************************!
+[h_31_1.txt]
+Look at the different dice shown. Now look up from your game and think for a moment. Can you think of anything in your environment that shares a strong connection to numbers?  It's something just about everyone sees on a daily basis.
+!******************************!
+[h_31_2.txt]
+Hint 1 states that the dice share a connection with an item in your environment that most people see on a daily basis. However, this item has come to take a completely different shape recently.  The newer version of this mystery item shares no connection with this puzzle.
+!******************************!
+[h_31_3.txt]
+The dice represent an object you are very familiar with.  In fact, you probably have one hanging on your wall or strapped to your wrist right now!
+!******************************!
+[h_32_1.txt]
+There's no special trick to this puzzle. You just need to be diligent and count up those coins.
+!******************************!
+[h_32_2.txt]
+Try tracing the rope with your stylus as you count up the coins. If you fill in the area that will travel upwards when the rope is taut, you should be able to get an answer without too much work.
+!******************************!
+[h_32_3.txt]
+There are 32 coins tangled in the rope. When all is said and done, you won't even pull in a third of them.
+!******************************!
+[h_33_1.txt]
+English only has 26 letters. If you try out each letter, you're bound to come across the solution eventually.
+!******************************!
+[h_33_2.txt]
+The puzzle talks about one object being #r1,000 times#x another. Perhaps this phrase relates to size in some way?
+!******************************!
+[h_33_3.txt]
+This puzzle deals with #runits#x. Can you think of any letters used to indicate measurements of length?
+!******************************!
+[h_34_1.txt]
+At its core, this is a simple maths problem, so you're just going to have to work it out if you want to solve it. However, there is a way to cut down on the amount of work you need to do. Try thinking about the first and last digits for each number.  The leftmost digit in the upper number is "4". 
+!******************************!
+[h_34_2.txt]
+There are two possible solutions, but some digits are located in the same place for both answers. For example, for both solutions, "7" is the leftmost digit of the bottom number.
+!******************************!
+[h_34_3.txt]
+This is the last hint you're going to get.  For the top number, going from the left, the first three digits are "4", "1", and "2".
+!******************************!
+[h_35_1.txt]
+It helps to think about how a chain is formed.  To make a chain, you need one ring on each end. Each ring between these two end rings will be connected to two other rings. If any of the rings are connected to three or more other rings, there's no way a chain can form.
+!******************************!
+[h_35_2.txt]
+Two rings make up the ends of the chain. Which two rings here look like they could be ends?  Remember, end rings are each connected to one other ring.
+!******************************!
+[h_35_3.txt]
+Two rings make up the ends of the chains. If you study the picture closely, you can see that the F ring is only connected to one other ring, the E ring.  Meanwhile, the other end ring is the A ring.  So, which ring should you cut?
+!******************************!
+[h_36_1.txt]
+Remember, you want to find the person who ate the sausages, not the people who are lying.  To attack problems like these, go through your list of potential thieves, assume that each one is guilty, and see which statements fit in each case.  That should get you started. Good luck!
+!******************************!
+[h_36_2.txt]
+If you have chosen the right person, then three of the four boys' statements should be false. On the other hand, if only two of the four boys' statements turn out to be lies, you haven't found the thief yet.  Here's another valuable piece of information: only one person ate the sausages.
+!******************************!
+[h_36_3.txt]
+All right, after this hint, you'll probably be able to guess the answer without thinking, but here we go.  A and B are lying.  Keep that information in mind and you should have your answer in no time.
+!******************************!
+[h_37_1.txt]
+Does the order in which you light the items matter? Of course it does!  Think about the item #ryou have to light first#x.
+!******************************!
+[h_37_2.txt]
+Your answer should be the item that, once lit, lets you perform your other tasks.  Without lighting this, #ryou won't be able to take care of anything else#x.
+!******************************!
+[h_37_3.txt]
+This puzzle is devious in its simplicity.  Just think about the situation logically and you'll have your answer.
+!******************************!
+[h_38_1.txt]
+You may be thinking there's going to be a lot of bothersome calculation involved in solving this puzzle, but you don't need to do anything complicated to find the answer.  Read the problem over carefully.
+!******************************!
+[h_38_2.txt]
+Do you remember how many mice you started with? Have you considered how many mice you can expect, given that number?
+!******************************!
+[h_38_3.txt]
+OK, let me spell it out for you. You need your mouse to become pregnant before it will give birth. What does the mouse need in order to become pregnant?
+!******************************!
+[h_39_1.txt]
+Someone in a hurry might jump to the conclusion that you need to find the lowest common multiple between the three numbers.    Read the problem over again and see if you can't clear things up for yourself.
+!******************************!
+[h_39_2.txt]
+The three horses each run at different speeds. To measure the horses' speeds, the problem tells you how many laps each horse can do #rin one minute#x.  The horses all run whole laps per minute, so at least you don't have to deal with strange speeds.
+!******************************!
+[h_39_3.txt]
+One horse runs two laps in one minute, one runs three laps in one minute, and one runs four laps in one minute.  Where will the horses be one minute after they start running?
+!******************************!
+[h_3_1.txt]
+To draw the smaller, four-triangle shape, you actually only need to draw three triangles. To see for yourself, trace the shape on the Touch Screen.  Notice how the middle triangle (Triangle 3) in this shape is actually made up of the sides of the other triangles?
+!******************************!
+[h_3_2.txt]
+The puzzle describes the shape on the left as made up of four triangles. However, you could also say that this same shape is made up of three upward-pointing triangles.  Try applying this way of thinking to the larger shape. Just how many triangles does it take to make this shape?
+!******************************!
+[h_3_3.txt]
+If you only count the number of upward- pointing triangles in the large triangle, you'll get a total of 21.  You can draw three upward-pointing triangles with one dip into the ink, so...
+!******************************!
+[h_40_1.txt]
+Don't just pick an answer based on what you see on the screen.  If this puzzle could be solved with a quick glance at the screen, it wouldn't be much of a puzzle, now would it?  The human eye perceives vertical and horizontal length differently. 
+!******************************!
+[h_40_2.txt]
+B is certainly not the hat you are looking for.
+!******************************!
+[h_40_3.txt]
+D isn't the right hat either.
+!******************************!
+[h_41_1.txt]
+Maybe you looked at the diagram and realised that the triangle formed by points A, B, and C is a right-angled triangle.  That's sharp thinking and exactly right. However, are you sure there isn't a much easier way to find the answer?
+!******************************!
+[h_41_2.txt]
+You don't need the Pythagorean theorem to answer this one. Something else in the diagram should be the exact same length as AC.
+!******************************!
+[h_41_3.txt]
+Notice that diagonal line AC within the rectangle is the same size as the diagonal line BD.  Have you also noticed that BD is also the same length as another part of this diagram?
+!******************************!
+[h_42_1.txt]
+The key to this puzzle is in knowing where to look. The detail that distinguishes the one picture from the rest has something to do with the cards, that much is for sure. It's not the number of cards, though, because each picture has five cards. 
+!******************************!
+[h_42_2.txt]
+Each card is marked with one of four suits, and each set of cards is oriented in a different direction. Try to track the relative shift in movement for every card in the picture. 
+!******************************!
+[h_42_3.txt]
+Still stuck, huh?  Here's a big hint. Look at how the cards are stacked on top of each other. Pay special attention to how each card overlaps with the middle card for your answer.
+!******************************!
+[h_43_1.txt]
+You need to visit each island once, but that doesn't mean that you have to cross every bridge to do so.
+!******************************!
+[h_43_2.txt]
+Try setting out from the start point and  just proceeding on your merry way. If you come across an island you simply can't get to, you may have just stumbled upon your answer.
+!******************************!
+[h_43_3.txt]
+Examine the area around the middle of the island cluster closely.
+!******************************!
+[h_44_1.txt]
+Each picture should be composed of lines that meet at different points.  With these pictures, if you find a single line that runs out beyond the others, you know you have to start your drawing there.  Try tracing the answer out yourself.
+!******************************!
+[h_44_2.txt]
+Some points may be the convergence point for several lines. You need to think hard about which line to take in and out of the point in order to make the sketches work.  If your pen is entering a point formed by an even number of lines, you will always be able to leave the point via another line.
+!******************************!
+[h_44_3.txt]
+One of the familiar objects below can't be drawn as a one-line puzzle.  You'd be surprised by how easily some of the more complicated pictures can be drawn in one stroke.
+!******************************!
+[h_45_1.txt]
+If the man wants to indicate the order in which he needs to take his pills, he just needs to write a number on each of the 10 pills.  While that's true, the bare minimum of numbers he needs to write is fewer than 10. Think about how he can accomplish this.
+!******************************!
+[h_45_2.txt]
+When you have two visually identical items, you only need to mark one of them. Therefore, you don't need to mark all of the pills in order to tell them apart.
+!******************************!
+[h_45_3.txt]
+Keep in mind that the man must start taking his pills today. In fact, he's going to start by taking the pill right in front of him.  If that's the case, does he really need to mark which pill he's going to take today?
+!******************************!
+[h_46_1.txt]
+If you're persistent in your efforts, you'll eventually get the ball to the hole, but there are tricks to streamline the process.  The large block in the puzzle is relatively limited in range of movement, so you're going to have to do more work with the smaller and more manoeuvrable blocks. If you focus on them and plan out a route, things should go smoothly.
+!******************************!
+[h_46_2.txt]
+There is no set solution to this problem.  Here's one way to start out. Move the lower-left purple blocks, then slide the lower blue block to the left. Next, drop the green block on the right down.  The rest is up to you.
+!******************************!
+[h_46_3.txt]
+If you move the green block on the right down, you can fill the space you create with a purple block from the right. If you can pull that off, you'll be able to move the blue block in the upper left, which will allow you to move the red ball out of its slot.  It may seem complicated, but give it a try.
+!******************************!
+[h_47_1.txt]
+It sounds convoluted, but take another look at what's been presented.  #r"I'm as old as your age, plus half of my age."#x  This means that if you take away half of the father's age, you'll have the age of the son.  As you already know, the son is 22.
+!******************************!
+[h_47_2.txt]
+What the father is essentially saying here is that if you add #rhalf of his age#x to the #rson's  age#x, you'll get the father's age.  If that's the case, the son's age must be half of the father's age.
+!******************************!
+[h_47_3.txt]
+As stated in Hint 2, half of the father's age is equal to the son's age. To put it another way, the father's age is two times that of his son.
+!******************************!
+[h_48_1.txt]
+This puzzle is about conditions. Ask yourself: what if Jim were A? What if he were B? Start with a possible answer and see if it fits the conditions of the question.
+!******************************!
+[h_48_2.txt]
+Steve and Mike are next to each other. In other words, they are one of the groups AB, BC or CD.
+!******************************!
+[h_48_3.txt]
+Combine the information in the second hint with the fact that Tom is above Steve.  You can then add the information that Jim is not next to Tom, so...
+!******************************!
+[h_49_1.txt]
+You may think all you have to do is add a few things up, but there's a trick to this problem that's easy to overlook.  Think about the way Ferris wheels have to work. If two people catch the first ride of the day, how much time will pass before they get off the ride?
+!******************************!
+[h_49_2.txt]
+If the wheel has to stop promptly at 10:30, then the operator won't allow anyone on who can't get off the Ferris wheel by 10:30.  So what does that mean? It means that when two passengers step out of their car at 10:30, all other cars on the Ferris wheel should be empty as well.
+!******************************!
+[h_49_3.txt]
+The first pair of people to board the Ferris wheel at 10:00 will get off the ride 10 minutes later. Since the ride itself takes 10 minutes, no one will get off until 10:10. Then, from 10:10 until shutdown at 10:30, people will get off the ride at a rate of two per minute. Calculate the number of people coming off the ride and you'll have your answer, but be careful, because it's easy to make a mistake.
+!******************************!
+[h_4_1.txt]
+To face the morning sun, one must, of course, look eastward. The map shows north pointing towards the top of the screen, so which direction indicates east?
+!******************************!
+[h_4_2.txt]
+The rising sun comes from the east. On this map, that means it comes from the right.  Therefore, if you follow the directions, you should be facing to the right after you take your last turn.
+!******************************!
+[h_4_3.txt]
+Trying to follow the directions from each house only complicates matters. Instead, why not follow the directions in reverse? Needless to say, going backwards means the directions you turn will reverse as well.  Start by facing right, then head left down  the road, then take a left, then another left...
+!******************************!
+[h_5_1.txt]
+The total rise in water level each day is 40cm, just as the puzzle says.  But if you think about it, isn't there an important point missing?  Yes, you're on the right track now.
+!******************************!
+[h_5_2.txt]
+In 8 hours starting at 9am - in other words, until 5pm - water enters the tank and the water level rises by 60cm.  For the next 16 hours, water leaks out of the tank, bringing the water level down by 20cm.
+!******************************!
+[h_5_3.txt]
+At 5pm on day 1, the water level is 60cm. At 9am on day 2, it's 40cm. At 5pm on day 2, 1m. At 9am on day 3, 80cm. At 5pm on day 3, 1.4m. At 9am on day 4, 1.2m.  Notice anything?
+!******************************!
+[h_6_1.txt]
+I'm sure you've already counted the roof and chimney of the little house. Haven[[3C]]9[[3E]]t you?
+!******************************!
+[h_6_2.txt]
+There are some triangles hidden inside the giant star.
+!******************************!
+[h_6_3.txt]
+Five of the triangles inside the giant star are easy to find. But there are more...
+!******************************!
+[h_7_1.txt]
+Five cats can catch five mice in five minutes.  If there were 10 mice running around, how long would it take for those same five cats to catch them?
+!******************************!
+[h_7_2.txt]
+Remember, this puzzle isn't asking how much time it takes to catch 100 mice.  Read the problem again. The wording makes it easy to forget what you are really looking for.
+!******************************!
+[h_7_3.txt]
+Let's rethink this from the start. Five cats can catch five mice in five minutes. So, in 10 minutes, they can catch 10 mice. In 20 minutes, they can catch 20 mice.  How many cats are doing the catching? 
+!******************************!
+[h_8_1.txt]
+It may seem straightforward, but it wouldn't be a puzzle if there wasn't a trick to it. Read the problem over again.  The problem wants to know how many candles you "have left in the end".
+!******************************!
+[h_8_2.txt]
+The wind blows out two candles, and then shortly afterwards blows out one more. So how many candles are extinguished?  The candles that aren't extinguished by the wind continue to burn. What will happen to these candles if they are allowed to keep burning?
+!******************************!
+[h_8_3.txt]
+Think critically about what "have left in the end" really means. It means that an item continues to exist, doesn't it? So, what becomes of a burning candle when it's left alone?
+!******************************!
+[h_9_1.txt]
+If you flipped the position of the base and the top rows of the triangle, it would point in the opposite direction. But moving the top rows of the triangle requires you to move six coins.  Why don't you try to move the base row? 
+!******************************!
+[h_9_2.txt]
+You don't really think it's impossible to flip the triangle by moving three coins, do you?!  Come on now!  Think about it. You can only move three coins. You're dealing with a three-sided shape. This couldn't be a coincidence, now could it?
+!******************************!
+[h_9_3.txt]
+There are three corners on a triangle. Since the triangle pictured here is pointing upward, only one corner points upward. The other two corners point downward.  You are trying to reverse the direction of the triangle, so why not focus on rearranging the corners?
+!******************************!
+[q_1.txt]
+The matches below are arranged in the shape of a dog. This poor little doggy was just minding his own business when a car came barrelling down the road and ran him over.  Move two matches to change the picture so that it shows the dog after the accident.  All puzzles are a matter of perspective, so don't assume that you'll be looking at the dog from the side by the time you're finished with this one.
+!******************************!
+[q_10.txt]
+Draw a path between each man's home and his work by connecting matching blocks.  The catch is that these men can't stand each other, so you have to make sure that none of the paths touch.  To make a path, all you need to do is tap a block and start drawing.
+!******************************!
+[q_11.txt]
+Here we have eight small weights that all look the same. However, one of the weights in the group is slightly lighter than the rest.  Using this scale two times, you can find out which of these weights is #rlighter#x than the rest.  So, which weight is the #rlight#x one?
+!******************************!
+[q_12.txt]
+Get the three wolves and three chicks seen below to the other side of the river while obeying the following conditions: -No more than two animals can ride the raft at the same time. -There must be at least one animal on the raft in order for it to move. -If more wolves than chicks stay on either side of the river, the wolves will eat the chicks and you'll have to start over.  You can move the raft as many times as you like, but this feat can be accomplished in as few as 11 moves.
+!******************************!
+[q_13.txt]
+Can you get the red ball out of the maze?  Slide obstructing blocks out of the way to clear a path for the ball.  This problem can be solved in as few as 12 moves.
+!******************************!
+[q_14.txt]
+Here we have an 8 litre pitcher filled with juice, an empty 5 litre pitcher and an empty 3 litre pitcher.  The pitchers are unmarked, and your task is to #rdivide the 8 litres#x of juice so that both the #r5 litre pitcher and the 8 litre pitcher are each holding exactly 4 litres#x of juice. 
+!******************************!
+[q_15.txt]
+Here we have a 10 litre pitcher full of milk, an empty 7 litre pitcher and an empty 3 litre pitcher.  The pitchers are unmarked, and your task is to #rdivide the 10 litres#x of milk so that both the #r10 litre pitcher and the 7 litre pitcher are each holding exactly 5 litres#x.
+!******************************!
+[q_16.txt]
+In chess, the queen can move the full length of the board diagonally, vertically, and horizontally.  See if you can place four queens on this 4x4 chessboard. There's a catch though! You must arrange the pieces so that no queen blocks another's line of movement.  Good luck!
+!******************************!
+[q_17.txt]
+In chess, the queen can move the full length of the board diagonally, vertically, and horizontally.  See if you can place five queens on this 5x5 chessboard. There's a catch though! You must arrange the pieces so that no queen blocks another's line of movement.
+!******************************!
+[q_18.txt]
+In chess, the queen can move the full length of the board diagonally, vertically, and horizontally.  Let's try something a little different this time. See if you can #rarrange three queens on this 5x5 chessboard so that no more pieces can be placed on the board#x. Make sure you #rplace the pieces so that no queen blocks another's line of movement#x.
+!******************************!
+[q_19.txt]
+In chess, the queen can move the full length of the board diagonally, vertically, and horizontally.  You have three queens positioned on an 8x8 chessboard. Place the remaining five queens on the board so that no piece blocks another's line of movement.  This is a tough one!
+!******************************!
+[q_2.txt]
+A glass jar holds a single germ. After one minute, the germ splits into two germs. One minute after that, the two germs each split again, forming a total of four germs.<@w> Continuing at this rate, a single germ can multiply to fill the whole jar in exactly one hour.  Knowing this, how long in minutes would it take to fill the jar if you had started with two germs?
+!******************************!
+[q_20.txt]
+In chess, the queen can move the full length of the board diagonally, vertically, and horizontally.  So, here we are. This is the big one. See if you can place eight queens on this 8x8 chessboard. The rules are the same as before: don't let any piece block another's line of movement.
+!******************************!
+[q_21.txt]
+The path you are on forks to the left and right in front of the sign seen below. Your gut instinct tells you that this sign reveals the direction you need to go.  Find an arrow within the picture like the yellow one on the side of the board. When you find it, draw a line around it as neatly as possible.  Keep in mind that the arrow you are searching for may not be the same size as the one pictured below.
+!******************************!
+[q_22.txt]
+A star the same shape and size as the one shown on the right is hidden somewhere in this picture. Trace its outline below.
+!******************************!
+[q_23.txt]
+There's no way to lower the bridge and get across without inserting the crank into the correct slot!  Choose the slot that fits the crank shown below.
+!******************************!
+[q_24.txt]
+"My village is on a road that leads to no other village. I look forward to seeing you there."  Use your stylus to draw a circle around the right village, then touch Submit.
+!******************************!
+[q_25.txt]
+As you can see, what we've got here is some dirt and a dustpan made of matchsticks.  Can you move two matchsticks and change the picture so that the dustpan is holding the dirt?
+!******************************!
+[q_26.txt]
+You need to wash your face, but all 13 water valves in the pipes are shut tight. You must open the valves to get the water flowing to your sink.  Closed valves are marked A, open valves B. Touch a valve to open or close it.  So here's your challenge. Direct the water all the way to the tap by opening #ras few valves as possible#x.
+!******************************!
+[q_27.txt]
+Oh, no! The village is in grave peril!  As you read this, a fearsome monster is launching an attack on St Mystere! Ward off the beast by stabbing it in the eye! And for goodness' sake, HURRY!
+!******************************!
+[q_28.txt]
+Help Stachenscarfen move the wolf, sheep and cabbage from one side of the river to the other while obeying the following rules. -In addition to its captain, the raft can only support one animal or item at once. -When Stachenscarfen isn't near, the wolf will eat the sheep and you'll have to start over. -The sheep will eat the cabbage when Stachenscarfen isn't around. If you let the sheep have its way, you'll have to start over.  You can shuttle the raft back and forth as many times as you like, but the shortest solution takes seven moves.
+!******************************!
+[q_29.txt]
+Below are 12 weights that are visually identical to one another. Among these is a single weight that #rhas a different weight from the others#x. The problem is that #ryou don't know whether this weight is heavier or lighter#x than the others.  Use the scales exactly three times to determine which weight is different from the others.
+!******************************!
+[q_3.txt]
+Here are two shapes, one large and one small. Each is made up of little triangles.  Dipping your fountain pen into the ink #rone time#x gives you just enough ink to draw #rfour little triangles#x, as depicted by the shape on the left.  So, with that in mind, #rhow many times#x do you have to dip your pen in the ink in order to draw the shape on the right that's made up of #r36 triangles#x? 
+!******************************!
+[q_30.txt]
+When you weren't looking, someone came by and gobbled up your fish dinner. The three brothers near the scene of this dastardly crime had this to say:  A: "Me? Oh yeah, I ate it. It was nice too!" B: "I saw A eat that fish right up!" C: "B and I didn't eat that fish."  #rOne of these three brothers is lying to you#x, but which one is it?
+!******************************!
+[q_31.txt]
+The dice below look normal enough, but if you look carefully, there is a pattern.  You know the following:  A = 0 B = 9 C = 6  So what does D correspond to?
+!******************************!
+[q_32.txt]
+A rope and coins are arranged as shown below. As you pull the ends of the rope out to the left and right, the rope will draw taut and push the coins to either side.  Assuming you only get to keep the coins that end up on the top half of the rope, how many coins will you have? 
+!******************************!
+[q_33.txt]
+What on earth is this message getting at? The following is written on a piece of paper you picked up:  "_ is 1,000 times __"  To turn this strange message into a proper sentence, all you need to do is fill in the blank spaces with #ra single letter of the alphabet#x. But what letter could it be?  You'll need to use the same letter for all three blank spaces.  
+!******************************!
+[q_34.txt]
+Use each of the numbers one to nine exactly once to fill in the blanks and complete this equation.  ooooo - oooo = 33333
+!******************************!
+[q_35.txt]
+Below are six linked rings.  They may look like a tangled mess, but there is one ring that, if cut away, would leave the remaining five rings connected end to end in a long chain.  Which one must you cut in order to make the chain? Choose one answer from below.
+!******************************!
+[q_36.txt]
+Somebody ate the butcher's sausages! Here's what these four boys have to say:  A: "B ate the sausages!" B: "D ate them all up!" C: "I didn't eat them!" D: "B is lying!"  Only #rone of these rascals is telling the truth#x and all the others are, needless to say, lying. Can you work out #rwho ate the sausages#x?
+!******************************!
+[q_37.txt]
+You have only one match left.  You want to light the room with an oil lamp, start a fire to warm the room, and heat your bathwater.  In order to complete all of the above actions, what should you light first?
+!******************************!
+[q_38.txt]
+Mice are famous for their ability to multiply at breakneck speeds. The type of mouse we have here gives birth once a month, birthing 12 babies each time. Baby mice mature and can give birth two months after they are born.  You picked up one of these darling baby mice at the pet shop and brought it home the day after it was born. In 10 months from now, how many mice will you have?
+!******************************!
+[q_39.txt]
+The distance three racehorses can run around the racetrack in one minute is listed below.  Horse A: Two laps Horse B: Three laps Horse C: Four laps  The horses line up at the starting line and start running in the same direction. How many minutes will pass before #rall three horses line up at the starting line again#x? 
+!******************************!
+[q_4.txt]
+Can you find my house?  Go out the front door of my place and turn left. At the first junction you come across, take a right. Turn right again at the following junction, and you'll come face- to-face with the morning sun.  Circle my house.
+!******************************!
+[q_40.txt]
+These four top hats are all the same height, but the length of each brim is different. In other words, the hats are equally tall but vary in width.  One of these four hats has a brim and height that are the same length. Which hat is it?
+!******************************!
+[q_41.txt]
+As shown in the diagram below, you have a quarter of a circle. Within this circle is rectangle ABCD, which touches the edge of the circle at point D.  Assuming that point B is located at the centre of the circle, how long is diagonal line AC?
+!******************************!
+[q_42.txt]
+Three of the four images shown below are the exact same picture rotated in a variety of ways. Can you find the odd one out?
+!******************************!
+[q_43.txt]
+Here is an overhead view of a cluster of tropical islands. As you travel from A to B, your objective is to visit every island exactly once. The island folk say this can be accomplished with the addition of a single, straight bridge.   The only other rule is that your bridge can't cross over any pre-existing bridge. So, where should your bridge go?
+!******************************!
+[q_44.txt]
+Have you heard of one-line puzzles? The idea is to place your pen to paper and draw a shape without lifting your pen from the paper or retracing any part of the line. You can, however, cross lines.  Now that you're familiar with the concept, look at the four pictures below. One of them cannot be drawn with one line.  Which one is it?
+!******************************!
+[q_45.txt]
+A man has been prescribed 10 pills. Starting today, he must take one pill a day, but because the concentration of the medicine is different in each pill, he must take them in a specific order. Since the pills all look the same, the man has decided to write numbers on each pill to help him remember the order in which he needs to take them.  How many pills does he have to number if he wants to keep track of the order?
+!******************************!
+[q_46.txt]
+This perplexing door has a device on it that contains a small red ball in the upper-left corner. If you #rguide the ball to the hole in the lower right, it looks like the door might open#x.  Slide blocks out of the way and move the ball to the hole.  The shortest possible route has 21 moves.
+!******************************!
+[q_47.txt]
+A father and son are chatting when the son poses this question: "Dad, I'm 22 now, but just how old are you?"  The father replies, "You want to know how old I am, eh? Hmm, well, I tell you what. I'm as old as your age, plus half of my age."  How old is the father?
+!******************************!
+[q_48.txt]
+Jim, Mike, Steve and Tom are standing on the stairs. You know the following about them:  1. Jim and Tom are not next to each other. 2. Steve and Mike are one step apart. 3. Tom is on a higher step than Steve.  So, which of A, B, C and D is Jim?
+!******************************!
+[q_49.txt]
+There are 10 two-seater cars attached to the fair's Ferris wheel. The Ferris wheel turns so that one car rotates through the exit platform every minute.  The wheel began operation at 10am and shut down 30 minutes later. What's the maximum number of people that could have taken a ride on the wheel in that time period?
+!******************************!
+[q_5.txt]
+A 2.5m deep water tank has water poured into it for 8 hours, starting at 9am. The water level rises by 60cm in this time. However, it seems that water is leaking out again at night, because the next morning the water level has dropped by 20cm. If the water level continues to rise 40cm a day in this way, on what day will the tank first overflow?
+!******************************!
+[q_6.txt]
+Look, a giant star in the night sky!  How many triangles can you find in the picture?  Be sure to count overlapping triangles separately.
+!******************************!
+[q_7.txt]
+Five cats can catch five mice in five minutes.  With that in mind, how many cats does it take to catch 100 mice in 100 minutes?
+!******************************!
+[q_8.txt]
+Ten candles stand burning in a dining room. A strong breeze blows in through an open window and extinguishes two of them. Checking back in on the candles later, you see that one more candle has gone out. To make sure no more flames go out, you shut the window. Assuming the wind doesn't extinguish any more candles, how many candles do you have left in the end?
+!******************************!
+[q_9.txt]
+In the drawing below, 10 coins are arranged to form an equilateral triangle.<@w>  The triangle is pointing up right now, but can you get it to point down by moving three of the coins?
+!******************************!
+[t_1.txt]
+One Poor Pooch
+!******************************!
+[t_10.txt]
+Unfriendly Commute
+!******************************!
+[t_11.txt]
+Light Weight
+!******************************!
+[t_12.txt]
+Wolves and Chicks
+!******************************!
+[t_13.txt]
+Get the Ball Out! 1
+!******************************!
+[t_14.txt]
+Juice Pitchers
+!******************************!
+[t_15.txt]
+Milk Pitchers
+!******************************!
+[t_16.txt]
+Too Many Queens 1
+!******************************!
+[t_17.txt]
+Too Many Queens 2
+!******************************!
+[t_18.txt]
+Too Many Queens 3
+!******************************!
+[t_19.txt]
+Too Many Queens 4
+!******************************!
+[t_2.txt]
+Bottle Full of Germs
+!******************************!
+[t_20.txt]
+Too Many Queens 5
+!******************************!
+[t_21.txt]
+Which Way?
+!******************************!
+[t_22.txt]
+Find a Star
+!******************************!
+[t_23.txt]
+The Crank and Slot
+!******************************!
+[t_24.txt]
+Where's the Village?
+!******************************!
+[t_25.txt]
+Of Dust and Dustpan
+!******************************!
+[t_26.txt]
+Wash Up
+!******************************!
+[t_27.txt]
+Monster!
+!******************************!
+[t_28.txt]
+Over the River
+!******************************!
+[t_29.txt]
+Heavier or Lighter?
+!******************************!
+[t_3.txt]
+Triangles and Ink
+!******************************!
+[t_30.txt]
+Fish Thief
+!******************************!
+[t_31.txt]
+Strange Dots
+!******************************!
+[t_32.txt]
+Spare Change
+!******************************!
+[t_33.txt]
+1,000 Times
+!******************************!
+[t_34.txt]
+33333!
+!******************************!
+[t_35.txt]
+Cut Which One?
+!******************************!
+[t_36.txt]
+Sausage Thief
+!******************************!
+[t_37.txt]
+Light Which One?
+!******************************!
+[t_38.txt]
+Too Many Mice
+!******************************!
+[t_39.txt]
+Racetrack Riddle
+!******************************!
+[t_4.txt]
+Where's My House?
+!******************************!
+[t_40.txt]
+Strange Hats
+!******************************!
+[t_41.txt]
+Arc and Line
+!******************************!
+[t_42.txt]
+Five-Card Shuffle
+!******************************!
+[t_43.txt]
+Island Hopping
+!******************************!
+[t_44.txt]
+One-Line Puzzle 1
+!******************************!
+[t_45.txt]
+Pill Prescription
+!******************************!
+[t_46.txt]
+Get the Ball Out! 4
+!******************************!
+[t_47.txt]
+Father's Age
+!******************************!
+[t_48.txt]
+On the Stairs
+!******************************!
+[t_49.txt]
+Ferris Wheel Riddle
+!******************************!
+[t_5.txt]
+Leaky Tank
+!******************************!
+[t_6.txt]
+Star in the Sky
+!******************************!
+[t_7.txt]
+Cats and Mice
+!******************************!
+[t_8.txt]
+How Many Are Left?
+!******************************!
+[t_9.txt]
+Equilateral Triangle
+!******************************!
